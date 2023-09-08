@@ -1,7 +1,7 @@
 # Variations
 
 === Variations ===
-Contributors: Tyler
+Contributors: Tyler Moore
 Requires at least: 6.0
 Tested up to: 6.3.1
 Requires PHP: 5.7
