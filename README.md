@@ -19,7 +19,7 @@ This is a theme
 
 == Copyright ==
 
-Variations is based on Twenty Twenty-Three Yes (https://wordpress.org/themes/twentytwentythree), (C) the WordPress team, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
+Variations is based on Twenty Twenty-Three (https://wordpress.org/themes/twentytwentythree), (C) the WordPress team, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
 
 Twenty Twenty-Three WordPress Theme, (C) 2022-2023 WordPress.org
 Twenty Twenty-Three is distributed under the terms of the GNU GPL.
