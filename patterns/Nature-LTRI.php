@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Nature Left Text Right Image
- * Slug: variations/left-text-right-image
+ * Slug: variations/nature-ltri
  * Categories: featured
  */
 ?>
