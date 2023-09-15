@@ -1,5 +1,3 @@
-# Variations
-
 === Variations ===
 Contributors: Tyler Moore
 Requires at least: 6.0

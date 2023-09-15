@@ -16,6 +16,13 @@
 			"title": "Blog (Alternative)"
 		},
 		{
+			"name": "regular-page",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page (Regular)"
+		},
+		{
 			"name": "404",
 			"postTypes": [
 				"page"

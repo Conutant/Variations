@@ -23,7 +23,8 @@ body .has-background {
  */
 
 /* block: "core/group" */
-body .wp-block-template-part .is-position-sticky {
+body header.wp-block-template-part:has( + div .wp-block-cover:first-child) .is-position-sticky,
+body header.wp-block-template-part:has( + .wp-block-cover) .is-position-sticky {
     position: absolute;
     width: 100%;
     z-index: 2;

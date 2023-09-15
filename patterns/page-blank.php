@@ -1,3 +1,10 @@
+<?php
+/**
+ * Title: Blank Page
+ * Slug: variations/page-blank
+ * Categories: blankpage
+ */
+?>
 <!-- wp:cover {"url":"https://eh.gowebexperts.com/wp-content/uploads/2023/09/bg.png","id":10,"dimRatio":0,"minHeight":90,"minHeightUnit":"vh","contentPosition":"center center","isDark":false,"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-cover alignfull is-light" style="min-height:90vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="https://eh.gowebexperts.com/wp-content/uploads/2023/09/bg.png" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
 <h2 class="wp-block-heading has-text-align-center">Add a Subheading</h2>
@@ -108,8 +115,7 @@
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"},"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|30"},"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}}} -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"},"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|30"},"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-columns alignwide" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column {"verticalAlignment":"center","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
 <h2 class="wp-block-heading" style="margin-top:0;margin-bottom:0">About Heading</h2>
@@ -131,8 +137,7 @@
 <figure class="wp-block-image size-full"><img src="https://eh.gowebexperts.com/wp-content/uploads/2023/09/About-1024x812-1.png" alt="" class="wp-image-9"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
+<!-- /wp:columns -->
 
 <!-- wp:cover {"url":"https://eh.gowebexperts.com/wp-content/uploads/2023/09/bg.png","id":10,"dimRatio":0,"minHeight":450,"minHeightUnit":"px","contentPosition":"center center","isDark":false,"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"600px"}} -->
 <div class="wp-block-cover alignfull is-light" style="margin-top:0;margin-bottom:0;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="https://eh.gowebexperts.com/wp-content/uploads/2023/09/bg.png" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
