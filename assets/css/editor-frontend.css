@@ -1,0 +1,30 @@
+/**
+ * This file contains styles for the editor and frontend
+ *
+ * @package Variations
+ *
+ */
+
+/*
+ * Common rules.
+ */
+
+.wp-site-blocks>*+* {
+    margin-block-start: 0 !important;
+}
+
+/* .has-background padding:unset */
+body .has-background {
+    padding: unset;
+}
+
+/*
+ * Core blocks customization.
+ */
+
+/* block: "core/group" */
+body .wp-block-template-part .is-position-sticky {
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+}
