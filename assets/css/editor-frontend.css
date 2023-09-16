@@ -18,6 +18,11 @@ body .has-background {
     padding: unset;
 }
 
+.entry-content {
+    padding-top: var(--wp--preset--spacing--50);
+    padding-bottom: var(--wp--preset--spacing--50);
+}
+
 /*
  * Core blocks customization.
  */
@@ -28,4 +33,9 @@ body header.wp-block-template-part:has( + .wp-block-cover) .is-position-sticky {
     position: absolute;
     width: 100%;
     z-index: 2;
+}
+body header.wp-block-template-part:has( + div .wp-block-cover:first-child) + .entry-content,
+body header.wp-block-template-part:has( + .wp-block-cover) + .entry-content {
+    padding-top: unset;
+    padding-bottom: unset;
 }

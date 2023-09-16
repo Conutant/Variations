@@ -10,15 +10,15 @@
 <div class="wp-block-columns alignwide" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":174,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://nowitsonline.com/wp-content/uploads/2023/09/Service-1-min.jpg" alt="" class="wp-image-174" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/services/Service-1-min.jpg' ); ?>" alt="" class="wp-image-174" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","level":4} -->
-<h4 class="wp-block-heading has-text-align-left">Web Design</h4>
+<h4 class="wp-block-heading has-text-align-left"><?php printf( esc_html__( '%s', 'variations' ), __( 'Web Design', 'variations' ) ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Custom web design for small businesses, we help you capture new audiences and increase your sales.</p>
+<p><?php printf( esc_html__( '%s', 'variations' ), __( 'Custom web design for small businesses, we help you capture new audiences and increase your sales.', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -26,15 +26,15 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":175,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://nowitsonline.com/wp-content/uploads/2023/09/Service-2-min.jpg" alt="" class="wp-image-175" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/services/Service-2-min.jpg' ); ?>" alt="" class="wp-image-175" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","level":4} -->
-<h4 class="wp-block-heading has-text-align-left">Graphic Design</h4>
+<h4 class="wp-block-heading has-text-align-left"><?php printf( esc_html__( '%s', 'variations' ), __( 'Graphic Design', 'variations' ) ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Logos, merchandise and more. Anyone can create nice graphics. We think it’s better to create memorable ones.</p>
+<p><?php printf( esc_html__( '%s', 'variations' ), __( 'Logos, merchandise and more. Anyone can create nice graphics. We think it’s better to create memorable ones.', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -42,15 +42,15 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":176,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://nowitsonline.com/wp-content/uploads/2023/09/Service-3-min.jpg" alt="" class="wp-image-176" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/services/Service-3-min.jpg' ); ?>" alt="" class="wp-image-176" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","level":4} -->
-<h4 class="wp-block-heading has-text-align-left">Content Creation</h4>
+<h4 class="wp-block-heading has-text-align-left"><?php printf( esc_html__( '%s', 'variations' ), __( 'Content Creation', 'variations' ) ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Want to attract people to your website?&nbsp; You have to have the best content in the world. That’s what we do.</p>
+<p><?php printf( esc_html__( '%s', 'variations' ), __( 'Want to attract people to your website?&nbsp; You have to have the best content in the world. That’s what we do.', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
