@@ -24,10 +24,10 @@ body .has-background {
 }
 
 /*
- * Core blocks customization.
+ * Page templates customization.
  */
 
-/* block: "core/group" */
+/* Prepare the page for cover block */
 body header.wp-block-template-part:has( + div .wp-block-cover:first-child) .is-position-sticky,
 body header.wp-block-template-part:has( + .wp-block-cover) .is-position-sticky {
     position: absolute;
@@ -38,4 +38,17 @@ body header.wp-block-template-part:has( + div .wp-block-cover:first-child) + .en
 body header.wp-block-template-part:has( + .wp-block-cover) + .entry-content {
     padding-top: unset;
     padding-bottom: unset;
+}
+
+/* Page (Regular) template. Remove spacing below title */
+body main:has( .wp-block-post-title) .entry-content {
+    padding-top: unset;
+    padding-bottom: unset;
+}
+
+/*
+ * Post templates customization.
+ */
+.variations-posts-grid li > div {
+    height: 100%;
 }

@@ -27,3 +27,13 @@
         top: var(--wp--preset--spacing--medium);
     }
 }
+
+/* footer elements. */
+@media (max-width: 781.5px) {
+    body footer.wp-block-template-part nav.items-justified-left ul {
+        justify-content: center;
+    }
+    body footer.wp-block-template-part p {
+        text-align: center;
+    }
+}
