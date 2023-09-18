@@ -8,7 +8,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-This is a theme
+Variations is a block theme and hopefully the last theme you will even have to install.  
+It comes with many different templates and block patterns to make creating a website easy.  
+
+With Variations you can control your header, footer and every other part of your website.
+
+Variations is compatiable with wordpress.org/patterns, giving you the ability to mix and 
+match millions of different websites. 
 
 == Changelog ==
 
