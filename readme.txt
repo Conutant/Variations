@@ -14,7 +14,7 @@ It comes with many different templates and block patterns to make creating a web
 With Variations you can control your header, footer and every other part of your website.
 
 Variations is compatiable with wordpress.org/patterns, giving you the ability to mix and 
-match millions of different websites. 
+match patterns to create millions of different websites. 
 
 == Changelog ==
 
