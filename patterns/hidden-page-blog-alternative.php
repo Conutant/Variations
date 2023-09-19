@@ -2,9 +2,9 @@
 /**
  * Title: Blog Alternative
  * Slug: variations/page-blog-alternative
- * Description: This pattern displays Post type items as posts grid
- * Categories: posts
+ * Inserter: no
  */
+
 ?>
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|50"}}},"layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--50)"><!-- wp:post-title /--></div>

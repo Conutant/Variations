@@ -59,6 +59,11 @@
 					"color": "#F6F6F6",
 					"name": "Tertiary",
 					"slug": "tertiary"
+				},
+				{
+					"color": "#0693e3",
+					"name": "Light",
+					"slug": "light"
 				}
 			],
 			"text": true

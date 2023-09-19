@@ -4,6 +4,7 @@
  * Slug: variations/hidden-no-results-content
  * Inserter: no
  */
+
 ?>
 <!-- wp:paragraph -->
 <p>

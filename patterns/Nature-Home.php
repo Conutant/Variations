@@ -2,7 +2,9 @@
 /**
  * Title: Nature Home Page
  * Slug: variations/nature-homepage
+ * Description: Add a Home Page template
  * Categories: homepage
+ * Keywords: home, home page, homepage
  */
 
 ?>

@@ -2,8 +2,11 @@
 /**
  * Title: Nature Hero
  * Slug: variations/nature-hero
+ * Description: Add a hero section
  * Categories: featured
+ * Keywords: hero, hero section
  */
+
 ?>
 <!-- wp:cover {"url":"<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/banners/Banner.jpg' ); ?>","id":129,"dimRatio":0,"overlayColor":"contrast","focalPoint":{"x":0.5,"y":0},"minHeightUnit":"vh","contentPosition":"center center","isDark":false,"align":"full","layout":{"type":"constrained","contentSize":"px"}} -->
 <div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-contrast-background-color has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-129" alt="" src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/banners/Banner.jpg' ); ?>" style="object-position:50% 0%" data-object-fit="cover" data-object-position="50% 0%"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"125px"} -->

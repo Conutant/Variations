@@ -2,10 +2,12 @@
 /**
  * Title: Call to action
  * Slug: variations/cta
+ * Description: Add a Call to action section
  * Categories: featured
  * Keywords: Call to action
  * Block Types: core/buttons
  */
+
 ?>
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide">

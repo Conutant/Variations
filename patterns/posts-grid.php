@@ -4,9 +4,8 @@
  * Slug: variations/posts-grid
  * Description: Add posts grid
  * Categories: posts
- * Keywords: posts, grid
+ * Keywords: blog, news, posts, grid
  * Block Types: core/query
- * Inserter: true
  */
 
 ?>

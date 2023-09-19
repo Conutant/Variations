@@ -2,11 +2,10 @@
 /**
  * Title: Footer With Columns
  * Slug: variations/footer-columns
- * Description:
+ * Description: Add a Footer With Columns
  * Categories: footer, columns
  * Keywords: footer
  * Block Types: core/template-part/footer
- * Inserter: true
  */
 
 ?>

@@ -1,9 +1,12 @@
 <?php
 /**
- * Title: Blank Page
- * Slug: variations/page-blank
+ * Title: Nature Blank Page
+ * Slug: variations/nature-blank
+ * Description: Add a Blank Page template
  * Categories: blankpage
+ * Keywords: blank
  */
+
 ?>
 <!-- wp:cover {"url":"<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/bg.png' ); ?>","id":10,"dimRatio":0,"minHeight":90,"minHeightUnit":"vh","contentPosition":"center center","isDark":false,"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-cover alignfull is-light" style="min-height:90vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/bg.png' ); ?>" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
@@ -20,14 +23,14 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast","textColor":"base","style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1"}},"fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size has-small-font-size" style="line-height:1"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background wp-element-button" style="padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php printf( esc_html__( '%s', 'variations' ), __( 'CTA Button', 'variations' ) ); ?></a></div>
+<div class="wp-block-button has-custom-font-size has-small-font-size" style="line-height:1"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background wp-element-button" style="padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->
 
 <!-- wp:cover {"dimRatio":0,"overlayColor":"custom-color-1","isDark":false,"align":"full","textColor":"custom-color-1","layout":{"type":"constrained","wideSize":"1200px"}} -->
 <div class="wp-block-cover alignfull is-light has-custom-color-1-color has-text-color"><span aria-hidden="true" class="wp-block-cover__background has-custom-color-1-background-color has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"textColor":"custom-color-1"} -->
-<h2 class="wp-block-heading has-text-align-center has-custom-color-1-color has-text-color" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)">Services Heading</h2>
+<h2 class="wp-block-heading has-text-align-center has-custom-color-1-color has-text-color" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><?php printf( esc_html__( '%s', 'variations' ), __( 'Services Heading', 'variations' ) ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|30"}}}} -->
@@ -46,7 +49,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","flexWrap":"wrap"},"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
 <div class="wp-block-buttons" style="margin-top:0;margin-bottom:0"><!-- wp:button {"textColor":"contrast","style":{"border":{"bottom":{"width":"2px"},"top":{"width":"0px","style":"none"},"right":{"color":"var:preset|color|base"},"left":{"width":"0px","style":"none"}},"spacing":{"padding":{"left":"0px","right":"0px","top":"0","bottom":"0"}},"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}},"className":"is-style-outline","fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size" style="font-style:normal;font-weight:500;line-height:1.5"><a class="wp-block-button__link has-contrast-color has-text-color wp-element-button" style="border-top-style:none;border-top-width:0px;border-right-color:var(--wp--preset--color--base);border-bottom-width:2px;border-left-style:none;border-left-width:0px;padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px">CTA Button</a></div>
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size" style="font-style:normal;font-weight:500;line-height:1.5"><a class="wp-block-button__link has-contrast-color has-text-color wp-element-button" style="border-top-style:none;border-top-width:0px;border-right-color:var(--wp--preset--color--base);border-bottom-width:2px;border-left-style:none;border-left-width:0px;padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -66,7 +69,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","flexWrap":"wrap"},"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
 <div class="wp-block-buttons" style="margin-top:0;margin-bottom:0"><!-- wp:button {"textColor":"contrast","style":{"border":{"bottom":{"width":"2px"},"top":{"width":"0px","style":"none"},"right":{"color":"var:preset|color|base"},"left":{"width":"0px","style":"none"}},"spacing":{"padding":{"left":"0px","right":"0px","top":"0","bottom":"0"}},"typography":{"fontStyle":"normal","fontWeight":"500"}},"className":"is-style-outline","fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size" style="font-style:normal;font-weight:500"><a class="wp-block-button__link has-contrast-color has-text-color wp-element-button" style="border-top-style:none;border-top-width:0px;border-right-color:var(--wp--preset--color--base);border-bottom-width:2px;border-left-style:none;border-left-width:0px;padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px">CTA Button</a></div>
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size" style="font-style:normal;font-weight:500"><a class="wp-block-button__link has-contrast-color has-text-color wp-element-button" style="border-top-style:none;border-top-width:0px;border-right-color:var(--wp--preset--color--base);border-bottom-width:2px;border-left-style:none;border-left-width:0px;padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -86,7 +89,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","flexWrap":"wrap"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"contrast","style":{"border":{"bottom":{"width":"2px"},"top":{"width":"0px","style":"none"},"right":{"color":"var:preset|color|base"},"left":{"width":"0px","style":"none"}},"spacing":{"padding":{"left":"0px","right":"0px","top":"0","bottom":"0"}},"typography":{"fontStyle":"normal","fontWeight":"500"}},"className":"is-style-outline","fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size" style="font-style:normal;font-weight:500"><a class="wp-block-button__link has-contrast-color has-text-color wp-element-button" style="border-top-style:none;border-top-width:0px;border-right-color:var(--wp--preset--color--base);border-bottom-width:2px;border-left-style:none;border-left-width:0px;padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px">CTA Button</a></div>
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size" style="font-style:normal;font-weight:500"><a class="wp-block-button__link has-contrast-color has-text-color wp-element-button" style="border-top-style:none;border-top-width:0px;border-right-color:var(--wp--preset--color--base);border-bottom-width:2px;border-left-style:none;border-left-width:0px;padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
@@ -111,7 +114,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}},"typography":{"fontSize":"14px","fontStyle":"normal","fontWeight":"300"}}} -->
-<p class="has-text-align-center" style="margin-top:0;margin-bottom:0;font-size:14px;font-style:normal;font-weight:300">Job Title</p>
+<p class="has-text-align-center" style="margin-top:0;margin-bottom:0;font-size:14px;font-style:normal;font-weight:300"><?php printf( esc_html__( '%s', 'variations' ), __( 'Job Title', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
 
@@ -127,7 +130,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast","textColor":"base","style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1"}},"fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size has-small-font-size" style="line-height:1"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background wp-element-button" style="padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php printf( esc_html__( '%s', 'variations' ), __( 'CTA Button', 'variations' ) ); ?></a></div>
+<div class="wp-block-button has-custom-font-size has-small-font-size" style="line-height:1"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background wp-element-button" style="padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -150,7 +153,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast","textColor":"base","style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1"}},"fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size has-small-font-size" style="line-height:1"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background wp-element-button" style="padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php printf( esc_html__( '%s', 'variations' ), __( 'CTA Button', 'variations' ) ); ?></a></div>
+<div class="wp-block-button has-custom-font-size has-small-font-size" style="line-height:1"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background wp-element-button" style="padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->

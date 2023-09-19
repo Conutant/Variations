@@ -6,7 +6,6 @@
  * Categories: header
  * Keywords: header, nav, site logo
  * Block Types: core/template-part/header
- * Inserter: true
  */
 
 ?>

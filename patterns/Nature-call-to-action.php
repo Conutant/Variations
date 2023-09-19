@@ -2,8 +2,11 @@
 /**
  * Title: Nature Call To Action
  * Slug: variations/nature-call-to-action
+ * Description: Add a Call to action section
  * Categories: featured
+ * Keywords: Call to action
  */
+
 ?>
 <!-- wp:cover {"url":"<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/call-to-action/Call-to-action.jpg' ); ?>","id":198,"dimRatio":0,"isDark":false,"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-198" alt="" src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/call-to-action/Call-to-action.jpg' ); ?>" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"0","bottom":"0"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
