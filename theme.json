@@ -321,6 +321,20 @@
 	},
 	"styles": {
 		"blocks": {
+			"core/search": {
+				"elements": {
+					"button": {
+						"spacing": {
+							"padding": {
+								"bottom": "10px",
+								"left": "20px",
+								"right": "20px",
+								"top": "10px"
+							}
+						}
+					}
+				}
+			},
 			"core/button": {
 				"border": {
 					"bottom": {
