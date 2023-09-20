@@ -1,15 +1,19 @@
 <?php
 /**
- * Title: Nature Blank Page
- * Slug: variations/nature-blank
- * Description: Add a Blank Page template
- * Categories: blankpage
- * Keywords: blank
+ * Title: Home Blank Page
+ * Slug: variations/nature-home-blank
+ * Description: Add a Home Blank Page
+ * Categories: homepage
+ * Keywords: home, home page, homepage
  */
 
 ?>
-<!-- wp:cover {"url":"<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/bg.png' ); ?>","id":10,"dimRatio":0,"minHeight":90,"minHeightUnit":"vh","contentPosition":"center center","isDark":false,"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull is-light" style="min-height:90vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/bg.png' ); ?>" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
+<!-- wp:cover {"url":"<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/bg.png' ); ?>","id":10,"dimRatio":0,"minHeight":33,"minHeightUnit":"vh","contentPosition":"center center","isDark":false,"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light" style="min-height:33vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/bg.png' ); ?>" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"125px"} -->
+<div style="height:125px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center"} -->
 <h2 class="wp-block-heading has-text-align-center"><?php printf( esc_html__( '%s', 'variations' ), __( 'Add a Subheading POTENTIAL', 'variations' ) ); ?></h2>
 <!-- /wp:heading -->
 
@@ -25,9 +29,12 @@
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast","textColor":"base","style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1"}},"fontSize":"small"} -->
 <div class="wp-block-button has-custom-font-size has-small-font-size" style="line-height:1"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background wp-element-button" style="padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
-<!-- /wp:buttons --></div></div>
-<!-- /wp:cover -->
+<!-- /wp:buttons -->
 
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div></div>
+<!-- /wp:cover -->
 <!-- wp:cover {"dimRatio":0,"overlayColor":"custom-color-1","isDark":false,"align":"full","textColor":"custom-color-1","layout":{"type":"constrained","wideSize":"1200px"}} -->
 <div class="wp-block-cover alignfull is-light has-custom-color-1-color has-text-color"><span aria-hidden="true" class="wp-block-cover__background has-custom-color-1-background-color has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"textColor":"custom-color-1"} -->
 <h2 class="wp-block-heading has-text-align-center has-custom-color-1-color has-text-color" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><?php printf( esc_html__( '%s', 'variations' ), __( 'Services Heading', 'variations' ) ); ?></h2>
