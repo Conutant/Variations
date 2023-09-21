@@ -26,4 +26,9 @@
         right: var(--wp--preset--spacing--medium);
         top: var(--wp--preset--spacing--medium);
     }
+
+    .has-modal-open .admin-bar .is-menu-open .wp-block-navigation__responsive-dialog,
+    .has-modal-open .is-menu-open .wp-block-navigation__responsive-dialog {
+        padding-top: var(--wp--preset--spacing--30);
+    }
 }

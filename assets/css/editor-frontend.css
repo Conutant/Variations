@@ -28,20 +28,29 @@ body .has-background {
  */
 
 /* Prepare the page for cover block */
-body header.wp-block-template-part:has( + div .wp-block-cover:first-child) .is-position-sticky,
-body header.wp-block-template-part:has( + .wp-block-cover) .is-position-sticky {
+body header.wp-block-template-part:has(+ div .wp-block-cover:first-child) .is-position-sticky,
+body header.wp-block-template-part:has(+ .wp-block-cover) .is-position-sticky {
     position: absolute;
     width: 100%;
     z-index: 2;
 }
-body header.wp-block-template-part:has( + div .wp-block-cover:first-child) + .entry-content,
-body header.wp-block-template-part:has( + .wp-block-cover) + .entry-content {
+
+body header.wp-block-template-part:has(+ div .wp-block-cover:first-child)+.entry-content,
+body header.wp-block-template-part:has(+ .wp-block-cover)+.entry-content {
     padding-top: unset;
     padding-bottom: unset;
 }
 
+@media (max-width: 600.5px) {
+
+    body.admin-bar header.wp-block-template-part:has(+ div .wp-block-cover:first-child) .is-position-sticky,
+    body.admin-bar header.wp-block-template-part:has(+ .wp-block-cover) .is-position-sticky {
+        top: var(--wp--preset--spacing--50);
+    }
+}
+
 /* Page (Regular) template. Remove spacing below title */
-body main:has( .wp-block-post-title) .entry-content {
+body main:has(.wp-block-post-title) .entry-content {
     padding-top: unset;
     padding-bottom: unset;
 }
@@ -49,6 +58,6 @@ body main:has( .wp-block-post-title) .entry-content {
 /*
  * Post templates customization.
  */
-.variations-posts-grid li > div {
+.variations-posts-grid li>div {
     height: 100%;
 }
