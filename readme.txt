@@ -23,52 +23,15 @@ match patterns to create millions of different websites.
 
 == Copyright ==
 
-This theme is distributed under the terms of GPL.
+Variations WordPress Theme, (C) 2022-2023 Tyler Moore.
+Variations is distributed under the terms of the GNU GPL.
 
-Variations uses the following third-party resources:
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
 
-For Love Nature Template
-
-Main Image
-https://unsplash.com/photos/ajYKLDAa9tQ
-
-https://unsplash.com/s/photos/simon-migaj. (Mindfulness). Can't find exact photo but all references point to him. 
-
-https://www.pexels.com/photo/green-mountains-under-white-sky-8747810/
-
-https://www.pexels.com/photo/a-mountain-top-in-clouds-9651396/
-
-Can't find stock image of testimonial woman: https://love-nature.gowebexperts.com/ must replace. 
-
-Leaf images: https://www.pexels.com/photo/hand-holding-leaf-10115731/
-
-Footer area is once again:  Simon Migaj/Unsplash but once again I can't find the actual image. 
-
-About hill image: https://pixabay.com/photos/hill-green-nature-mountain-5419527/
-
-About further down: https://unsplash.com/photos/8YnvueZYsRQ
-
-Can't find Emily Davis lady. 
-
-Services page
-
-https://unsplash.com/photos/_wrWomwTLRg
-
-Web design image is by the guy I can't find. 
-
-Graphic Design: https://www.pexels.com/photo/green-mountains-under-white-sky-8747810/
-Content Creation: https://www.pexels.com/photo/a-mountain-top-in-clouds-9651396/
-
-Icon 8 years: https://thenounproject.com/icon/exclusive-4218716/
-Icon star: https://thenounproject.com/icon/star-2334288/
-Icon refresh: https://thenounproject.com/icon/refresh-1879117/
-Lifesaver icon: https://thenounproject.com/icon/lifesaver-801692/
-
-Contact: 
-
-https://unsplash.com/photos/dIQlgwq6V3Y 
-
-First Italian man: https://unsplash.com/photos/UpjtG9zkqdc
-Lady: https://unsplash.com/pt-br/fotografias/Y4wpkK_JWWk
-Third man: https://unsplash.com/photos/t03AQ2joeFc
-Fourth: https://unsplash.com/photos/wXEimp1R3cE
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
