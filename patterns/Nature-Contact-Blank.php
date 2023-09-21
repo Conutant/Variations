@@ -103,9 +103,3 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
-
-<!-- wp:group {"align":"full","layout":{"type":"constrained","contentSize":"100%"}} -->
-<div class="wp-block-group alignfull"><!-- wp:html -->
-<iframe src="<?php printf( '%s', esc_url( 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29346.898551407434!2d89.20558295000001!3d23.156972749999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff11efdac40b7f%3A0xf1bdc345f70838e3!2sEhasanul%20Haque%20(ehasan28)!5e0!3m2!1sen!2sbd!4v1694519534021!5m2!1sen!2sbd' ) ); ?>" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<!-- /wp:html --></div>
-<!-- /wp:group -->
