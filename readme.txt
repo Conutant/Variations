@@ -19,6 +19,9 @@ match patterns to create millions of different websites.
 
 == Changelog ==
 
+= 1.0.1 =
+* Small changes.
+
 = 1.0.0 =
 * Initial release
 

@@ -5,24 +5,32 @@ Contributors: Tyler Moore
 Requires at least: 6.0
 Tested up to: 6.3
 Requires PHP: 5.7
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-This is a theme
+Variations is a block theme and hopefully the last theme you will even have to install.  
+It comes with many different templates and block patterns to make creating a website easy.  
+
+With Variations you can control your header, footer and every other part of your website.
+
+Variations is compatiable with wordpress.org/patterns, giving you the ability to mix and 
+match patterns to create millions of different websites. 
 
 == Changelog ==
+
+= 1.0.1 =
+* Small changes.
 
 = 1.0.0 =
 * Initial release
 
 == Copyright ==
 
-Variations is based on Twenty Twenty-Three (https://wordpress.org/themes/twentytwentythree), (C) the WordPress team, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
-
-Twenty Twenty-Three WordPress Theme, (C) 2022-2023 WordPress.org
-Twenty Twenty-Three is distributed under the terms of the GNU GPL.
+Variations WordPress Theme, (C) 2022-2023 Tyler Moore.
+Variations is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
