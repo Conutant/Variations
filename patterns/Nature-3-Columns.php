@@ -13,7 +13,7 @@
 <div class="wp-block-columns alignwide" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":174,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/services/Service-1-min.jpg' ); ?>" alt="" class="wp-image-174" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://tyler.com/images/services/Service-1-min.jpg' ); ?>" alt="" class="wp-image-174" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","level":4} -->
@@ -29,7 +29,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":175,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/services/Service-2-min.jpg' ); ?>" alt="" class="wp-image-175" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://tyler.com/images/services/Service-2-min.jpg' ); ?>" alt="" class="wp-image-175" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","level":4} -->
@@ -45,7 +45,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":176,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/services/Service-3-min.jpg' ); ?>" alt="" class="wp-image-176" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://tyler.com/images/services/Service-3-min.jpg' ); ?>" alt="" class="wp-image-176" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","level":4} -->

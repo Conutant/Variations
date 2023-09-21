@@ -8,8 +8,8 @@
  */
 
 ?>
-<!-- wp:cover {"url":"<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/banners/Banner.jpg' ); ?>","id":129,"dimRatio":0,"overlayColor":"contrast","focalPoint":{"x":0.5,"y":0},"minHeightUnit":"vh","contentPosition":"center center","isDark":false,"align":"full","layout":{"type":"constrained","contentSize":"px"}} -->
-<div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-contrast-background-color has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-129" alt="" src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/banners/Banner.jpg' ); ?>" style="object-position:50% 0%" data-object-fit="cover" data-object-position="50% 0%"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"125px"} -->
+<!-- wp:cover {"url":"<?php echo esc_url( 'https://tyler.com/images/banners/Banner.jpg' ); ?>","id":129,"dimRatio":0,"overlayColor":"contrast","focalPoint":{"x":0.5,"y":0},"minHeightUnit":"vh","contentPosition":"center center","isDark":false,"align":"full","layout":{"type":"constrained","contentSize":"px"}} -->
+<div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-contrast-background-color has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-129" alt="" src="<?php echo esc_url( 'https://tyler.com/images/banners/Banner.jpg' ); ?>" style="object-position:50% 0%" data-object-fit="cover" data-object-position="50% 0%"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"125px"} -->
 <div style="height:125px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -37,7 +37,7 @@
 <div class="wp-block-columns alignwide" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":174,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/services/Service-1-min.jpg' ); ?>" alt="" class="wp-image-174" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://tyler.com/images/services/Service-1-min.jpg' ); ?>" alt="" class="wp-image-174" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","level":4} -->
@@ -53,7 +53,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":175,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/services/Service-2-min.jpg' ); ?>" alt="" class="wp-image-175" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://tyler.com/images/services/Service-2-min.jpg' ); ?>" alt="" class="wp-image-175" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","level":4} -->
@@ -69,7 +69,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":176,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/services/Service-3-min.jpg' ); ?>" alt="" class="wp-image-176" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://tyler.com/images/services/Service-3-min.jpg' ); ?>" alt="" class="wp-image-176" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","level":4} -->
@@ -94,12 +94,12 @@
 <!-- wp:paragraph {"fontSize":"medium"} -->
 <p class="has-medium-font-size"><?php printf( esc_html__( '%s', 'variations' ), __( 'I made it so it is super easy to update and so that it flows perfectly with my tutorials. Lots of love and hundreds of hours went into making it. I hope you love it as much as I do. I wish you the best of luck with your business, enjoy the adventure.', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div>
-<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/about/Our-Mission-min-1.jpg' ); ?>" alt="" class="wp-image-188 size-full"/></figure></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( 'https://tyler.com/images/about/Our-Mission-min-1.jpg' ); ?>" alt="" class="wp-image-188 size-full"/></figure></div>
 <!-- /wp:media-text --></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"url":"<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/call-to-action/Call-to-action.jpg' ); ?>","id":198,"dimRatio":0,"isDark":false,"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-198" alt="" src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/call-to-action/Call-to-action.jpg' ); ?>" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"0","bottom":"0"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<!-- wp:cover {"url":"<?php echo esc_url( 'https://tyler.com/images/call-to-action/Call-to-action.jpg' ); ?>","id":198,"dimRatio":0,"isDark":false,"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-198" alt="" src="<?php echo esc_url( 'https://tyler.com/images/call-to-action/Call-to-action.jpg' ); ?>" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"0","bottom":"0"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-right:var(--wp--preset--spacing--30);padding-bottom:0;padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"},"color":{"text":"#2c541d"}},"fontSize":"x-large"} -->
 <h2 class="wp-block-heading has-text-color has-x-large-font-size" style="color:#2c541d;font-style:normal;font-weight:500"><?php printf( esc_html__( '%s', 'variations' ), __( 'Talk To Us', 'variations' ) ); ?></h2>
 <!-- /wp:heading -->

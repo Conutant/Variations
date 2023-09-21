@@ -8,8 +8,8 @@
  */
 
 ?>
-<!-- wp:cover {"url":"<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/bg.png' ); ?>","id":10,"dimRatio":0,"minHeight":450,"minHeightUnit":"px","isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"850px","wideSize":"900px"}} -->
-<div class="wp-block-cover alignfull is-light" style="padding-top:0;padding-bottom:0;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/bg.png' ); ?>" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":1} -->
+<!-- wp:cover {"url":"<?php echo esc_url( 'https://tyler.com/images/blank/bg.png' ); ?>","id":10,"dimRatio":0,"minHeight":450,"minHeightUnit":"px","isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"850px","wideSize":"900px"}} -->
+<div class="wp-block-cover alignfull is-light" style="padding-top:0;padding-bottom:0;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="<?php echo esc_url( 'https://tyler.com/images/blank/bg.png' ); ?>" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":1} -->
 <h1 class="wp-block-heading has-text-align-center"><?php printf( esc_html__( '%s', 'variations' ), __( 'Services', 'variations' ) ); ?></h1>
 <!-- /wp:heading -->
 
@@ -37,7 +37,7 @@
 
 <!-- wp:column {"width":"49%"} -->
 <div class="wp-block-column" style="flex-basis:49%"><!-- wp:image {"id":9,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/About-1.png' ); ?>" alt="" class="wp-image-9"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://tyler.com/images/blank/About-1.png' ); ?>" alt="" class="wp-image-9"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -45,7 +45,7 @@
 <!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"},"blockGap":{"top":"var:preset|spacing|30","left":"100px"},"margin":{"top":"24px","bottom":"24px"}}}} -->
 <div class="wp-block-columns alignwide" style="margin-top:24px;margin-bottom:24px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column {"width":"49%"} -->
 <div class="wp-block-column" style="flex-basis:49%"><!-- wp:image {"id":9,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/About-1.png' ); ?>" alt="" class="wp-image-9"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://tyler.com/images/blank/About-1.png' ); ?>" alt="" class="wp-image-9"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -85,13 +85,13 @@
 
 <!-- wp:column {"width":"49%"} -->
 <div class="wp-block-column" style="flex-basis:49%"><!-- wp:image {"id":9,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/About-1.png' ); ?>" alt="" class="wp-image-9"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( 'https://tyler.com/images/blank/About-1.png' ); ?>" alt="" class="wp-image-9"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:cover {"url":"<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/bg.png' ); ?>","id":10,"dimRatio":0,"minHeight":450,"minHeightUnit":"px","contentPosition":"center center","isDark":false,"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"600px"}} -->
-<div class="wp-block-cover alignfull is-light" style="margin-top:0;margin-bottom:0;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="<?php echo esc_url( 'https://markomaksym.com.ua/variations/images/blank/bg.png' ); ?>" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
+<!-- wp:cover {"url":"<?php echo esc_url( 'https://tyler.com/images/blank/bg.png' ); ?>","id":10,"dimRatio":0,"minHeight":450,"minHeightUnit":"px","contentPosition":"center center","isDark":false,"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"600px"}} -->
+<div class="wp-block-cover alignfull is-light" style="margin-top:0;margin-bottom:0;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="<?php echo esc_url( 'https://tyler.com/images/blank/bg.png' ); ?>" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
 <h2 class="wp-block-heading has-text-align-center"><?php printf( esc_html__( '%s', 'variations' ), __( 'Talk To Us Heading', 'variations' ) ); ?></h2>
 <!-- /wp:heading -->
 
