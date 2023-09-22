@@ -10,7 +10,9 @@
 ?>
 <!-- wp:cover {"url":"<?php echo esc_url( 'https://tyler.com/images/about/About-banner-1.jpg' ); ?>","id":270,"dimRatio":0,"focalPoint":{"x":0.5,"y":1},"minHeight":500,"minHeightUnit":"px","isDark":false,"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-cover alignfull is-light" style="min-height:500px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-270" alt="" src="<?php echo esc_url( 'https://tyler.com/images/about/About-banner-1.jpg' ); ?>" style="object-position:50% 100%" data-object-fit="cover" data-object-position="50% 100%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"0","bottom":"0"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
-<div class="wp-block-group" style="padding-top:0;padding-right:var(--wp--preset--spacing--30);padding-bottom:0;padding-left:var(--wp--preset--spacing--30)"><!-- wp:post-title {"style":{"color":{"text":"#2c541d"},"typography":{"fontSize":"6rem"}}} /--></div>
+<div class="wp-block-group" style="padding-top:0;padding-right:var(--wp--preset--spacing--30);padding-bottom:0;padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"6rem"}},"textColor":"secondary"} -->
+<h1 class="wp-block-heading has-secondary-color has-text-color" style="font-size:6rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'About', 'variations' ) ); ?></h1>
+<!-- /wp:heading --></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 

@@ -17,6 +17,6 @@
 <!-- wp:site-title {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}}} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:navigation {"ref":4,"layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"right"}} /--></div>
+<!-- wp:navigation {"layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"center"}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
