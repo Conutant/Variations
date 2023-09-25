@@ -16,19 +16,19 @@
 <!-- /wp:heading -->
 
 <!-- wp:media-text {"mediaId":333,"mediaType":"image","mediaWidth":15,"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"var:preset|spacing|40"}}},"fontSize":"small"} -->
-<div class="wp-block-media-text has-small-font-size" style="margin-top:var(--wp--preset--spacing--40);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( 'https://tyler.com/images/contact/phone-solid.png' ); ?>" alt="" class="wp-image-333 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<div class="wp-block-media-text has-small-font-size" style="margin-top:var(--wp--preset--spacing--40);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/contact/phone-solid.png" alt="" class="wp-image-333 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
 <p><?php printf( esc_html__( '%s', 'variations' ), __( '(310) 736-8445', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 
 <!-- wp:media-text {"mediaId":334,"mediaType":"image","mediaWidth":15,"isStackedOnMobile":false} -->
-<div class="wp-block-media-text" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( 'https://tyler.com/images/contact/envelope-solid.png' ); ?>" alt="" class="wp-image-334 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"small"} -->
+<div class="wp-block-media-text" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/contact/envelope-solid.png" alt="" class="wp-image-334 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"small"} -->
 <p class="has-small-font-size"><?php printf( esc_html__( '%s', 'variations' ), __( 'example@gmail.com', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 
 <!-- wp:media-text {"mediaId":335,"mediaType":"image","mediaWidth":15,"isStackedOnMobile":false} -->
-<div class="wp-block-media-text" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( 'https://tyler.com/images/contact/location-pin-solid.png' ); ?>" alt="" class="wp-image-335 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"small"} -->
+<div class="wp-block-media-text" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/contact/location-pin-solid.png" alt="" class="wp-image-335 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"small"} -->
 <p class="has-small-font-size"><?php printf( esc_html__( '%s', 'variations' ), __( '2727 Beach Rd.<br>Malibu, CA 90264', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->

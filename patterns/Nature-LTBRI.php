@@ -24,6 +24,6 @@
 <div class="wp-block-button has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" style="background-color:#74a84a;padding-top:9px;padding-right:50px;padding-bottom:9px;padding-left:50px"><?php printf( esc_html__( '%s', 'variations' ), __( 'EXPLORE', 'variations' ) ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
-<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( 'https://tyler.com/images/about/Our-Mission-min-1.jpg' ); ?>" alt="" class="wp-image-188 size-full"/></figure></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/about/Our-Mission-min-1.jpg" alt="" class="wp-image-188 size-full"/></figure></div>
 <!-- /wp:media-text --></div>
 <!-- /wp:group -->

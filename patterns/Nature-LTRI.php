@@ -18,6 +18,6 @@
 <!-- wp:paragraph {"fontSize":"medium"} -->
 <p class="has-medium-font-size"><?php printf( esc_html__( '%s', 'variations' ), __( 'I made it so it is super easy to update and so that it flows perfectly with my tutorials. Lots of love and hundreds of hours went into making it. I hope you love it as much as I do. I wish you the best of luck with your business, enjoy the adventure.', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div>
-<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( 'https://tyler.com/images/about/Our-Mission-min-1.jpg' ); ?>" alt="" class="wp-image-188 size-full"/></figure></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/about/Our-Mission-min-1.jpg" alt="" class="wp-image-188 size-full"/></figure></div>
 <!-- /wp:media-text --></div>
 <!-- /wp:group -->
