@@ -3,7 +3,7 @@ Contributors: Tyler Moore
 Requires at least: 6.0
 Tested up to: 6.3
 Requires PHP: 5.7
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,6 +18,9 @@ Variations is compatiable with wordpress.org/patterns, giving you the ability to
 match patterns to create millions of different websites. 
 
 == Changelog ==
+
+= 1.0.3 =
+* Optimized images. Improved headers and footers.
 
 = 1.0.2 =
 * Changes at the request of the Wordpress.org team.
