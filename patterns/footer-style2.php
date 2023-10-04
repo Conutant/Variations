@@ -13,7 +13,10 @@
 <div class="wp-block-group has-base-color has-text-color has-background has-inter-font-family" style="background-color:#171717;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);font-style:normal;font-weight:400"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"small"} -->
 <div class="wp-block-columns alignwide has-small-font-size" style="margin-top:0;margin-bottom:0"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"},":hover":{"color":{"text":"var:preset|color|base"}}}}},"textColor":"base","fontSize":"xxx-small"} -->
-<p class="has-text-align-center has-base-color has-text-color has-link-color has-xxx-small-font-size">© Copyright 2023 | Variations by <a href="https://tyler.com/" rel="nofollow" data-type="link" data-id="https://tyler.com/">Tyler Moore</a></p>
+<p class="has-text-align-center has-base-color has-text-color has-link-color has-xxx-small-font-size"><?php printf(
+	esc_html__( '© Copyright 2023 | Variations by %s', 'variations' ),
+	'<a href="' . esc_url( __( 'https://tyler.com/', 'variations' ) ) . '" rel="nofollow" data-type="link" data-id="' . esc_url( __( 'https://tyler.com/', 'variations' ) ) . '">Tyler Moore</a>'
+); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 

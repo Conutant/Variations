@@ -20,7 +20,10 @@ match patterns to create millions of different websites.
 == Changelog ==
 
 = 1.0.3 =
-* Optimized images. Improved headers and footers.
+* - Optimized images. 
+  - Improved headers and footers.
+  - Added two patterns Header Style 2 and Footer Style 2.
+  - Made small customizations.
 
 = 1.0.2 =
 * Changes at the request of the Wordpress.org team.
