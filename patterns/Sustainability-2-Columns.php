@@ -8,15 +8,15 @@
  */
 
 ?>
-<!-- wp:group {"tagName":"section","style":{"spacing":{"padding":{"top":"6.5%","bottom":"6.5%"}}},"layout":{"type":"constrained"}} -->
-<section class="wp-block-group" style="padding-top:6.5%;padding-bottom:6.5%"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"10%"}}},"layout":{"type":"constrained","contentSize":"1170px"}} -->
-<div class="wp-block-group" style="padding-bottom:10%"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"5.5rem","lineHeight":"1.0"}}} -->
+<!-- wp:group {"tagName":"section","align":"full","style":{"spacing":{"padding":{"top":"6.5%","bottom":"6.5%","left":"1rem","right":"1rem"}}},"layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull" style="padding-top:6.5%;padding-right:1rem;padding-bottom:6.5%;padding-left:1rem"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"10%"}}},"layout":{"type":"constrained","contentSize":"1170px"}} -->
+<div class="wp-block-group alignwide" style="padding-bottom:10%"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"5.5rem","lineHeight":"1.0"}}} -->
 <h3 class="wp-block-heading has-text-align-center" style="font-size:5.5rem;font-style:normal;font-weight:500;line-height:1.0"><?php printf( esc_html__( '%s', 'variations' ), __( 'Contribute to a more sustainable world with every purchase', 'variations' ) ); ?></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"90px"}}}} -->
-<div class="wp-block-columns"><!-- wp:column {"width":"18%","layout":{"type":"default"}} -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"90px"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"18%","layout":{"type":"default"}} -->
 <div class="wp-block-column" style="flex-basis:18%"></div>
 <!-- /wp:column -->
 
