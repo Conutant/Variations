@@ -8,7 +8,7 @@
  */
 
 ?>
-<!-- wp:group {"tagName":"section","align":"full","style":{"spacing":{"padding":{"top":"6.5%","bottom":"6.5%","left":"1rem","right":"1rem"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","align":"full","style":{"spacing":{"padding":{"top":"6.5%","bottom":"6.5%","left":"1rem","right":"1rem"}}},"layout":{"type":"constrained","contentSize":"1170px"}} -->
 <section class="wp-block-group alignfull" style="padding-top:6.5%;padding-right:1rem;padding-bottom:6.5%;padding-left:1rem"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"8%"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"width":"32%"} -->
 <div class="wp-block-column" style="flex-basis:32%"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"3%"}}},"layout":{"type":"constrained","contentSize":""}} -->
