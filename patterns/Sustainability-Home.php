@@ -15,3 +15,9 @@
 <!-- wp:pattern {"slug":"variations/sustainability-banner"} /-->
 
 <!-- wp:pattern {"slug":"variations/sustainability-2-columns"} /-->
+
+<!-- wp:pattern {"slug":"variations/sustainability-banner2"} /-->
+
+<!-- wp:pattern {"slug":"variations/sustainability-testimonials"} /-->
+
+<!-- wp:pattern {"slug":"variations/sustainability-contact-section"} /-->

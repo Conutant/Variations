@@ -47,6 +47,14 @@ if (!function_exists('variations_register_pattern_categories')) {
             'contactpage',
             array('label' => __('Contact Pages', 'variations'))
         );
+
+        /**
+         * Register "columns" Block Pattern Category.
+         */
+        register_block_pattern_category(
+            'column',
+            array('label' => __('Columns', 'variations'))
+        );
     }
 }
 

@@ -3,7 +3,7 @@
  * Title: Sustainability 2 Columns
  * Slug: variations/sustainability-2-columns
  * Description: Add a Sustainability 2 Columns section
- * Categories: featured, text, columns
+ * Categories: text, column
  * Keywords: columns, services
  */
 

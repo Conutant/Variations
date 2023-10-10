@@ -3,7 +3,7 @@
  * Title: Sustainability Banner
  * Slug: variations/sustainability-banner
  * Description: Add a banner section
- * Categories: featured, banner
+ * Categories: banner
  * Keywords: banner, banner section
  */
 

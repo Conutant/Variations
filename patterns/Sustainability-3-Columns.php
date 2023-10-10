@@ -3,8 +3,8 @@
  * Title: Sustainability 3 Columns
  * Slug: variations/sustainability-3-columns
  * Description: Add a Sustainability 3 Columns section
- * Categories: featured, text, columns
- * Keywords: columns
+ * Categories: text, column
+ * Keywords: columns, services
  */
 
 ?>
