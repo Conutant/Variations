@@ -21,7 +21,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"},"style":{"spacing":{"blockGap":"0","margin":{"top":"2.2rem","bottom":"0rem"}}}} -->
 <div class="wp-block-buttons" style="margin-top:2.2rem;margin-bottom:0rem"><!-- wp:button {"textColor":"base","style":{"spacing":{"padding":{"left":"5.4rem","right":"5.4rem","top":"1rem","bottom":"1rem"}},"color":{"background":"#ed6907"},"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"1.11rem"},"border":{"radius":"0px","color":"#ed6907","width":"1px"}},"className":"is-style-fill"} -->
-<div class="wp-block-button has-custom-font-size is-style-fill" style="font-size:1.11rem;font-style:normal;font-weight:500"><a class="wp-block-button__link has-base-color has-text-color has-background has-border-color wp-element-button" style="border-color:#ed6907;border-width:1px;border-radius:0px;background-color:#ed6907;padding-top:1rem;padding-right:5.4rem;padding-bottom:1rem;padding-left:5.4rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'LEARN MORE', 'variations' ) ); ?></a></a></div>
+<div class="wp-block-button has-custom-font-size is-style-fill" style="font-size:1.11rem;font-style:normal;font-weight:500"><a class="wp-block-button__link has-base-color has-text-color has-background has-border-color wp-element-button" style="border-color:#ed6907;border-width:1px;border-radius:0px;background-color:#ed6907;padding-top:1rem;padding-right:5.4rem;padding-bottom:1rem;padding-left:5.4rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'LEARN MORE', 'variations' ) ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
