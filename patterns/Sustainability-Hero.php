@@ -15,8 +15,8 @@
 <h2 class="wp-block-heading has-text-align-left has-base-color has-text-color" style="margin-bottom:1.1rem;font-size:5.9rem;font-style:normal;font-weight:400;line-height:1.1"><?php printf( esc_html__( '%s', 'variations' ), __( 'Dare To Be Innovative<br>Care About Sustainability', 'variations' ) ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"left","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}},"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"1.5rem"}}} -->
-<p class="has-text-align-left" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:1.5rem;font-style:normal;font-weight:400"><?php printf( esc_html__( '%s', 'variations' ), __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do', 'variations' ) ); ?></p>
+<!-- wp:paragraph {"align":"left","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}},"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"1.5rem"},"color":{"text":"#fffffd"}}} -->
+<p class="has-text-align-left has-text-color" style="color:#fffffd;margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:1.5rem;font-style:normal;font-weight:400"><?php printf( esc_html__( '%s', 'variations' ), __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do', 'variations' ) ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"},"style":{"spacing":{"blockGap":"0","margin":{"top":"2.2rem","bottom":"0rem"}}}} -->
