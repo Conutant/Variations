@@ -14,8 +14,8 @@
 <h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#fffffd;font-size:4rem;font-style:normal;font-weight:400;line-height:1.0"><?php printf( esc_html__( '%s', 'variations' ), __( 'Let’s Work Together', 'variations' ) ); ?></h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.25rem"},"spacing":{"margin":{"top":"0"}},"color":{"text":"#fffffd"}}} -->
-<p class="has-text-align-center has-text-color" style="color:#fffffd;margin-top:0;font-size:1.25rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'We’ll prepare a proposal and walk you through every step of the process.', 'variations' ) ); ?></p>
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.25rem"},"spacing":{"margin":{"top":"1.25rem"}},"color":{"text":"#fffffd"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#fffffd;margin-top:1.25rem;font-size:1.25rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'We’ll prepare a proposal and walk you through every step of the process.', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
