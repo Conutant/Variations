@@ -17,7 +17,7 @@
 <!-- /wp:group -->
 
 <!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"bottom":"5rem","top":"4rem"},"blockGap":{"top":"1.5rem","left":"1.5rem"}}}} -->
-<div class="wp-block-columns alignwide" style="margin-top:0;margin-bottom:0;padding-top:4rem;padding-bottom:5rem"><!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained","contentSize":"187px"}} -->
+<div class="wp-block-columns alignwide" style="margin-top:0;margin-bottom:0;padding-top:4rem;padding-bottom:5rem"><!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained","contentSize":"250px"}} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"textAlign":"center","level":6,"style":{"color":{"text":"#343434"},"typography":{"fontSize":"2.2rem","textTransform":"capitalize","fontStyle":"normal","fontWeight":"500"}}} -->
 <h6 class="wp-block-heading has-text-align-center has-text-color" style="color:#343434;font-size:2.2rem;font-style:normal;font-weight:500;text-transform:capitalize"><?php printf( esc_html__( '%s', 'variations' ), __( 'Location', 'variations' ) ); ?></h6>
 <!-- /wp:heading -->
@@ -27,13 +27,13 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained","contentSize":"187px"}} -->
+<!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained","contentSize":"250px"}} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"textAlign":"center","level":6,"style":{"color":{"text":"#343434"},"typography":{"fontSize":"2.2rem","textTransform":"capitalize","fontStyle":"normal","fontWeight":"500"}}} -->
 <h6 class="wp-block-heading has-text-align-center has-text-color" style="color:#343434;font-size:2.2rem;font-style:normal;font-weight:500;text-transform:capitalize"><?php printf( esc_html__( '%s', 'variations' ), __( 'Contact', 'variations' ) ); ?></h6>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#202020"},"typography":{"fontSize":"1.25rem","textDecoration":"none"},"spacing":{"margin":{"top":"1.25rem"}}}} -->
-<p class="has-text-align-center has-text-color" style="color:#202020;margin-top:1.25rem;font-size:1.25rem;text-decoration:none"><a href="tel:" data-type="tel" data-id="tel:"><?php printf( esc_html__( '%s', 'variations' ), __( '(555) 555-5555', 'variations' ) ); ?></a><br><a href="mailto:#"><?php printf( esc_html__( '%s', 'variations' ), __( '1email@example.com', 'variations' ) ); ?></a></p>
+<p class="has-text-align-center has-text-color" style="color:#202020;margin-top:1.25rem;font-size:1.25rem;text-decoration:none"><a href="tel:" data-type="tel" data-id="tel:"><?php printf( esc_html__( '%s', 'variations' ), __( '(555) 555-5555', 'variations' ) ); ?></a><br><a href="mailto:#"><?php printf( esc_html__( '%s', 'variations' ), __( 'email@example.com', 'variations' ) ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
