@@ -1,6 +1,13 @@
 {
 	"customTemplates": [
 		{
+			"name": "websites-professional-services",
+			"postTypes": [
+				"websites_design"
+			],
+			"title": "Websites: Professional Services"
+		},
+		{
 			"name": "blog-alternative",
 			"postTypes": [
 				"page"
