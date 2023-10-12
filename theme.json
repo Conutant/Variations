@@ -3,9 +3,23 @@
 		{
 			"name": "websites-professional-services",
 			"postTypes": [
-				"websites_design"
+				"page"
 			],
-			"title": "Websites: Professional Services"
+			"title": "Header/Footer: Professional Services"
+		},
+		{
+			"name": "websites-sustainability",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Sustainability"
+		},
+		{
+			"name": "websites-earth",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Earth"
 		},
 		{
 			"name": "blog-alternative",
