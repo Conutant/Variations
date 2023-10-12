@@ -149,28 +149,6 @@
 					"slug": "system-font"
 				},
 				{
-					"fontFamily": "DM Sans 9pt",
-					"slug": "dm-sans-9pt",
-					"fontFace": [
-						{
-							"fontFamily": "DM Sans 9pt",
-							"fontWeight": "100 1000",
-							"fontStyle": "normal",
-							"src": [
-								"file:./assets/fonts/dm-sans/dm-sans-9pt_normal_100-1000.ttf"
-							]
-						},
-						{
-							"fontFamily": "DM Sans 9pt",
-							"fontWeight": "100 1000",
-							"fontStyle": "italic",
-							"src": [
-								"file:./assets/fonts/dm-sans/dm-sans-9pt_italic_100-1000.ttf"
-							]
-						}
-					]
-				},
-				{
 					"fontFamily": "IBM Plex Sans Thin",
 					"slug": "ibm-plex-sans-thin",
 					"fontFace": [

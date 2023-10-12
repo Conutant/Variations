@@ -18,8 +18,8 @@
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"},"blockGap":{"top":"var:preset|spacing|30","left":"100px"},"margin":{"top":"48px","bottom":"24px"}}}} -->
-<div class="wp-block-columns alignwide" style="margin-top:48px;margin-bottom:24px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column {"verticalAlignment":"center"} -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"2.01rem","left":"2.01rem","top":"2.01rem","bottom":"2.01rem"},"blockGap":{"top":"2.01rem","left":"100px"},"margin":{"top":"48px","bottom":"24px"}}}} -->
+<div class="wp-block-columns alignwide" style="margin-top:48px;margin-bottom:24px;padding-top:2.01rem;padding-right:2.01rem;padding-bottom:2.01rem;padding-left:2.01rem"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
 <h2 class="wp-block-heading" style="margin-top:0;margin-bottom:0"><?php printf( esc_html__( '%s', 'variations' ), __( 'Service Title', 'variations' ) ); ?></h2>
 <!-- /wp:heading -->
@@ -42,8 +42,8 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"},"blockGap":{"top":"var:preset|spacing|30","left":"100px"},"margin":{"top":"24px","bottom":"24px"}}}} -->
-<div class="wp-block-columns alignwide" style="margin-top:24px;margin-bottom:24px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column {"width":"49%"} -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"2.01rem","left":"2.01rem","top":"2.01rem","bottom":"2.01rem"},"blockGap":{"top":"2.01rem","left":"100px"},"margin":{"top":"24px","bottom":"24px"}}}} -->
+<div class="wp-block-columns alignwide" style="margin-top:24px;margin-bottom:24px;padding-top:2.01rem;padding-right:2.01rem;padding-bottom:2.01rem;padding-left:2.01rem"><!-- wp:column {"width":"49%"} -->
 <div class="wp-block-column" style="flex-basis:49%"><!-- wp:image {"id":9,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/blank/About-1.png" alt="" class="wp-image-9"/></figure>
 <!-- /wp:image --></div>
@@ -66,8 +66,8 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"},"blockGap":{"top":"var:preset|spacing|30","left":"100px"},"margin":{"top":"24px","bottom":"48px"}}}} -->
-<div class="wp-block-columns alignwide" style="margin-top:24px;margin-bottom:48px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column {"verticalAlignment":"center"} -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"2.01rem","left":"2.01rem","top":"2.01rem","bottom":"2.01rem"},"blockGap":{"top":"2.01rem","left":"100px"},"margin":{"top":"24px","bottom":"48px"}}}} -->
+<div class="wp-block-columns alignwide" style="margin-top:24px;margin-bottom:48px;padding-top:2.01rem;padding-right:2.01rem;padding-bottom:2.01rem;padding-left:2.01rem"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
 <h2 class="wp-block-heading" style="margin-top:0;margin-bottom:0"><?php printf( esc_html__( '%s', 'variations' ), __( 'Service Title', 'variations' ) ); ?></h2>
 <!-- /wp:heading -->
