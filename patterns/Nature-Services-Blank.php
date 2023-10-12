@@ -29,8 +29,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast","textColor":"base","style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1"}},"fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size has-small-font-size" style="line-height:1"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background wp-element-button" style="padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
+<div class="wp-block-buttons"><!-- wp:button {"style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1","fontSize":"1.01rem"},"color":{"background":"#000001","text":"#fffffd"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:1.01rem;line-height:1"><a class="wp-block-button__link has-text-color has-background wp-element-button" style="color:#fffffd;background-color:#000001;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -59,8 +59,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast","textColor":"base","style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1"}},"fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size has-small-font-size" style="line-height:1"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background wp-element-button" style="padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
+<div class="wp-block-buttons"><!-- wp:button {"style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1","fontSize":"1.01rem"},"color":{"background":"#000001","text":"#fffffd"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:1.01rem;line-height:1"><a class="wp-block-button__link has-text-color has-background wp-element-button" style="color:#fffffd;background-color:#000001;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
@@ -77,8 +77,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast","textColor":"base","style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1"}},"fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size has-small-font-size" style="line-height:1"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background wp-element-button" style="padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
+<div class="wp-block-buttons"><!-- wp:button {"style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1","fontSize":"1.01rem"},"color":{"background":"#000001","text":"#fffffd"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:1.01rem;line-height:1"><a class="wp-block-button__link has-text-color has-background wp-element-button" style="color:#fffffd;background-color:#000001;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -100,8 +100,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast","textColor":"base","style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1"}},"fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size has-small-font-size" style="line-height:1"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background wp-element-button" style="padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
+<div class="wp-block-buttons"><!-- wp:button {"style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1","fontSize":"1.01rem"},"color":{"background":"#000001","text":"#fffffd"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:1.01rem;line-height:1"><a class="wp-block-button__link has-text-color has-background wp-element-button" style="color:#fffffd;background-color:#000001;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->

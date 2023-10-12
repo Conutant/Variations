@@ -19,8 +19,8 @@
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"4.51rem","bottom":"4.51rem","left":"0","right":"0"},"blockGap":"2.71rem"}},"layout":{"type":"constrained","wideSize":"1150px","contentSize":"1150px"}} -->
 <div class="wp-block-group alignwide" style="padding-top:4.51rem;padding-right:0;padding-bottom:4.51rem;padding-left:0"><!-- wp:media-text {"align":"wide","mediaId":311,"mediaType":"image","style":{"spacing":{"padding":{"right":"0","left":"0"},"blockGap":{"top":"2.01rem","left":"2.71rem"},"margin":{"right":"0","left":"0"}}}} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="margin-right:0;margin-left:0;padding-right:0;padding-left:0"><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/about/Our-Mission-min-1.jpg" alt="" class="wp-image-311 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"2.71rem","top":"4.51rem","bottom":"4.51rem"},"blockGap":"0.6rem"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:4.51rem;padding-right:0;padding-bottom:4.51rem;padding-left:2.71rem"><!-- wp:heading {"textAlign":"left","fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-text-align-left has-x-large-font-size"><?php printf( esc_html__( '%s', 'variations' ), __( 'OUR MISSION', 'variations' ) ); ?></h2>
+<div class="wp-block-group" style="padding-top:4.51rem;padding-right:0;padding-bottom:4.51rem;padding-left:2.71rem"><!-- wp:heading {"textAlign":"left","style":{"typography":{"fontSize":"2.26rem"}}} -->
+<h2 class="wp-block-heading has-text-align-left" style="font-size:2.26rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'OUR MISSION', 'variations' ) ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -36,8 +36,8 @@
 
 <!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/call-to-action/Call-to-action.jpg","id":198,"dimRatio":0,"isDark":false,"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-198" alt="" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/call-to-action/Call-to-action.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"right":"2.01rem","left":"2.01rem","top":"0","bottom":"0"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
-<div class="wp-block-group" style="padding-top:0;padding-right:2.01rem;padding-bottom:0;padding-left:2.01rem"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"},"color":{"text":"#2c541d"}},"fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-text-color has-x-large-font-size" style="color:#2c541d;font-style:normal;font-weight:500"><?php printf( esc_html__( '%s', 'variations' ), __( 'Talk To Us', 'variations' ) ); ?></h2>
+<div class="wp-block-group" style="padding-top:0;padding-right:2.01rem;padding-bottom:0;padding-left:2.01rem"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"2.26rem"},"color":{"text":"#2c541d"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#2c541d;font-size:2.26rem;font-style:normal;font-weight:500"><?php printf( esc_html__( '%s', 'variations' ), __( 'Talk To Us', 'variations' ) ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -45,8 +45,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"textColor":"base","style":{"spacing":{"padding":{"left":"50px","right":"50px","top":"9px","bottom":"9px"}},"color":{"background":"#74a84a"}},"className":"is-style-fill","fontSize":"medium"} -->
-<div class="wp-block-button has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" style="background-color:#74a84a;padding-top:9px;padding-right:50px;padding-bottom:9px;padding-left:50px"><?php printf( esc_html__( '%s', 'variations' ), __( 'Get In Touch', 'variations' ) ); ?></a></div>
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"base","style":{"spacing":{"padding":{"left":"50px","right":"50px","top":"9px","bottom":"9px"}},"color":{"background":"#74a84a"},"typography":{"fontSize":"1.13rem"}},"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-font-size is-style-fill" style="font-size:1.13rem"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" style="background-color:#74a84a;padding-top:9px;padding-right:50px;padding-bottom:9px;padding-left:50px"><?php printf( esc_html__( '%s', 'variations' ), __( 'Get In Touch', 'variations' ) ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div></div>

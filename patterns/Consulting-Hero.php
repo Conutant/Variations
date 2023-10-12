@@ -16,13 +16,13 @@
 <h1 class="wp-block-heading has-text-color" style="color:#fffffd;font-size:3.8em"><strong>Your Success is Our Business</strong></h1>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"left","style":{"color":{"text":"#fffffd"}},"fontSize":"medium"} -->
-<p class="has-text-align-left has-text-color has-medium-font-size" style="color:#fffffd">Consultz is a leading consulting firm dedicated to helping businesses achieve their goals and navigate.</p>
+<!-- wp:paragraph {"align":"left","style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"1.13rem"}}} -->
+<p class="has-text-align-left has-text-color" style="color:#fffffd;font-size:1.13rem">Consultz is a leading consulting firm dedicated to helping businesses achieve their goals and navigate.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"1rem","bottom":"0px"}},"typography":{"fontSize":"1rem"}}} -->
-<div class="wp-block-buttons has-custom-font-size" style="margin-top:1rem;margin-bottom:0px;font-size:1rem"><!-- wp:button {"style":{"border":{"radius":"0px","width":"0px","style":"none"},"color":{"text":"#141414","background":"#fffffd"},"spacing":{"padding":{"left":"3em","right":"3em","top":"1rem","bottom":"1rem"}}},"className":"is-style-fill hover_class_primary","fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size is-style-fill hover_class_primary has-small-font-size"><a class="wp-block-button__link has-text-color has-background wp-element-button" style="border-style:none;border-width:0px;border-radius:0px;color:#141414;background-color:#fffffd;padding-top:1rem;padding-right:3em;padding-bottom:1rem;padding-left:3em"><strong>Explore Now</strong></a></div>
+<div class="wp-block-buttons has-custom-font-size" style="margin-top:1rem;margin-bottom:0px;font-size:1rem"><!-- wp:button {"style":{"border":{"radius":"0px","width":"0px","style":"none"},"color":{"text":"#141414","background":"#fffffd"},"spacing":{"padding":{"left":"3em","right":"3em","top":"1rem","bottom":"1rem"}},"typography":{"fontSize":"1.01rem"}},"className":"is-style-fill hover_class_primary"} -->
+<div class="wp-block-button has-custom-font-size is-style-fill hover_class_primary" style="font-size:1.01rem"><a class="wp-block-button__link has-text-color has-background wp-element-button" style="border-style:none;border-width:0px;border-radius:0px;color:#141414;background-color:#fffffd;padding-top:1rem;padding-right:3em;padding-bottom:1rem;padding-left:3em"><strong>Explore Now</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

@@ -15,13 +15,13 @@
 <h2 class="wp-block-heading" style="font-size:2.3rem">All you need to keep your business booming</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Consultz is a leading consulting firm dedicated to helping businesses achieve their goals and navigate complex challenges. With a team of seasoned experts and a data-driven approach</p>
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.01rem"}}} -->
+<p style="font-size:1.01rem">Consultz is a leading consulting firm dedicated to helping businesses achieve their goals and navigate complex challenges. With a team of seasoned experts and a data-driven approach</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"1rem","bottom":"0px"}}}} -->
-<div class="wp-block-buttons" style="margin-top:1rem;margin-bottom:0px"><!-- wp:button {"style":{"border":{"radius":"0px","width":"0px","style":"none"},"spacing":{"padding":{"left":"3rem","right":"3rem","top":"1em","bottom":"1em"}},"color":{"background":"#000001","text":"#fffffd"}},"fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-text-color has-background wp-element-button" style="border-style:none;border-width:0px;border-radius:0px;color:#fffffd;background-color:#000001;padding-top:1em;padding-right:3rem;padding-bottom:1em;padding-left:3rem">All Services</a></div>
+<div class="wp-block-buttons" style="margin-top:1rem;margin-bottom:0px"><!-- wp:button {"style":{"border":{"radius":"0px","width":"0px","style":"none"},"spacing":{"padding":{"left":"3rem","right":"3rem","top":"1em","bottom":"1em"}},"color":{"background":"#000001","text":"#fffffd"},"typography":{"fontSize":"1.01rem"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:1.01rem"><a class="wp-block-button__link has-text-color has-background wp-element-button" style="border-style:none;border-width:0px;border-radius:0px;color:#fffffd;background-color:#000001;padding-top:1em;padding-right:3rem;padding-bottom:1em;padding-left:3rem">All Services</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -37,16 +37,16 @@
 <h5 class="wp-block-heading has-text-color" style="color:#141414;font-size:1.1rem;text-transform:none"><strong>Empowering Businesses through Strategic Consulting</strong></h5>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"color":{"text":"#141414"}},"fontSize":"small"} -->
-<p class="has-text-color has-small-font-size" style="color:#141414">Management Consulting<br><br>Strategy Consulting<br><br>IT Consulting</p>
+<!-- wp:paragraph {"style":{"color":{"text":"#141414"},"typography":{"fontSize":"1.01rem"}}} -->
+<p class="has-text-color" style="color:#141414;font-size:1.01rem">Management Consulting<br><br>Strategy Consulting<br><br>IT Consulting</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"style":{"color":{"background":"#d0cbc2"},"spacing":{"margin":{"top":"1rem","bottom":"1rem"}}},"className":"is-style-wide"} -->
 <hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background is-style-wide" style="margin-top:1rem;margin-bottom:1rem;background-color:#d0cbc2;color:#d0cbc2"/>
 <!-- /wp:separator -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Online marketing<br><br>Marketing and Sales Analysis<br><br>Operations Consulting</p>
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.01rem"}}} -->
+<p style="font-size:1.01rem">Online marketing<br><br>Marketing and Sales Analysis<br><br>Operations Consulting</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
