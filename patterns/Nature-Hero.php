@@ -17,8 +17,8 @@
 <h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#2c541d;font-size:6rem;font-style:normal;font-weight:500"><?php printf( esc_html__( '%s', 'variations' ), __( 'EARTH', 'variations' ) ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}},"typography":{"fontStyle":"normal","fontWeight":"200","letterSpacing":"0.3rem","fontSize":"1.77rem"}}} -->
-<p class="has-text-align-center" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:1.77rem;font-style:normal;font-weight:200;letter-spacing:0.3rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'ENDLESS POTENTIAL', 'variations' ) ); ?></p>
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}},"typography":{"fontStyle":"normal","fontWeight":"200","letterSpacing":"0.3rem","fontSize":"1.77rem"},"color":{"text":"#000001"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#000001;margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:1.77rem;font-style:normal;font-weight:200;letter-spacing:0.3rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'ENDLESS POTENTIAL', 'variations' ) ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"margin":{"top":"2.01rem","bottom":"2.01rem"},"blockGap":"0"}}} -->

@@ -20,8 +20,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"2.01rem","bottom":"0"}}}} -->
-<div class="wp-block-buttons" style="margin-top:2.01rem;margin-bottom:0"><!-- wp:button {"textColor":"base","style":{"spacing":{"padding":{"left":"50px","right":"50px","top":"9px","bottom":"9px"}},"color":{"background":"#74a84a"},"typography":{"fontSize":"1.13rem"}},"className":"is-style-fill"} -->
-<div class="wp-block-button has-custom-font-size is-style-fill" style="font-size:1.13rem"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" style="background-color:#74a84a;padding-top:9px;padding-right:50px;padding-bottom:9px;padding-left:50px"><?php printf( esc_html__( '%s', 'variations' ), __( 'EXPLORE', 'variations' ) ); ?></a></div>
+<div class="wp-block-buttons" style="margin-top:2.01rem;margin-bottom:0"><!-- wp:button {"style":{"spacing":{"padding":{"left":"50px","right":"50px","top":"9px","bottom":"9px"}},"color":{"background":"#74a84a","text":"#fffffd"},"typography":{"fontSize":"1.13rem"},"border":{"radius":"6px"}},"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-font-size is-style-fill" style="font-size:1.13rem"><a class="wp-block-button__link has-text-color has-background wp-element-button" style="border-radius:6px;color:#fffffd;background-color:#74a84a;padding-top:9px;padding-right:50px;padding-bottom:9px;padding-left:50px"><?php printf( esc_html__( '%s', 'variations' ), __( 'EXPLORE', 'variations' ) ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/about/Our-Mission-min-1.jpg" alt="" class="wp-image-188 size-full"/></figure></div>

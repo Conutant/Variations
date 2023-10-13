@@ -9,12 +9,12 @@
 
 ?>
 <!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/blank/bg.png","id":10,"dimRatio":0,"minHeight":450,"minHeightUnit":"px","isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"850px","wideSize":"900px"}} -->
-<div class="wp-block-cover alignfull is-light" style="padding-top:0;padding-bottom:0;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/blank/bg.png" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":1} -->
-<h1 class="wp-block-heading has-text-align-center"><?php printf( esc_html__( '%s', 'variations' ), __( 'About', 'variations' ) ); ?></h1>
+<div class="wp-block-cover alignfull is-light" style="padding-top:0;padding-bottom:0;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/blank/bg.png" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":1,"style":{"color":{"text":"#000001"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#000001"><?php printf( esc_html__( '%s', 'variations' ), __( 'About', 'variations' ) ); ?></h1>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php printf( esc_html__( '%s', 'variations' ), __( 'Subheading: Craft a compelling subheading that sparks curiosity.', 'variations' ) ); ?></p>
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#000001"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#000001"><?php printf( esc_html__( '%s', 'variations' ), __( 'Subheading: Craft a compelling subheading that sparks curiosity.', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
 
@@ -35,25 +35,25 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"textColor":"base","style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1","fontSize":"1.01rem"},"color":{"background":"#000001"}}} -->
-<div class="wp-block-button has-custom-font-size" style="font-size:1.01rem;line-height:1"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" style="background-color:#000001;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
+<div class="wp-block-buttons"><!-- wp:button {"style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1","fontSize":"1.01rem"},"color":{"background":"#000001","text":"#fffffd"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:1.01rem;line-height:1"><a class="wp-block-button__link has-text-color has-background wp-element-button" style="color:#fffffd;background-color:#000001;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
 <!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/blank/bg.png","id":10,"dimRatio":0,"minHeight":450,"minHeightUnit":"px","contentPosition":"center center","isDark":false,"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"600px"}} -->
-<div class="wp-block-cover alignfull is-light" style="margin-top:0;margin-bottom:0;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/blank/bg.png" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center"><?php printf( esc_html__( '%s', 'variations' ), __( 'Talk To Us Heading', 'variations' ) ); ?></h2>
+<div class="wp-block-cover alignfull is-light" style="margin-top:0;margin-bottom:0;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/blank/bg.png" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#000001"}}} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#000001"><?php printf( esc_html__( '%s', 'variations' ), __( 'Talk To Us Heading', 'variations' ) ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"2.75rem"}}}} -->
-<p class="has-text-align-center" style="margin-bottom:2.75rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'Text: In this section, you can compose a friendly and informative paragraph that encourages visitors to engage with your business.', 'variations' ) ); ?></p>
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"2.75rem"}},"color":{"text":"#000001"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#000001;margin-bottom:2.75rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'Text: In this section, you can compose a friendly and informative paragraph that encourages visitors to engage with your business.', 'variations' ) ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"textColor":"base","style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1","fontSize":"1.01rem"},"color":{"background":"#000001"}}} -->
-<div class="wp-block-button has-custom-font-size" style="font-size:1.01rem;line-height:1"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" style="background-color:#000001;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
+<div class="wp-block-buttons"><!-- wp:button {"style":{"spacing":{"padding":{"left":"30px","right":"30px","top":"15px","bottom":"15px"}},"typography":{"lineHeight":"1","fontSize":"1.01rem"},"color":{"background":"#000001","text":"#fffffd"}}} -->
+<div class="wp-block-button has-custom-font-size" style="font-size:1.01rem;line-height:1"><a class="wp-block-button__link has-text-color has-background wp-element-button" style="color:#fffffd;background-color:#000001;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px"><?php echo esc_html_x( 'CTA Button', 'sample content for call to action button', 'variations' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->
