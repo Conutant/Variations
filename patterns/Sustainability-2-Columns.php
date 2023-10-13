@@ -23,8 +23,10 @@
 <!-- wp:column {"width":"32%","style":{"spacing":{"padding":{"bottom":"4rem"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-column" style="padding-bottom:4rem;flex-basis:32%"><!-- wp:group {"style":{"spacing":{"blockGap":"4rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":236,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/services/icon-sea-waves.png" alt="" class="wp-image-236"/></figure>
+<div class="wp-block-group">
+    
+<!-- wp:image {"id":236,"width":"60px","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/services/icon-sea-waves.png" alt="" class="wp-image-236" style="width:60px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":6,"style":{"typography":{"textTransform":"capitalize","fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.2"}}} -->
@@ -37,8 +39,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":234,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/services/icon-flash.png" alt="" class="wp-image-234"/></figure>
+<div class="wp-block-group"><!-- wp:image {"id":234,"width":"60px","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/services/icon-flash.png" alt="" class="wp-image-234" style="width:60px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":6,"style":{"typography":{"textTransform":"capitalize","fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.2"}}} -->
@@ -55,8 +57,8 @@
 <!-- wp:column {"width":"32%","style":{"spacing":{"padding":{"bottom":"4rem"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-column" style="padding-bottom:4rem;flex-basis:32%"><!-- wp:group {"style":{"spacing":{"blockGap":"4rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":235,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/services/icon-recycle.png" alt="" class="wp-image-235"/></figure>
+<div class="wp-block-group"><!-- wp:image {"id":235,"width":"60px","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/services/icon-recycle.png" alt="" class="wp-image-235" style="width:60px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":6,"style":{"typography":{"textTransform":"capitalize","fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.2"}}} -->
@@ -69,8 +71,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":231,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/services/icon-cloud.png" alt="" class="wp-image-231"/></figure>
+<div class="wp-block-group"><!-- wp:image {"id":231,"width":"70px","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/services/icon-cloud.png" alt="" class="wp-image-231" style="width:70px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":6,"style":{"typography":{"textTransform":"capitalize","fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.2"}}} -->

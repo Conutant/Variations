@@ -1,5 +1,12 @@
 {
-	"customTemplates": [
+	"customTemplates": [		
+		{
+			"name": "websites-consulting",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Consulting"
+		},
 		{
 			"name": "websites-professional-services",
 			"postTypes": [

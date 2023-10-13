@@ -11,3 +11,9 @@
 <!-- wp:pattern {"slug":"variations/consulting-hero"} /-->
 
 <!-- wp:pattern {"slug":"variations/consulting-3-columns"} /-->
+
+<!-- wp:pattern {"slug":"variations/consulting-image-text"} /-->
+
+<!-- wp:pattern {"slug":"variations/consulting-testimonial"} /-->
+
+<!-- wp:pattern {"slug":"variations/consulting-team"} /-->
