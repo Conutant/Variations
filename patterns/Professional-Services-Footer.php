@@ -9,12 +9,12 @@
  */
 
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"5.03rem","left":"6.67rem","right":"4.04rem","top":"4.56rem"}},"color":{"background":"#1f1f1f","text":"#fffffd"},"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"1.25rem","lineHeight":"1.5"}},"layout":{"type":"constrained","contentSize":"1750px"}} -->
-<div class="wp-block-group has-text-color has-background" style="color:#fffffd;background-color:#1f1f1f;padding-top:4.56rem;padding-right:4.04rem;padding-bottom:5.03rem;padding-left:6.67rem;font-size:1.25rem;font-style:normal;font-weight:400;line-height:1.5"><!-- wp:columns {"verticalAlignment":null,"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":{"top":"3.2rem","left":"3.2rem"}}}} -->
-<div class="wp-block-columns alignwide" style="margin-top:0;margin-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"70%","layout":{"type":"default"}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"5.03rem","left":"1rem","right":"1rem","top":"4.56rem"}},"color":{"background":"#1f1f1f","text":"#fffffd"},"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"1.25rem","lineHeight":"1.5"}},"layout":{"type":"constrained","contentSize":"1750px"}} -->
+<div class="wp-block-group has-text-color has-background" style="color:#fffffd;background-color:#1f1f1f;padding-top:4.56rem;padding-right:1rem;padding-bottom:5.03rem;padding-left:1rem;font-size:1.25rem;font-style:normal;font-weight:400;line-height:1.5"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":{"top":"3.2rem","left":"3.2rem"},"padding":{"right":"4rem","left":"4rem"}}}} -->
+<div class="wp-block-columns alignwide" style="margin-top:0;margin-bottom:0;padding-right:4rem;padding-left:4rem"><!-- wp:column {"verticalAlignment":"top","width":"70%","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-top" style="flex-basis:70%"><!-- wp:group {"layout":{"type":"constrained","contentSize":"26rem","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":479,"width":96,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logos/servo-logo-footer-sm.png" alt="" class="wp-image-479" style="width:96px" width="96"/></figure>
+<div class="wp-block-group"><!-- wp:image {"id":479,"width":"96px","height":"undefinedpx","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logos/servo-logo-footer-sm.png" alt="" class="wp-image-479" style="width:96px;height:undefinedpx"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"1.25rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5"},"spacing":{"margin":{"bottom":"2.77rem","top":"1.7rem"}}}} -->
@@ -33,8 +33,8 @@
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"top","width":"125px","style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-column is-vertically-aligned-top" style="padding-right:0;padding-left:0;flex-basis:125px"><!-- wp:heading {"level":6,"style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"1.25rem","fontStyle":"normal","fontWeight":"600","lineHeight":"1.3","textTransform":"capitalize"}}} -->
+<!-- wp:column {"verticalAlignment":"top","width":"140px","style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-right:0;padding-left:0;flex-basis:140px"><!-- wp:heading {"level":6,"style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"1.25rem","fontStyle":"normal","fontWeight":"600","lineHeight":"1.3","textTransform":"capitalize"}}} -->
 <h6 class="wp-block-heading has-text-color" style="color:#fffffd;font-size:1.25rem;font-style:normal;font-weight:600;line-height:1.3;text-transform:capitalize"><?php printf( esc_html__( '%s', 'variations' ), __( 'Our Work', 'variations' ) ); ?></h6>
 <!-- /wp:heading -->
 
@@ -51,13 +51,13 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"top","width":"352px"} -->
-<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:352px"><!-- wp:heading {"level":6,"style":{"color":{"text":"#fffffd"},"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"1.25rem","lineHeight":"1.3","textTransform":"capitalize"}}} -->
+<!-- wp:column {"verticalAlignment":"top","width":"376px"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:376px"><!-- wp:heading {"level":6,"style":{"color":{"text":"#fffffd"},"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"1.25rem","lineHeight":"1.3","textTransform":"capitalize"}}} -->
 <h6 class="wp-block-heading has-text-color" style="color:#fffffd;font-size:1.25rem;font-style:normal;font-weight:600;line-height:1.3;text-transform:capitalize"><?php printf( esc_html__( '%s', 'variations' ), __( 'Travel', 'variations' ) ); ?></h6>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#fffffd"}}},"typography":{"fontSize":"1.25rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5"},"spacing":{"margin":{"top":"1.56rem"}}}} -->
-<p class="has-link-color" style="margin-top:1.56rem;font-size:1.25rem;font-style:normal;font-weight:400;line-height:1.5"><a href="mailto:#"><?php printf( esc_html__( '%s', 'variations' ), __( 'mail@Servo.com', 'variations' ) ); ?></a> <?php printf( esc_html__( '%s', 'variations' ), __( 'Maria Therein Platz, NY', 'variations' ) ); ?> <a href="tel:#"><?php printf( esc_html__( '%s', 'variations' ), __( '154-568-145-442-000', 'variations' ) ); ?></a></p>
+<p class="has-link-color" style="margin-top:1.56rem;font-size:1.25rem;font-style:normal;font-weight:400;line-height:1.5"><a href="mailto:#"><?php printf( esc_html__( '%s', 'variations' ), __( 'mail@Servo.com', 'variations' ) ); ?></a> <?php printf( esc_html__( '%s', 'variations' ), __( 'Maria Therein Platz, NY ', 'variations' ) ); ?><a href="tel:#"><?php printf( esc_html__( '%s', 'variations' ), __( '154-568-145-442-000', 'variations' ) ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
