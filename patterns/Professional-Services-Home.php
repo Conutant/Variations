@@ -9,9 +9,15 @@
 
 ?>
 <!-- wp:pattern {"slug":"variations/professional-services-text"} /-->
+
 <!-- wp:pattern {"slug":"variations/professional-services-banner"} /-->
+
 <!-- wp:pattern {"slug":"variations/professional-services-3-columns"} /-->
+
 <!-- wp:pattern {"slug":"variations/professional-services-2-columns"} /-->
+
 <!-- wp:pattern {"slug":"variations/professional-services-banner2"} /-->
+
 <!-- wp:pattern {"slug":"variations/professional-services-2-columns2"} /-->
+
 <!-- wp:pattern {"slug":"variations/professional-services-cta"} /-->
