@@ -27,7 +27,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"1.77rem"},"color":{"text":"#3a3a3a"},"spacing":{"margin":{"top":"2.01rem"}}}} -->
-<h4 class="wp-block-heading has-text-color" style="color:#3a3a3a;margin-top:2.01rem;font-size:1.77rem">Mission</h4>
+<h4 class="wp-block-heading has-text-color" style="color:#3a3a3a;margin-top:2.01rem;font-size:1.77rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'Mission', 'variations' ) ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#3a3a3a"},"typography":{"fontSize":"1.13rem"}}} -->
