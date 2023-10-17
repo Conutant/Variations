@@ -17,24 +17,24 @@
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"61%"} -->
-<div class="wp-block-column" style="flex-basis:61%"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontStyle":"normal","fontWeight":"300","fontSize":"3.5rem","textTransform":"capitalize","lineHeight":"1.0"},"spacing":{"margin":{"top":"2rem"}}}} -->
-<h5 class="wp-block-heading has-text-align-center" style="margin-top:2rem;font-size:3.5rem;font-style:normal;font-weight:300;line-height:1.0;text-transform:capitalize"><?php printf( esc_html__( '%s', 'variations' ), __( 'We are Creating', 'variations' ) ); ?></h5>
+<div class="wp-block-column" style="flex-basis:61%"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontStyle":"normal","fontWeight":"300","fontSize":"2.61rem","textTransform":"capitalize","lineHeight":"1.0"},"spacing":{"margin":{"top":"2rem"}}}} -->
+<h5 class="wp-block-heading has-text-align-center" style="margin-top:2rem;font-size:2.61rem;font-style:normal;font-weight:300;line-height:1.0;text-transform:capitalize"><?php printf( esc_html__( '%s', 'variations' ), __( 'We are Creating', 'variations' ) ); ?></h5>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"7.5rem","lineHeight":"1.0","fontStyle":"normal","fontWeight":"500"},"spacing":{"margin":{"bottom":"15px"}}}} -->
-<h3 class="wp-block-heading has-text-align-center" style="margin-bottom:15px;font-size:7.5rem;font-style:normal;font-weight:500;line-height:1.0"><?php printf( esc_html__( '%s', 'variations' ), __( 'Sustainability', 'variations' ) ); ?></h3>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"4.51rem","lineHeight":"1.0","fontStyle":"normal","fontWeight":"500"},"spacing":{"margin":{"bottom":"15px"}}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="margin-bottom:15px;font-size:4.51rem;font-style:normal;font-weight:500;line-height:1.0"><?php printf( esc_html__( '%s', 'variations' ), __( 'Sustainability', 'variations' ) ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"right":"1rem","left":"1rem"}}},"layout":{"type":"constrained","contentSize":"721px"}} -->
-<div class="wp-block-group" style="padding-right:1rem;padding-left:1rem"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.25rem"}}} -->
-<p class="has-text-align-center" style="font-size:1.25rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'Founded in 1921, Sackett Woodworking is a fourth-generation family business dedicated to the art and craft of fine carpentry. From grand homes to one of a kind heirlooms, we approach every project as a unique opportunity to apple classic woodworking techniques to modern aesthetics.', 'variations' ) ); ?></p>
+<div class="wp-block-group" style="padding-right:1rem;padding-left:1rem"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.13rem"}}} -->
+<p class="has-text-align-center" style="font-size:1.13rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'Founded in 1921, Sackett Woodworking is a fourth-generation family business dedicated to the art and craft of fine carpentry. From grand homes to one of a kind heirlooms, we approach every project as a unique opportunity to apple classic woodworking techniques to modern aesthetics.', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"2rem","bottom":"2rem"}}}} -->
-<div class="wp-block-buttons" style="margin-top:2rem;margin-bottom:2rem"><!-- wp:button {"style":{"border":{"color":"#504f43","width":"1px","radius":"0px"},"typography":{"textTransform":"uppercase","fontSize":"1.11rem"},"spacing":{"padding":{"left":"4.5rem","right":"4.5rem","top":"1rem","bottom":"1rem"}}},"className":"is-style-outline"} -->
-<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:1.11rem;text-transform:uppercase"><a class="wp-block-button__link has-border-color wp-element-button" style="border-color:#504f43;border-width:1px;border-radius:0px;padding-top:1rem;padding-right:4.5rem;padding-bottom:1rem;padding-left:4.5rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'Discover', 'variations' ) ); ?></a></div>
+<div class="wp-block-buttons" style="margin-top:2rem;margin-bottom:2rem"><!-- wp:button {"style":{"border":{"color":"#504f43","width":"1px","radius":"0px"},"typography":{"textTransform":"uppercase","fontSize":"1.11rem"},"spacing":{"padding":{"left":"2.2rem","right":"2.2rem","top":"0.8rem","bottom":"0.8rem"}}},"className":"is-style-outline"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:1.11rem;text-transform:uppercase"><a class="wp-block-button__link has-border-color wp-element-button" style="border-color:#504f43;border-width:1px;border-radius:0px;padding-top:0.8rem;padding-right:2.2rem;padding-bottom:0.8rem;padding-left:2.2rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'Discover', 'variations' ) ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
