@@ -17,3 +17,7 @@
 <!-- wp:pattern {"slug":"variations/fashion-banner"} /-->
 
 <!-- wp:pattern {"slug":"variations/fashion-3-columns"} /-->
+
+<!-- wp:pattern {"slug":"variations/fashion-3-columns2"} /-->
+
+<!-- wp:pattern {"slug":"variations/fashion-cta"} /-->
