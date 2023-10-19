@@ -9,3 +9,9 @@
 
 ?>
 <!-- wp:pattern {"slug":"variations/photography-hero"} /-->
+
+<!-- wp:pattern {"slug":"variations/photography-image-text"} /-->
+
+<!-- wp:pattern {"slug":"variations/photography-banner"} /-->
+
+<!-- wp:pattern {"slug":"variations/photography-3-columns"} /-->
