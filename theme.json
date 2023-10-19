@@ -1,5 +1,12 @@
 {
-	"customTemplates": [		
+	"customTemplates": [
+		{
+			"name": "websites-photography",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Photography"
+		},	
 		{
 			"name": "websites-consulting",
 			"postTypes": [
