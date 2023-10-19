@@ -1,6 +1,13 @@
 {
 	"customTemplates": [
 		{
+			"name": "websites-fashion",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Fashion"
+		},
+		{
 			"name": "websites-photography",
 			"postTypes": [
 				"page"
