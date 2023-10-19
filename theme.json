@@ -1,5 +1,12 @@
 {
-	"customTemplates": [
+	"customTemplates": [		
+		{
+			"name": "websites-mental-health",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Mental Health"
+		},
 		{
 			"name": "websites-fashion",
 			"postTypes": [

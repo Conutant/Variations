@@ -122,9 +122,9 @@
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30)"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"margin":{"top":"2.01rem","bottom":"0"}}}} -->
+ 
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"1.01rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:1.01rem"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"margin":{"top":"2.01rem","bottom":"0"}}}} -->
 <div class="wp-block-buttons" style="margin-top:2.01rem;margin-bottom:0"><!-- wp:button {"style":{"spacing":{"padding":{"left":"3.2rem","right":"3.2rem","top":"0.8em","bottom":"0.8em"}},"color":{"background":"#fffffd","text":"#0e0e0e"},"typography":{"fontSize":"1.01em"},"border":{"radius":"30px","color":"#0e0e0e","width":"1px"}},"className":"is-style-outline"} -->
 <div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:1.01em"><a class="wp-block-button__link has-text-color has-background has-border-color wp-element-button" style="border-color:#0e0e0e;border-width:1px;border-radius:30px;color:#0e0e0e;background-color:#fffffd;padding-top:0.8em;padding-right:3.2rem;padding-bottom:0.8em;padding-left:3.2rem"><?php printf( esc_html__( '%s', 'variations' ), __( 'VIEW MORE STORIES', 'variations' ) ); ?></a></div>
 <!-- /wp:button --></div>
