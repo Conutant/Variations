@@ -23,7 +23,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.1rem"}}} -->
-<p style="font-size:1.1rem"><?php printf( esc_html__( '%s <br> %s', 'variations' ), '<a href="tel:' . __( '5555555555', 'variations' ) . '">' . __( '(555) 555-5555', 'variations' ) . '</a>', '<a href="mailto:' . __( 'email@example.com', 'variations' ) . '">' . __( 'email@example.com', 'variations' ) . '</a>' ); ?></p>
+<p style="font-size:1.1rem"><?php printf( esc_html__( '%s %s', 'variations' ), '<a href="tel:' . __( '5555555555', 'variations' ) . '">' . __( '(555) 555-5555', 'variations' ) . '</a><br>', '<a href="mailto:' . __( 'email@example.com', 'variations' ) . '">' . __( 'email@example.com', 'variations' ) . '</a>' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
