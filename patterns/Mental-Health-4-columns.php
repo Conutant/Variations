@@ -17,7 +17,7 @@
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group"><!-- wp:columns {"align":"full"} -->
-<div class="wp-block-columns alignfull"><!-- wp:column -->
+<div class="wp-block-columns alignfull"><!-- wp:column {"style":{"spacing":{"blockGap":"1.3rem"}}} -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":514,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/mental-health/Team-01.jpg" alt="" class="wp-image-514"/></figure>
 <!-- /wp:image -->
@@ -27,7 +27,7 @@
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
+<!-- wp:column {"style":{"spacing":{"blockGap":"1.3rem"}}} -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":515,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/mental-health/Team-02.jpg" alt="" class="wp-image-515"/></figure>
 <!-- /wp:image -->
@@ -37,7 +37,7 @@
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
+<!-- wp:column {"style":{"spacing":{"blockGap":"1.3rem"}}} -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":516,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/mental-health/Team-03.jpg" alt="" class="wp-image-516"/></figure>
 <!-- /wp:image -->
@@ -47,7 +47,7 @@
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
+<!-- wp:column {"style":{"spacing":{"blockGap":"1.3rem"}}} -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":517,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/mental-health/Team-04.jpg" alt="" class="wp-image-517"/></figure>
 <!-- /wp:image -->
