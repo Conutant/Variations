@@ -14,7 +14,7 @@
 <div class="wp-block-columns alignwide" style="margin-top:0;margin-bottom:0;padding-right:4rem;padding-left:4rem"><!-- wp:column {"verticalAlignment":"top","width":"70%","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-top" style="flex-basis:70%"><!-- wp:group {"layout":{"type":"constrained","contentSize":"26rem","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":479,"width":"96px","height":"undefinedpx","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logos/servo-logo-footer-sm.png" alt="" class="wp-image-479" style="width:96px;height:undefinedpx"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logos/servo-logo-footer2.svg" alt="" class="wp-image-479" style="width:96px;height:undefinedpx"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"1.13rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5"},"spacing":{"margin":{"bottom":"2.77rem","top":"1.7rem"}}}} -->

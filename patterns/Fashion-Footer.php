@@ -11,7 +11,7 @@
 ?>
 <!-- wp:group {"style":{"spacing":{"padding":{"bottom":"3.03rem","left":"1rem","right":"1rem","top":"3.56rem"}},"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"1.25rem","lineHeight":"1.5"},"color":{"text":"#525060"}},"layout":{"type":"constrained","contentSize":"800px"}} -->
 <div class="wp-block-group has-text-color" style="color:#525060;padding-top:3.56rem;padding-right:1rem;padding-bottom:3.03rem;padding-left:1rem;font-size:1.25rem;font-style:normal;font-weight:400;line-height:1.5"><!-- wp:image {"align":"center","id":576,"width":"170px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/fashion/fashion-logo.png" alt="" class="wp-image-576" style="width:170px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/fashion/fashion-logo.svg" alt="" class="wp-image-576" style="width:170px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"left":"1rem"},"margin":{"top":"2rem","bottom":"3rem"},"padding":{"left":"5%"}}}} -->
