@@ -1,6 +1,13 @@
 {
 	"customTemplates": [
 		{
+			"name": "websites-mind",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Mind"
+		},
+		{
 			"name": "websites-mental-health",
 			"postTypes": [
 				"page"
