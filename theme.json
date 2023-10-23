@@ -1,6 +1,13 @@
 {
 	"customTemplates": [
 		{
+			"name": "websites-consulting-green",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Consulting Green"
+		},
+		{
 			"name": "websites-mind",
 			"postTypes": [
 				"page"
