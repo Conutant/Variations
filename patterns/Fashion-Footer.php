@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Fashion Footer
- * Slug: variations-child/fashion-footer
+ * Slug: variations/fashion-footer
  * Description: Add a Footer With Logo, Columns and Copyright
  * Categories: footer, column
  * Keywords: footer

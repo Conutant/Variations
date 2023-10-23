@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Sustainability Header
- * Slug: variations-child/sustainability-header
+ * Slug: variations/sustainability-header
  * Description: Header with navigation, logo and button
  * Categories: header
  * Keywords: header, nav, site logo

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Mental Health Footer
- * Slug: variations-child/mental-health-footer
+ * Slug: variations/mental-health-footer
  * Description: Add a Footer With Logo, navigation and Copyright
  * Categories: footer
  * Keywords: footer

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Photography Header
- * Slug: variations-child/photography-header
+ * Slug: variations/photography-header
  * Description: Header with navigation and logo
  * Categories: header
  * Keywords: header, nav, site logo

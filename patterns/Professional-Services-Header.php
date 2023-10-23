@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Professional Services Header
- * Slug: variations-child/professional-services-header
+ * Slug: variations/professional-services-header
  * Description: Header with logo, navigation and button
  * Categories: header
  * Keywords: header, nav, site logo

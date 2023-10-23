@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Professional Services Footer
- * Slug: variations-child/professional-services-footer
+ * Slug: variations/professional-services-footer
  * Description: Add a Footer With Logo, Columns and Contacts
  * Categories: footer, column
  * Keywords: footer

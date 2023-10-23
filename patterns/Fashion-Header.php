@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Fashion Header
- * Slug: variations-child/fashion-header
+ * Slug: variations/fashion-header
  * Description: Header with logo, navigation and button
  * Categories: header
  * Keywords: header, nav, site logo

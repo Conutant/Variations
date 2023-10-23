@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Mental Health Header
- * Slug: variations-child/mental-health-header
+ * Slug: variations/mental-health-header
  * Description: Header with logo, navigation
  * Categories: header
  * Keywords: header, nav, site logo

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Mind Header
- * Slug: variations-child/mind-header
+ * Slug: variations/mind-header
  * Description: Header with logo, navigation
  * Categories: header
  * Keywords: header, nav, site logo

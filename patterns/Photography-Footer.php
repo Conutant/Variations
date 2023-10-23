@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Photography Footer
- * Slug: variations-child/photography-footer
+ * Slug: variations/photography-footer
  * Description: Add a Footer With Logo, navigation and Copyright
  * Categories: footer
  * Keywords: footer
