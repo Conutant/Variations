@@ -13,9 +13,11 @@
 <div class="wp-block-group has-text-color" style="color:#1f1f1f;min-height:0px;margin-top:0;margin-bottom:0;padding-right:1rem;padding-left:1rem;font-style:normal;font-weight:400;line-height:1.5"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0rem","bottom":"0rem","left":"1rem","right":"1rem"},"blockGap":{"top":"1rem","left":"1.62rem"}},"border":{"width":"0px","style":"none"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="border-style:none;border-width:0px;padding-top:0rem;padding-right:1rem;padding-bottom:0rem;padding-left:1rem"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:site-title {"style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"1.5rem"}}} /-->
+<div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"layout":{"type":"constrained","contentSize":"100px"}} -->
+<div class="wp-block-group"><!-- wp:site-title {"level":2,"style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"1.5rem"}}} /--></div>
+<!-- /wp:group -->
 
-<!-- wp:navigation {"ref":39,"customTextColor":"#fffffd","icon":"menu","customOverlayBackgroundColor":"#000001","customOverlayTextColor":"#fffffd","layout":{"type":"flex","justifyContent":"center"},"style":{"typography":{"fontSize":"1.2rem"}}} /--></div>
+<!-- wp:navigation {"customTextColor":"#fffffd","icon":"menu","customOverlayBackgroundColor":"#000001","customOverlayTextColor":"#fffffd","layout":{"type":"flex","justifyContent":"center"},"style":{"typography":{"fontSize":"1.2rem"}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
