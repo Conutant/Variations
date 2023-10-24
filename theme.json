@@ -1,6 +1,13 @@
 {
 	"customTemplates": [
 		{
+			"name": "websites-fitness",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Fitness"
+		},
+		{
 			"name": "websites-consulting-green",
 			"postTypes": [
 				"page"
