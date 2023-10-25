@@ -1,4 +1,6 @@
 {
+	"$schema": "https://schemas.wp.org/wp/6.3/theme.json",
+	"version": 2,
 	"customTemplates": [
 		{
 			"name": "websites-green",
@@ -843,7 +845,5 @@
 			"name": "post-meta",
 			"title": "Post Meta"
 		}
-	],
-	"version": 2,
-	"$schema": "https://schemas.wp.org/wp/6.3/theme.json"
+	]	
 }

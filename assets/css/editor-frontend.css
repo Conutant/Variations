@@ -61,3 +61,11 @@ body main:has(.wp-block-post-title) .entry-content {
 .variations-posts-grid li>div {
     height: 100%;
 }
+
+/*
+ * Site Title underline bug fix.
+ */
+.wp-block-heading[style*="text-decoration:none"] a,
+.wp-block-heading[style*="text-decoration: none"] a {
+    text-decoration: none !important;
+}
