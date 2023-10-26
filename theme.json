@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-Traveling",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Traveling"
+		},
+		{
 			"name": "websites-green",
 			"postTypes": [
 				"page"
