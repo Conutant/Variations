@@ -59,11 +59,11 @@
 			"title": "Header/Footer: Photography"
 		},	
 		{
-			"name": "websites-consulting",
+			"name": "websites-pine",
 			"postTypes": [
 				"page"
 			],
-			"title": "Header/Footer: Consulting"
+			"title": "Header/Footer: Pine"
 		},
 		{
 			"name": "websites-professional-services",

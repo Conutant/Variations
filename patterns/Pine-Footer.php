@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Consulting Footer
- * Slug: variations/consulting-footer
+ * Title: Pine Footer
+ * Slug: variations/pine-footer
  * Description: Add a Footer With Logo, Columns and Copyright
  * Categories: footer, column
  * Keywords: footer
@@ -16,7 +16,7 @@
 <div class="wp-block-group"><!-- wp:site-title {"level":2,"style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"2rem"}}} /-->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#aeaeae"},"typography":{"fontStyle":"normal","fontWeight":"400","lineHeight":"1.5","fontSize":"1.13rem"},"spacing":{"margin":{"bottom":"1.01rem","right":"1.01rem","top":"0.7rem"}}}} -->
-<p class="has-text-color" style="color:#aeaeae;margin-top:0.7rem;margin-right:1.01rem;margin-bottom:1.01rem;font-size:1.13rem;font-style:normal;font-weight:400;line-height:1.5">© 2023 Consultz - Theme by Tyler</p>
+<p class="has-text-color" style="color:#aeaeae;margin-top:0.7rem;margin-right:1.01rem;margin-bottom:1.01rem;font-size:1.13rem;font-style:normal;font-weight:400;line-height:1.5">© 2023 Pine - Theme by Tyler</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -63,7 +63,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#aeaeae"}}},"typography":{"textDecoration":"none","fontSize":"1.13rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.8"},"spacing":{"margin":{"top":"1.7rem"}},"color":{"text":"#aeaeae"}}} -->
-<p class="has-text-color has-link-color" style="color:#aeaeae;margin-top:1.7rem;font-size:1.13rem;font-style:normal;font-weight:400;line-height:1.8;text-decoration:none">mail@consultz.com</p>
+<p class="has-text-color has-link-color" style="color:#aeaeae;margin-top:1.7rem;font-size:1.13rem;font-style:normal;font-weight:400;line-height:1.8;text-decoration:none">mail@pine.com</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#aeaeae"}}},"typography":{"textDecoration":"none","fontSize":"1.13rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.8"},"spacing":{"margin":{"top":"0.7rem"}},"color":{"text":"#aeaeae"}}} -->
