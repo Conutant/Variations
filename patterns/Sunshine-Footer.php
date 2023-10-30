@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Mental Health Footer
- * Slug: variations/mental-health-footer
+ * Title: Sunshine Footer
+ * Slug: variations/sunshine-footer
  * Description: Add a Footer With Site Titles and Copyright
  * Categories: footer
  * Keywords: footer
@@ -12,7 +12,7 @@
 <!-- wp:group {"style":{"color":{"background":"#fffbf0"},"spacing":{"padding":{"bottom":"2rem","right":"1rem","left":"1rem"}}},"layout":{"type":"constrained","contentSize":"1700px"}} -->
 <div class="wp-block-group has-background" style="background-color:#fffbf0;padding-right:1rem;padding-bottom:2rem;padding-left:1rem"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:site-title {"level":2,"style":{"color":{"text":"#000001"},"typography":{"fontSize":"1.8rem"}}} /--></div>
+<div class="wp-block-column"><!-- wp:site-title {"level":2,"style":{"color":{"text":"#f9af36"},"typography":{"fontSize":"1.91rem","fontStyle":"normal","fontWeight":"600"}}} /--></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
@@ -29,7 +29,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.1rem"}}} -->
-<p style="font-size:1.1rem">Copyright © 2023 Antonino.<br>All rights reserved.</p>
+<p style="font-size:1.1rem">Copyright © 2023 Sunshine - Theme by Tyler.<br>All rights reserved.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

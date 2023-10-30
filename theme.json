@@ -45,18 +45,18 @@
 			"title": "Header/Footer: Mind"
 		},
 		{
-			"name": "websites-mental-health",
+			"name": "websites-sunshine",
 			"postTypes": [
 				"page"
 			],
-			"title": "Header/Footer: Mental Health"
+			"title": "Header/Footer: Sunshine"
 		},
 		{
-			"name": "websites-fashion",
+			"name": "websites-style",
 			"postTypes": [
 				"page"
 			],
-			"title": "Header/Footer: Fashion"
+			"title": "Header/Footer: Style"
 		},
 		{
 			"name": "websites-photography",
