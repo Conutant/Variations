@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Fashion Footer
- * Slug: variations/fashion-footer
+ * Title: Style Footer
+ * Slug: variations/style-footer
  * Description: Add a Footer With Site Title, Columns and Copyright
  * Categories: footer, column
  * Keywords: footer
@@ -79,6 +79,6 @@
 <!-- /wp:columns -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"0.9rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.2"},"color":{"text":"#525060"}}} -->
-<p class="has-text-align-center has-text-color" style="color:#525060;font-size:0.9rem;font-style:normal;font-weight:400;line-height:1.2">© 2023 Antonino. All rights reserved.</p>
+<p class="has-text-align-center has-text-color" style="color:#525060;font-size:0.9rem;font-style:normal;font-weight:400;line-height:1.2">© 2023 Style - Theme by Tyler. All rights reserved.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
