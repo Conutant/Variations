@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Sustainability Header
- * Slug: variations/sustainability-header
+ * Title: Wood Header
+ * Slug: variations/wood-header
  * Description: Header with navigation, logo and button
  * Categories: header
  * Keywords: header, nav, site logo
@@ -11,7 +11,7 @@
 ?>
 <!-- wp:group {"style":{"position":{"type":"sticky","top":"0px"},"spacing":{"padding":{"top":"0px","bottom":"0px","left":"1rem","right":"1rem"},"margin":{"top":"0","bottom":"0"}},"color":{"text":"#fffffd"}},"layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group has-text-color" style="color:#fffffd;margin-top:0;margin-bottom:0;padding-top:0px;padding-right:1rem;padding-bottom:0px;padding-left:1rem"><!-- wp:group {"layout":{"type":"flex","orientation":"horizontal","justifyContent":"space-between","flexWrap":"wrap"}} -->
-<div class="wp-block-group"><!-- wp:navigation {"layout":{"type":"flex","justifyContent":"center"},"style":{"typography":{"fontSize":"1.2rem"}}} /-->
+<div class="wp-block-group"><!-- wp:navigation {"ref":820,"icon":"menu","layout":{"type":"flex","justifyContent":"center"},"style":{"typography":{"fontSize":"1.2rem"}}} /-->
 
 <!-- wp:site-title {"style":{"color":{"text":"#fffffd"},"elements":{"link":{"color":{"text":"#fffffd"},":hover":{"color":{"text":"#fffffd"}}}},"typography":{"textDecoration":"none","lineHeight":"1.2","fontStyle":"normal","fontWeight":"300","fontSize":"2.81rem","textTransform":"uppercase"}}} /-->
 

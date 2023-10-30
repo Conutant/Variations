@@ -66,18 +66,18 @@
 			"title": "Header/Footer: Pine"
 		},
 		{
-			"name": "websites-professional-services",
+			"name": "websites-clay",
 			"postTypes": [
 				"page"
 			],
-			"title": "Header/Footer: Professional Services"
+			"title": "Header/Footer: Clay"
 		},
 		{
-			"name": "websites-sustainability",
+			"name": "websites-wood",
 			"postTypes": [
 				"page"
 			],
-			"title": "Header/Footer: Sustainability"
+			"title": "Header/Footer: Wood"
 		},
 		{
 			"name": "websites-earth",

@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Professional Services Footer
- * Slug: variations/professional-services-footer
+ * Title: Clay Footer
+ * Slug: variations/clay-footer
  * Description: Add a Footer With Logo, Columns and Contacts
  * Categories: footer, column
  * Keywords: footer
@@ -55,7 +55,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#fffffd"}}},"typography":{"fontSize":"1.13rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5"},"spacing":{"margin":{"top":"1.56rem"}}}} -->
-<p class="has-link-color" style="margin-top:1.56rem;font-size:1.13rem;font-style:normal;font-weight:400;line-height:1.5"><a href="mailto:mail@Servo.com">mail@Servo.com</a> Maria Therein Platz, NY <a href="tel:154-568-145">154-568-145</a> <a href="tel:442-000">442-000</a></p>
+<p class="has-link-color" style="margin-top:1.56rem;font-size:1.13rem;font-style:normal;font-weight:400;line-height:1.5"><a href="mailto:mail@Servo.com">mail@clay.com</a> Maria Therein Platz, NY <a href="tel:154-568-145">154-568-145</a> <a href="tel:442-000">442-000</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

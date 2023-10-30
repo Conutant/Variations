@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Sustainability Footer
- * Slug: variations/sustainability-footer
+ * Title: Wood Footer
+ * Slug: variations/wood-footer
  * Description: Add a Footer With Logo, Columns and Copyright
  * Categories: footer, column
  * Keywords: footer
