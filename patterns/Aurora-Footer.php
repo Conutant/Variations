@@ -21,7 +21,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"},":hover":{"color":{"text":"var:preset|color|base"}}}},"color":{"text":"#000001"},"typography":{"fontSize":"1.13rem"}}} -->
-<p class="has-text-align-center has-text-color has-link-color" style="color:#000001;font-size:1.13rem">© 2023 By Wedding.<br>All rights reserved.</p>
+<p class="has-text-align-center has-text-color has-link-color" style="color:#000001;font-size:1.13rem">© 2023 By Tyler.<br>All rights reserved.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
