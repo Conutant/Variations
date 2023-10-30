@@ -3,7 +3,14 @@
 	"version": 2,
 	"customTemplates": [
 		{
-			"name": "websites-Traveling",
+			"name": "websites-aurora",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Aurora"
+		},
+		{
+			"name": "websites-traveling",
 			"postTypes": [
 				"page"
 			],
