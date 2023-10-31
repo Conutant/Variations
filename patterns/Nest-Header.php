@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Consulting Green Header
- * Slug: variations/consulting-green-header
+ * Title: Nest Header
+ * Slug: variations/nest-header
  * Description: Header with two navigation and Site title
  * Categories: header
  * Keywords: header, nav, site logo
