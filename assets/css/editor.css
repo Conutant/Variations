@@ -13,3 +13,6 @@
     margin-left: auto !important;
     margin-right: auto !important;
 }
+header .is-position-sticky {
+    background-color: rgb(128 128 128 / 13%);
+}
