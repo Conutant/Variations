@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-view",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: View"
+		},
+		{
 			"name": "websites-aurora",
 			"postTypes": [
 				"page"
