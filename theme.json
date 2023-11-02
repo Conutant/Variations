@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-surf",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Surf"
+		},
+		{
 			"name": "websites-view",
 			"postTypes": [
 				"page"
