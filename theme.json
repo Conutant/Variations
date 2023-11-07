@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-coast",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Coast"
+		},
+		{
 			"name": "websites-surf",
 			"postTypes": [
 				"page"
@@ -173,7 +180,7 @@
 			"customFontSize": true,
 			"dropCap": false,
 			"fluid": true,
-			"fontFamilies": [				
+			"fontFamilies": [
 				{
 					"fontFamily": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
 					"name": "System Font",
