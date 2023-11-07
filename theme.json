@@ -45,11 +45,11 @@
 			"title": "Header/Footer: Green"
 		},
 		{
-			"name": "websites-fitness",
+			"name": "websites-sky",
 			"postTypes": [
 				"page"
 			],
-			"title": "Header/Footer: Fitness"
+			"title": "Header/Footer: Sky"
 		},
 		{
 			"name": "websites-nest",
