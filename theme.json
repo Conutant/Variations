@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-peak",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Peak"
+		},
+		{
 			"name": "websites-stone",
 			"postTypes": [
 				"page"
