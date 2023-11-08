@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-stone",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Stone"
+		},
+		{
 			"name": "websites-coast",
 			"postTypes": [
 				"page"
