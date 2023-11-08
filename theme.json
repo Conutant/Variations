@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-river",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: River"
+		},
+		{
 			"name": "websites-marsh",
 			"postTypes": [
 				"page"
