@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-marsh",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Marsh"
+		},
+		{
 			"name": "websites-pebble",
 			"postTypes": [
 				"page"

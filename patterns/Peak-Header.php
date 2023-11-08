@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Green Header
+ * Title: Peak Header
  * Slug: variations/peak-header
  * Description: Header with site title, navigation and button
  * Categories: header
