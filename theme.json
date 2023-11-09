@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-hike",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Hike"
+		},
+		{
 			"name": "websites-spring",
 			"postTypes": [
 				"page"
