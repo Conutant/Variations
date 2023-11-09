@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-marble",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Marble"
+		},
+		{
 			"name": "websites-river",
 			"postTypes": [
 				"page"
