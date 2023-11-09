@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-habitat",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Habitat"
+		},
+		{
 			"name": "websites-hike",
 			"postTypes": [
 				"page"
