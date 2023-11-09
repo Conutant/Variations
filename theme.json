@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-spring",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Spring"
+		},
+		{
 			"name": "websites-harvest",
 			"postTypes": [
 				"page"
