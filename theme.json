@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-harvest",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Harvest"
+		},
+		{
 			"name": "websites-marble",
 			"postTypes": [
 				"page"
