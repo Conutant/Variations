@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-fiber",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Fiber"
+		},
+		{
 			"name": "websites-habitat",
 			"postTypes": [
 				"page"
