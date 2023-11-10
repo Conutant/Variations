@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-lush",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Lush"
+		},
+		{
 			"name": "websites-dolphin",
 			"postTypes": [
 				"page"

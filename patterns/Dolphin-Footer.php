@@ -2,7 +2,7 @@
 /**
  * Title: Dolphin Footer
  * Slug: variations/dolphin-footer
- * Description: Add a Footer Copyright
+ * Description: Add a footer with Copyright
  * Categories: footer, column
  * Keywords: footer
  * Block Types: core/template-part/footer
