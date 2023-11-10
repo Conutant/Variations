@@ -23,6 +23,6 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:navigation {"ref":453,"customTextColor":"#f9f7f0","layout":{"type":"flex","justifyContent":"center"}} /--></div>
+<!-- wp:navigation {"customTextColor":"#f9f7f0","layout":{"type":"flex","justifyContent":"center"}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
