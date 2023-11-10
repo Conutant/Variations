@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-stream",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Stream"
+		},
+		{
 			"name": "websites-ocean",
 			"postTypes": [
 				"page"
