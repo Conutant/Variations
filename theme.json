@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-ocean",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Ocean"
+		},
+		{
 			"name": "websites-lush",
 			"postTypes": [
 				"page"
