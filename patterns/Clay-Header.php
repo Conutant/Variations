@@ -2,9 +2,9 @@
 /**
  * Title: Clay Header
  * Slug: variations/clay-header
- * Description: Header with logo, navigation and button
+ * Description: Header with site title, navigation and button
  * Categories: header
- * Keywords: header, nav, site logo
+ * Keywords: header, nav, site title
  * Block Types: core/template-part/header
  */
 

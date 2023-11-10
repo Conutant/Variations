@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-fresh",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Fresh"
+		},
+		{
 			"name": "websites-stream",
 			"postTypes": [
 				"page"
