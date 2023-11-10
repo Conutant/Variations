@@ -9,8 +9,8 @@
  */
 
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}},"color":{"background":"#2b3c2c"}},"layout":{"type":"constrained","contentSize":""}} -->
-<div class="wp-block-group has-background" style="background-color:#2b3c2c;padding-top:80px;padding-bottom:80px"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"small"} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","bottom":"80px","right":"1em","left":"1rem"}},"color":{"background":"#2b3c2c"}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-background" style="background-color:#2b3c2c;padding-top:80px;padding-right:1em;padding-bottom:80px;padding-left:1rem"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"small"} -->
 <div class="wp-block-columns alignwide has-small-font-size" style="margin-top:0;margin-bottom:0"><!-- wp:column {"verticalAlignment":"center","width":"500px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:500px"><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"60px","fontStyle":"normal","fontWeight":"500","lineHeight":"1.1"},"color":{"text":"#ffffff"}},"fontFamily":"fraunces"} -->
 <h3 class="wp-block-heading has-text-color has-fraunces-font-family" style="color:#ffffff;font-size:60px;font-style:normal;font-weight:500;line-height:1.1">Get In Touch with Lush</h3>
