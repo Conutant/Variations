@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-dolphin",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Dolphin"
+		},
+		{
 			"name": "websites-fiber",
 			"postTypes": [
 				"page"
