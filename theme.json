@@ -3,11 +3,18 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-cube",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Cube"
+		},
+		{
 			"name": "websites-love-nature",
 			"postTypes": [
 				"page"
 			],
-			"title": "Header/Footer: Love Nature"
+			"title": "Header/Footer: Love Nature"			
 		},
 		{
 			"name": "websites-coral",
