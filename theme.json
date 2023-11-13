@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-tasty",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Tasty"
+		},
+		{
 			"name": "websites-summer",
 			"postTypes": [
 				"page"
