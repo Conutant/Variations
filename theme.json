@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-coral",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Coral"
+		},
+		{
 			"name": "websites-tasty",
 			"postTypes": [
 				"page"
