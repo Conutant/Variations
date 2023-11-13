@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-love-nature",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Love Nature"
+		},
+		{
 			"name": "websites-coral",
 			"postTypes": [
 				"page"
