@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-summer",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Summer"
+		},
+		{
 			"name": "websites-fresh",
 			"postTypes": [
 				"page"
