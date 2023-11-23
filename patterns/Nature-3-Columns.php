@@ -53,7 +53,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><?php printf( esc_html__( '%s', 'variations' ), __( 'Want to attract people to your website?&nbsp; You have to have the best content in the world. That’s what we do.', 'variations' ) ); ?></p>
+<p><?php printf( esc_html__( '%s', 'variations' ), __( 'Want to attract people to your website? You have to have the best content in the world. That’s what we do.', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
