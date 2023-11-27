@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-island",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Island"
+		},
+		{
 			"name": "websites-cube",
 			"postTypes": [
 				"page"
