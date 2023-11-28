@@ -13,6 +13,6 @@
 <div class="wp-block-group" style="min-height:0px;margin-top:0;margin-bottom:0;padding-top:2rem;padding-right:1rem;padding-bottom:2rem;padding-left:1rem"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group" style="padding-top:0"><!-- wp:site-logo {"width":105,"shouldSyncIcon":false} /-->
 
-<!-- wp:navigation {"ref":277,"customTextColor":"#171717","icon":"menu","layout":{"type":"flex","justifyContent":"center"},"style":{"layout":{"selfStretch":"fit","flexSize":null},"typography":{"lineHeight":"1.4","fontSize":"1.13rem"},"spacing":{"blockGap":"1.4rem"}},"fontFamily":"inter"} /--></div>
+<!-- wp:navigation {"customTextColor":"#171717","icon":"menu","layout":{"type":"flex","justifyContent":"center"},"style":{"layout":{"selfStretch":"fit","flexSize":null},"typography":{"lineHeight":"1.4","fontSize":"1.13rem"},"spacing":{"blockGap":"1.4rem"}},"fontFamily":"inter"} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

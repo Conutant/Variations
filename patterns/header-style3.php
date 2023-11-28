@@ -29,6 +29,6 @@
 <div class="wp-block-group alignfull has-base-color has-text-color has-background has-link-color" style="background-color:#345c01;margin-top:0;padding-top:2.71rem;padding-right:2.01rem;padding-bottom:2.71rem;padding-left:2.01rem"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between","orientation":"horizontal"}} -->
 <div class="wp-block-group alignwide"><!-- wp:site-title {"style":{"typography":{"fontSize":"1.77rem"}}} /-->
 
-<!-- wp:navigation {"ref":4,"customTextColor":"#fffffd","customOverlayBackgroundColor":"#345c01","customOverlayTextColor":"#fffffd","layout":{"type":"flex","orientation":"horizontal"},"style":{"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"1.13rem"},"spacing":{"blockGap":"20px"}}} /--></div>
+<!-- wp:navigation {"icon":"menu","customTextColor":"#fffffd","customOverlayBackgroundColor":"#345c01","customOverlayTextColor":"#fffffd","layout":{"type":"flex","orientation":"horizontal"},"style":{"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"1.13rem"},"spacing":{"blockGap":"20px"}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
