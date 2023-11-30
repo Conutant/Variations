@@ -341,6 +341,42 @@
 					"slug": "system-font"
 				},
 				{
+					"fontFamily": "Work Sans",
+					"slug": "work-sans-regular",
+					"fontFace": [
+						{
+							"fontFamily": "Work Sans",
+							"fontWeight": "400",
+							"fontStyle": "normal",
+							"src": [
+								"file:./assets/fonts/work-sans/work-sans.ttf",
+								"file:./assets/fonts/work-sans/work-sans.eot",
+								"file:./assets/fonts/work-sans/work-sans.svg",
+								"file:./assets/fonts/work-sans/work-sans.woff",
+								"file:./assets/fonts/work-sans/work-sans.woff2"
+							]
+						}
+					]
+				},
+				{
+					"fontFamily": "Prata",
+					"slug": "prata-regular",
+					"fontFace": [
+						{
+							"fontFamily": "Prata",
+							"fontWeight": "400",
+							"fontStyle": "normal",
+							"src": [
+								"file:./assets/fonts/prata/prata.ttf",
+								"file:./assets/fonts/prata/prata.eot",
+								"file:./assets/fonts/prata/prata.svg",
+								"file:./assets/fonts/prata/prata.woff",
+								"file:./assets/fonts/prata/prata.woff2"
+							]
+						}
+					]
+				},
+				{
 					"fontFamily": "IBM Plex Sans Thin",
 					"slug": "ibm-plex-sans-thin",
 					"fontFace": [
