@@ -99,7 +99,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:paragraph -->
-<p><?php printf( esc_html__( '%s', 'variations' ), __( 'This is where you put in your contact form.  You can download a plugin like contact form 7 then insert the shortcode.', 'variations' ) ); ?></p>
+<p><?php printf( esc_html__( '%s', 'variations' ), __( 'This is where you put in your contact form.  You can download a contact form plugin then insert the shortcode.', 'variations' ) ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
