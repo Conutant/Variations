@@ -29,7 +29,7 @@
 
 <!-- wp:column {"width":"15%"} -->
 <div class="wp-block-column" style="flex-basis:15%"><!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"400"},"color":{"text":"#000000"}},"fontFamily":"roboto-serif"} -->
-<p class="has-text-color has-roboto-serif-font-family" style="color:#000000;font-size:16px;font-style:normal;font-weight:400"><span style="text-decoration: underline;"><a href="https://tyler.com/templates/fresh/fresh-about/" data-type="page" data-id="13">About</a></span><br><span style="text-decoration: underline;"><a href="https://tyler.com/templates/fresh/fresh-programs/" data-type="page" data-id="15">Programs</a></span><br><span style="text-decoration: underline;"><a href="https://tyler.com/templates/fresh/fresh-contact/" data-type="page" data-id="19">Contact</a></span></p>
+<p class="has-text-color has-roboto-serif-font-family" style="color:#000000;font-size:16px;font-style:normal;font-weight:400"><span style="text-decoration: underline;"><a href="#" data-type="page" data-id="13">About</a></span><br><span style="text-decoration: underline;"><a href="#" data-type="page" data-id="15">Programs</a></span><br><span style="text-decoration: underline;"><a href="#" data-type="page" data-id="19">Contact</a></span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"54px"} -->

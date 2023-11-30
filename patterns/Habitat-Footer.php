@@ -111,7 +111,7 @@
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"right","id":817,"width":"60px","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":["#ffffff","#fffef7"]}}} -->
-<figure class="wp-block-image alignright size-full is-resized"><img src="https://tyler.com/wp-content/uploads/2023/11/house-150x150-1.png" alt="" class="wp-image-817" style="width:60px"/></figure>
+<figure class="wp-block-image alignright size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/headers-footers/house-habitat.png" alt="" class="wp-image-817" style="width:60px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

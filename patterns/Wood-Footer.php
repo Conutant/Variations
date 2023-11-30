@@ -31,7 +31,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#202020"},"typography":{"fontSize":"1.13rem","textDecoration":"none"},"spacing":{"margin":{"top":"1.4rem"}}}} -->
-<p class="has-text-align-center has-text-color" style="color:#202020;margin-top:1.4rem;font-size:1.13rem;text-decoration:none"><a href="tel:(555) 555-5555" data-type="tel" data-id="tel:(555) 555-5555">(555) 555-5555</a><br> <a href="mailto:email@example.com">email@example.com</a></p>
+<p class="has-text-align-center has-text-color" style="color:#202020;margin-top:1.4rem;font-size:1.13rem;text-decoration:none"><a href="tel:#" data-type="tel" data-id="tel:#">(555) 555-5555</a><br> <a href="mailto:#">email@example.com</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 

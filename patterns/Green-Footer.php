@@ -32,7 +32,7 @@
 <!-- wp:column {"verticalAlignment":"center","width":"22%","style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="padding-right:0;padding-left:0;flex-basis:22%"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"1.01rem","lineHeight":"1.5","fontStyle":"normal","fontWeight":"500"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
-<p class="has-text-color" style="color:#fffffd;margin-top:0px;margin-bottom:0px;font-size:1.01rem;font-style:normal;font-weight:500;line-height:1.5">Mail: <a href="mailto:info@greenfarming.in">info@greenfarming.in</a></p>
+<p class="has-text-color" style="color:#fffffd;margin-top:0px;margin-bottom:0px;font-size:1.01rem;font-style:normal;font-weight:500;line-height:1.5">Mail: <a href="mailto:#">info@greenfarming.in</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"1.01rem","lineHeight":"1.5","fontStyle":"normal","fontWeight":"500"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->

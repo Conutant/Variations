@@ -56,7 +56,7 @@
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"0px"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"12%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:12%"><!-- wp:image {"id":2108,"width":"22px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="https://tyler.com/wp-content/uploads/2023/11/tasty-phone-call.png" alt="" class="wp-image-2108" style="width:22px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/headers-footers/tasty-phone-call.png" alt="" class="wp-image-2108" style="width:22px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -70,7 +70,7 @@
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"0px"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"13%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:13%"><!-- wp:image {"id":2109,"width":"20px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="https://tyler.com/wp-content/uploads/2023/11/tasty-envelope.png" alt="" class="wp-image-2109" style="width:20px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/headers-footers/tasty-envelope.png" alt="" class="wp-image-2109" style="width:20px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 

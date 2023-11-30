@@ -17,11 +17,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","lineHeight":1.6},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6">Made with <a href="/" target="_blank" rel="noreferrer noopener">Tyler.com</a></p>
+<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6">Made with <a href="https://tyler.com/" target="_blank" rel="noreferrer noopener">Tyler.com</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","lineHeight":1.6},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6">Ceramics by Jono Pandolfi Designs.</p>
+<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6">© 2024 River –  All Rights Reserved.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -31,7 +31,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":1.6},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:17px;line-height:1.6"><a href="https://tyler.com/templates/river/river-contact/">Contact us</a></p>
+<p class="has-text-color" style="color:#000000;font-size:17px;line-height:1.6"><a href="#">Contact us</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:social-links {"customIconColor":"#656e6d","iconColorValue":"#656e6d","className":"is-style-logos-only"} -->
@@ -43,29 +43,29 @@
 
 <!-- wp:column {"verticalAlignment":"top","width":"20%"} -->
 <div class="wp-block-column is-vertically-aligned-top" style="flex-basis:20%"><!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","lineHeight":1.6},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6"><a href="https://tyler.com/templates/river/river-about/">About</a></p>
+<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6"><a href="#">About</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","lineHeight":1.6},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6"><a href="https://tyler.com/templates/river/river-services/">Services</a></p>
+<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6"><a href="#">Services</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","lineHeight":1.6},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6"><a href="https://tyler.com/templates/river/river-team/">Team</a></p>
+<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6"><a href="#">Team</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"20%"} -->
 <div class="wp-block-column" style="flex-basis:20%"><!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","lineHeight":1.6},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6"><a href="#">Our Approach</a></p>
+<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6"><a href="mailto:#">demo@email.com</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","lineHeight":1.6},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6"><a href="#">Blog</a></p>
+<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6"><a href="tel:#">(123) 456-7890</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","lineHeight":1.6},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6"><a href="#">Get Started</a></p>
+<p class="has-text-color" style="color:#000000;font-size:16px;line-height:1.6">Cityville, State 56789</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

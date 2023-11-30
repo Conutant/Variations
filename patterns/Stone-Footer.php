@@ -92,15 +92,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#fffffd"}}},"typography":{"fontSize":"0.9rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5","textDecoration":"none"},"spacing":{"margin":{"top":"0.2rem","bottom":"0.2rem"}}}} -->
-<p class="has-link-color" style="margin-top:0.2rem;margin-bottom:0.2rem;font-size:0.9rem;font-style:normal;font-weight:400;line-height:1.5;text-decoration:none"><a href="#"></a><a href="#">Webinars</a></p>
+<p class="has-link-color" style="margin-top:0.2rem;margin-bottom:0.2rem;font-size:0.9rem;font-style:normal;font-weight:400;line-height:1.5;text-decoration:none"><a href="#">Webinars</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#fffffd"}}},"typography":{"fontSize":"0.9rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5","textDecoration":"none"},"spacing":{"margin":{"top":"0.2rem","bottom":"0.2rem"}}}} -->
-<p class="has-link-color" style="margin-top:0.2rem;margin-bottom:0.2rem;font-size:0.9rem;font-style:normal;font-weight:400;line-height:1.5;text-decoration:none"><a href="#"></a><a href="#">White papers</a></p>
+<p class="has-link-color" style="margin-top:0.2rem;margin-bottom:0.2rem;font-size:0.9rem;font-style:normal;font-weight:400;line-height:1.5;text-decoration:none"><a href="#">White papers</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#fffffd"}}},"typography":{"fontSize":"0.9rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5","textDecoration":"none"},"spacing":{"margin":{"top":"0.2rem","bottom":"0.2rem"}}}} -->
-<p class="has-link-color" style="margin-top:0.2rem;margin-bottom:0.2rem;font-size:0.9rem;font-style:normal;font-weight:400;line-height:1.5;text-decoration:none"><a href="#"></a><a href="#">Newsletters</a></p>
+<p class="has-link-color" style="margin-top:0.2rem;margin-bottom:0.2rem;font-size:0.9rem;font-style:normal;font-weight:400;line-height:1.5;text-decoration:none"><a href="#">Newsletters</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#fffffd"}}},"typography":{"fontSize":"0.9rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5","textDecoration":"none"},"spacing":{"margin":{"top":"0.2rem","bottom":"0.2rem"}}}} -->
@@ -120,7 +120,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#fffffd"}}},"typography":{"fontSize":"0.9rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5","textDecoration":"none"},"spacing":{"margin":{"top":"0.2rem","bottom":"0.2rem"}}}} -->
-<p class="has-link-color" style="margin-top:0.2rem;margin-bottom:0.2rem;font-size:0.9rem;font-style:normal;font-weight:400;line-height:1.5;text-decoration:none"><a href="#"></a><a href="#">Finance &amp; Financial Services</a></p>
+<p class="has-link-color" style="margin-top:0.2rem;margin-bottom:0.2rem;font-size:0.9rem;font-style:normal;font-weight:400;line-height:1.5;text-decoration:none"><a href="#">Finance &amp; Financial Services</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#fffffd"}}},"typography":{"fontSize":"0.9rem","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5","textDecoration":"none"},"spacing":{"margin":{"top":"0.2rem","bottom":"0.2rem"}}}} -->

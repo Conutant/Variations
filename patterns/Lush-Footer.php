@@ -37,7 +37,7 @@
 
 <!-- wp:column {"width":"200px"} -->
 <div class="wp-block-column" style="flex-basis:200px"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#ffffff"}}},"typography":{"fontSize":"16px"},"color":{"text":"#ffffff"}},"fontFamily":"poppins"} -->
-<p class="has-text-color has-link-color has-poppins-font-family" style="color:#ffffff;font-size:16px">Mail: <a href="mailto:info@mysite.com">info@mysite.com</a><br>Tel:123-456-7890</p>
+<p class="has-text-color has-link-color has-poppins-font-family" style="color:#ffffff;font-size:16px">Mail: <a href="mailto:#">info@mysite.com</a><br>Tel:123-456-7890</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

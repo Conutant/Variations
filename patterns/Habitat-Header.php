@@ -14,7 +14,7 @@
 <div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":817,"width":"30px","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":["#fffef7","#fffef7"]}},"className":"is-style-rounded"} -->
-<figure class="wp-block-image size-full is-resized is-style-rounded"><img src="https://tyler.com/wp-content/uploads/2023/11/house-150x150-1.png" alt="" class="wp-image-817" style="width:30px"/></figure>
+<figure class="wp-block-image size-full is-resized is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/headers-footers/house-habitat.png" alt="" class="wp-image-817" style="width:30px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:site-title {"level":2,"style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"20px"}}} /--></div>

@@ -14,7 +14,7 @@
 <div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":1117,"width":"55px","aspectRatio":"1","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":["#ffffff","#ffffff"]}}} -->
-<figure class="wp-block-image size-full is-resized"><img src="https://tyler.com/wp-content/uploads/2023/11/voice-recording-150x150-1.png" alt="" class="wp-image-1117" style="aspect-ratio:1;width:55px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/headers-footers/voice-recording-stream.png" alt="" class="wp-image-1117" style="aspect-ratio:1;width:55px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:site-title {"level":2,"style":{"color":{"text":"#fffffd"},"typography":{"fontSize":"18px","textTransform":"uppercase","fontStyle":"normal","fontWeight":"600"}}} /--></div>
