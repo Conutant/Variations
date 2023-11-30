@@ -23,7 +23,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontSize":"18px"},"border":{"radius":"0px"},"spacing":{"padding":{"left":"25px","right":"25px"}},"color":{"background":"#2b3c2c","text":"#ffffff"}},"fontFamily":"dm-sans-9pt"} -->
-<div class="wp-block-button has-custom-font-size has-dm-sans-9-pt-font-family" style="font-size:18px"><a class="wp-block-button__link has-text-color has-background wp-element-button" href="tel:+1 234 568 6965" style="border-radius:0px;color:#ffffff;background-color:#2b3c2c;padding-right:25px;padding-left:25px">Call Today</a></div>
+<div class="wp-block-button has-custom-font-size has-dm-sans-9-pt-font-family" style="font-size:18px"><a class="wp-block-button__link has-text-color has-background wp-element-button" href="tel:#" style="border-radius:0px;color:#ffffff;background-color:#2b3c2c;padding-right:25px;padding-left:25px">Call Today</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

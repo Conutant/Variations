@@ -21,7 +21,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"space-between"},"style":{"spacing":{"margin":{"top":"0rem","bottom":"0rem"}}}} -->
 <div class="wp-block-buttons" style="margin-top:0rem;margin-bottom:0rem"><!-- wp:button {"style":{"border":{"radius":"0px","color":"#fffffd","width":"1px"},"typography":{"textTransform":"none","fontSize":"1.1rem","lineHeight":"1.2","letterSpacing":"1.4px"},"spacing":{"padding":{"left":"2.1rem","right":"2.1rem","top":"1.1rem","bottom":"1.1rem"}},"color":{"text":"#fffffd","background":"#000000"}},"className":"is-style-fill"} -->
-<div class="wp-block-button has-custom-font-size is-style-fill" style="font-size:1.1rem;letter-spacing:1.4px;line-height:1.2;text-transform:none"><a class="wp-block-button__link has-text-color has-background has-border-color wp-element-button" style="border-color:#fffffd;border-width:1px;border-radius:0px;color:#fffffd;background-color:#000000;padding-top:1.1rem;padding-right:2.1rem;padding-bottom:1.1rem;padding-left:2.1rem">Contac Us</a></div>
+<div class="wp-block-button has-custom-font-size is-style-fill" style="font-size:1.1rem;letter-spacing:1.4px;line-height:1.2;text-transform:none"><a class="wp-block-button__link has-text-color has-background has-border-color wp-element-button" style="border-color:#fffffd;border-width:1px;border-radius:0px;color:#fffffd;background-color:#000000;padding-top:1.1rem;padding-right:2.1rem;padding-bottom:1.1rem;padding-left:2.1rem">Contact Us</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

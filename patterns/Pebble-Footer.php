@@ -13,7 +13,7 @@
 <div class="wp-block-group has-text-color has-background has-link-color" style="color:#ffffff;background-color:#422f01;padding-top:80px;padding-bottom:80px"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"small"} -->
 <div class="wp-block-columns alignwide has-small-font-size" style="margin-top:0;margin-bottom:0"><!-- wp:column {"verticalAlignment":"center","width":"480px","textColor":"base"} -->
 <div class="wp-block-column is-vertically-aligned-center has-base-color has-text-color" style="flex-basis:480px"><!-- wp:image {"id":334,"width":"80px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="https://tyler.com/wp-content/uploads/2023/10/sugar-cube-150x150-1.png" alt="" class="wp-image-334" style="width:80px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/headers-footers/sugar-cube-pebble.png" alt="" class="wp-image-334" style="width:80px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:site-title {"style":{"color":{"text":"#ffffff"},"elements":{"link":{"color":{"text":"#ffffff"}}},"typography":{"fontSize":"37px","fontStyle":"normal","fontWeight":"400"}}} /-->

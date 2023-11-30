@@ -12,9 +12,7 @@
 <!-- wp:group {"style":{"spacing":{"padding":{"bottom":"2rem","top":"2rem","left":"1rem","right":"1rem"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"},"position":{"type":"sticky","top":"0px"},"dimensions":{"minHeight":""}},"layout":{"type":"constrained","contentSize":"1200px","wideSize":"1200px"}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:2rem;padding-right:1rem;padding-bottom:2rem;padding-left:1rem"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"margin":{"top":"0px","bottom":"0px"},"blockGap":{"top":"0px","left":"0px"}}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%"><!-- wp:heading {"style":{"color":{"text":"#fffffd"},"elements":{"link":{"color":{"text":"#fffffd"},":hover":{"color":{"text":"#fffffd"}}}},"typography":{"fontSize":"2.81rem","fontStyle":"normal","fontWeight":"300","lineHeight":"1.2","textDecoration":"none","textTransform":"uppercase"}}} -->
-<h2 class="wp-block-heading has-text-color has-link-color" style="color:#fffffd;font-size:2.81rem;font-style:normal;font-weight:300;line-height:1.2;text-decoration:none;text-transform:uppercase"><a href="/">Wood</a></h2>
-<!-- /wp:heading --></div>
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%"><!-- wp:site-title {"style":{"color":{"text":"#ffffff"},"elements":{"link":{"color":{"text":"#ffffff"},":hover":{"color":{"text":"#ffffff"}}}},"typography":{"fontSize":"2.81rem","lineHeight":"1.2","fontStyle":"normal","fontWeight":"300","textTransform":"uppercase","textDecoration":"none"}}} /--></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","width":"70%","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0px"}}} -->

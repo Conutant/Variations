@@ -76,7 +76,7 @@
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"1.51rem"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <div class="wp-block-group" style="margin-top:1.51rem"><!-- wp:paragraph {"style":{"color":{"text":"#252525"},"spacing":{"margin":{"top":"0px"}},"typography":{"fontSize":"1.01rem"}}} -->
-<p class="has-text-color" style="color:#252525;margin-top:0px;font-size:1.01rem"><em>Here you can place the contact form Contact 7 form.</em></p>
+<p class="has-text-color" style="color:#252525;margin-top:0px;font-size:1.01rem"><em>Here you can place the contact form.</em></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>

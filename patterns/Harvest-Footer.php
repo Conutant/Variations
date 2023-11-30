@@ -23,6 +23,6 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"16px"}},"typography":{"fontSize":"18px","lineHeight":"1.6"},"color":{"text":"#ffffff"}}} -->
-<p class="has-text-align-center has-text-color" style="color:#ffffff;margin-top:16px;font-size:18px;line-height:1.6">Made with <a href="#">Variation</a></p>
+<p class="has-text-align-center has-text-color" style="color:#ffffff;margin-top:16px;font-size:18px;line-height:1.6">Made with <a href="https://tyler.com/">Variation</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->

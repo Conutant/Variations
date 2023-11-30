@@ -21,7 +21,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"400"},"border":{"radius":"0px","width":"0px","style":"none"},"color":{"background":"#f8c761","text":"#000000"}},"className":"is-style-fill","fontFamily":"roboto-serif"} -->
-<div class="wp-block-button has-custom-font-size is-style-fill has-roboto-serif-font-family" style="font-size:16px;font-style:normal;font-weight:400"><a class="wp-block-button__link has-text-color has-background wp-element-button" href="https://tyler.com/templates/fresh/fresh-contact/" style="border-style:none;border-width:0px;border-radius:0px;color:#000000;background-color:#f8c761">Join Now</a></div>
+<div class="wp-block-button has-custom-font-size is-style-fill has-roboto-serif-font-family" style="font-size:16px;font-style:normal;font-weight:400"><a class="wp-block-button__link has-text-color has-background wp-element-button" href="#" style="border-style:none;border-width:0px;border-radius:0px;color:#000000;background-color:#f8c761">Join Now</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

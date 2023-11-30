@@ -23,7 +23,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.1rem"}}} -->
-<p style="font-size:1.1rem"><a href="tel:5555555555">(555) 555-5555</a><br> <a href="mailto:email@example.com">email@example.com</a></p>
+<p style="font-size:1.1rem"><a href="tel:#">(555) 555-5555</a><br> <a href="mailto:#">email@example.com</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
