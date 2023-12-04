@@ -19,7 +19,8 @@ Variations is compatible with wordpress.org/patterns, giving you the ability to 
 == Changelog ==
 
 = 2.0.1 =
-* Screenshot changed.
+* - Screenshot changed.
+  - Optimized the theme fonts.
 
 = 2.0.0 =
 * - Made changes to Earth templates and patterns.
