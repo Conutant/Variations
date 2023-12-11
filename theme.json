@@ -350,7 +350,6 @@
 							"fontStyle": "normal",
 							"src": [
 								"file:./assets/fonts/work-sans/work-sans.ttf",
-								"file:./assets/fonts/work-sans/work-sans.eot",
 								"file:./assets/fonts/work-sans/work-sans.woff",
 								"file:./assets/fonts/work-sans/work-sans.woff2"
 							]
@@ -367,7 +366,6 @@
 							"fontStyle": "normal",
 							"src": [
 								"file:./assets/fonts/prata/prata.ttf",
-								"file:./assets/fonts/prata/prata.eot",
 								"file:./assets/fonts/prata/prata.woff",
 								"file:./assets/fonts/prata/prata.woff2"
 							]
@@ -384,7 +382,6 @@
 							"fontStyle": "normal",
 							"src": [
 								"file:./assets/fonts/ibm-plex-mono/ibm-plex-sans-thin_normal_100.ttf",
-								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Thin.eot",
 								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Thin.woff",
 								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Thin.woff2"
 							]
@@ -401,7 +398,6 @@
 							"fontStyle": "normal",
 							"src": [
 								"file:./assets/fonts/ibm-plex-mono/ibm-plex-sans_normal_400.ttf",
-								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Regular.eot",
 								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Regular.woff",
 								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Regular.woff2"
 							]
@@ -412,7 +408,6 @@
 							"fontStyle": "italic",
 							"src": [
 								"file:./assets/fonts/ibm-plex-mono/ibm-plex-sans_italic_400.ttf",
-								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Italic.eot",
 								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Italic.woff",
 								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Italic.woff2"
 							]
@@ -423,7 +418,6 @@
 							"fontStyle": "normal",
 							"src": [
 								"file:./assets/fonts/ibm-plex-mono/ibm-plex-sans_normal_700.ttf",
-								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Bold.eot",
 								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Bold.woff",
 								"file:./assets/fonts/ibm-plex-mono/IBMPlexSans-Bold.woff2"
 							]
@@ -440,7 +434,6 @@
 							"fontStyle": "normal",
 							"src": [
 								"file:./assets/fonts/inter/inter_normal_100-900.ttf",
-								"file:./assets/fonts/inter/Inter-Regular.eot",
 								"file:./assets/fonts/inter/Inter-Regular.woff",
 								"file:./assets/fonts/inter/Inter-Regular.woff2"
 							]
