@@ -25,6 +25,17 @@ if (!function_exists('variations_frontend_assets')) {
             array(),
             VARIATIONS_THEME_VERSION
         );
+
+        /**
+         *  Frontend JavaScript.
+         * */
+        wp_enqueue_script(
+            'variations-frontend-script',
+            get_template_directory_uri() . '/assets/js/frontend.js',
+            array('jquery'),
+            VARIATIONS_THEME_VERSION,
+            true
+        );
     }
 }
 add_action('wp_enqueue_scripts', 'variations_frontend_assets');

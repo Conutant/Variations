@@ -808,7 +808,7 @@
 			"button": {
 				":active": {
 					"color": {
-						"background": "#345C00",
+						"background": "#000000",
 						"text": "#ffffff"
 					}
 				},
@@ -834,7 +834,7 @@
 				},
 				"color": {
 					"background": "blue",
-					"text": "#000000"
+					"text": "#ffffff"
 				}
 			},
 			"h1": {
