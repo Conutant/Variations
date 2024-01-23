@@ -47,7 +47,7 @@ Variations is compatible with wordpress.org/patterns, giving you the ability to 
 
 == Copyright ==
 
-Variations WordPress Theme, (C) 2022-2023 Tyler Moore.
+Variations WordPress Theme, (C) 2022-2024 Tyler Moore.
 Variations is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
@@ -96,7 +96,7 @@ Source: https://rsms.me/
 
 Images
 Earth and Island patterns:
-Copyright 2023 Tyler Moore
+Copyright 2024 Tyler Moore
 
 All images in this theme are licensed under the GPLv2 license. This means that you are free to use, modify, and distribute them as you wish.
 For more information, please see the full text of the GPLv2 license at https://www.gnu.org/licenses/gpl-2.0.html
