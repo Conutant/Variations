@@ -27,6 +27,16 @@ if (!function_exists('variations_frontend_assets')) {
         );
 
         /**
+         *  Woocommerce Styles.
+         * */
+        wp_enqueue_style(
+            'variations-woocommerce-style',
+            get_template_directory_uri() . '/assets/css/woocommerce.css',
+            array(),
+            VARIATIONS_THEME_VERSION
+        );
+
+        /**
          *  Frontend JavaScript.
          * */
         wp_enqueue_script(
