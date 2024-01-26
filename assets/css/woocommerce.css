@@ -8,6 +8,7 @@
 /*
 * WooCommerce elements customization.
 */
+
 /* Headings */
 .woocommerce-page h1,
 .woocommerce-page h2,
@@ -182,7 +183,7 @@
 }
 
 .woocommerce-shop .wc-block-components-product-image.wc-block-grid__product-image {
-    height: 22rem;
+    /* height: 22rem; */
     overflow: hidden;
     margin-top: 0;
 }
@@ -653,6 +654,10 @@
     color: #686868;
     font-size: .80em;
 }
+/* Payments */
+.wc-block-components-payment-method-icons:last-child {
+    margin-top: 2rem;
+}
 
 /*
 * Checkout page customization.
@@ -801,8 +806,11 @@
 .woocommerce-checkout .wc-block-components-totals-footer-item .wc-block-components-totals-item__value {
     font-weight: 700;
 }
-.woocommerce-checkout .wc-block-components-radio-control-accordion-option,
 .woocommerce-checkout  .wc-block-components-address-address-wrapper {
+    color: #282828;
+    font-size: 0.85em;
+}
+.woocommerce-checkout .wc-block-checkout__payment-method .wc-block-components-radio-control {
     color: #282828;
     font-size: 0.85em;
 }
@@ -846,8 +854,10 @@
 .woocommerce-account .woocommerce-MyAccount-navigation-link--dashboard a:before {
     content: "\f226";    
 }
-.woocommerce-account .woocommerce-MyAccount-navigation-link--orders a:before {
+.woocommerce-account .woocommerce-MyAccount-navigation .woocommerce-MyAccount-navigation-link--orders a:before {
     content: "\f174";
+    font-size: 1.45rem;
+    margin-top: -1.2rem;
 }
 .woocommerce-account .woocommerce-MyAccount-navigation-link--downloads a:before {
     content: "\f316";
@@ -855,11 +865,19 @@
 .woocommerce-account .woocommerce-MyAccount-navigation-link--edit-address a:before {
     content: "\f230";
 }
-.woocommerce-account .woocommerce-MyAccount-navigation-link--edit-account a:before {
+.woocommerce-account .woocommerce-MyAccount-navigation .woocommerce-MyAccount-navigation-link--edit-account a:before {
     content: "\f110";
+    font-size: 1.4rem;
+    margin-top: -1.2rem;
 }
 .woocommerce-account .woocommerce-MyAccount-navigation-link--customer-logout a:before {
     content: "\f14a";
+}
+.woocommerce-account .woocommerce-MyAccount-navigation .woocommerce-MyAccount-navigation-link--payment-methods a:before {
+    content: "\f526";
+    font-size: 1.4rem;
+    margin-top: -1rem;
+    left: 0;
 }
 .woocommerce-account .woocommerce-MyAccount-navigation li a:after {
     content: '';
@@ -969,6 +987,8 @@
     background: transparent;
     color: inherit;
     margin: auto;
+    font-size: 0.85rem;
+    display: inline-block;
 }
 .woocommerce-account .account-orders-table.shop_table th {
     color: #282828;
@@ -1088,6 +1108,61 @@
     margin-bottom: 1rem;
 }
 
+.woocommerce table.account-payment-methods-table th,
+.woocommerce table.woocommerce-table--order-downloads th {
+    color: #282828;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding-top: 0;
+    vertical-align: top;
+}
+.woocommerce table.account-payment-methods-table,
+.woocommerce table.woocommerce-table--order-downloads {
+    font-size: 0.85em;
+}
+.woocommerce table.account-payment-methods-table .button.delete,
+.woocommerce table.account-payment-methods-table .button.default,
+.woocommerce table.woocommerce-table--order-downloads .button.delete,
+.woocommerce table.woocommerce-table--order-downloads .button.default {
+    padding: 0.35rem 1.05rem;
+    border: 2px solid rgb(104, 104, 104);
+    background: transparent;
+    color: inherit;
+    margin: auto;
+    display: inline-block;
+}
+.woocommerce table.account-payment-methods-table .button.default,
+.woocommerce table.woocommerce-table--order-downloads .button.default {
+    margin-left: 10px;
+}
+.woocommerce table.account-payment-methods-table + .button {
+    font-size: .75em;
+    text-decoration: underline;
+}
+.woocommerce-account #add_payment_method #payment {
+    background: rgba(0,0,0,0.03);
+}
+.woocommerce-account #add_payment_method #payment div.payment_box {
+    background-color: #ffffff;
+}
+.woocommerce-account #add_payment_method #payment div.payment_box::before {
+    border: 1em solid #fff;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-top-color: transparent;
+}
+.woocommerce-account #add_payment_method #payment div.form-row {
+    padding: 0.4em;
+}
+.woocommerce-account table.account-payment-methods-table tr td:first-child,
+.woocommerce-account table.account-payment-methods-table tr th:first-child {
+    padding-left: 0;
+}
+.woocommerce-account table.account-payment-methods-table tr td:last-child,
+.woocommerce-account table.account-payment-methods-table tr th:last-child  {
+    padding-right: 0;
+}
+
 /*
 * Order received page customization.
 */
@@ -1111,7 +1186,8 @@
 .woocommerce-order-received .wc-block-order-confirmation-summary.alignwide,
 .woocommerce-order-received .wc-block-order-confirmation-totals-wrapper.alignwide,
 .woocommerce-order-received .woocommerce-order-confirmation-address-wrapper.alignwide,
-.woocommerce-order-received .wc-block-order-confirmation-additional-information.alignwide {
+.woocommerce-order-received .wc-block-order-confirmation-additional-information.alignwide,
+.woocommerce-order-received .wc-block-order-confirmation-downloads-wrapper.alignwide {
     max-width: 802px;
     margin-left: auto;
     margin-right: auto;
@@ -1124,10 +1200,13 @@
 .wc-block-order-confirmation-summary ul li>.wc-block-order-confirmation-summary-list-item__value {
     font-size: 1rem;
 }
-.wc-block-order-confirmation-totals__table tbody,
-.wc-block-order-confirmation-totals__table tbody a {
+.woocommerce-order-received tbody, 
+.woocommerce-order-received tbody a {
     font-size: 1rem;
     text-decoration: none;
+}
+.woocommerce-order-received .download-file a:hover {
+    text-decoration: underline;
 }
 .woocommerce-order-received strong.product-quantity {
     border: none;
@@ -1146,8 +1225,8 @@
     padding: 0.2em 0.5em;
     box-shadow: none;
 }
-.woocommerce-order-received .wc-block-order-confirmation-totals table tfoot th,
-.woocommerce-order-received .wc-block-order-confirmation-totals table thead {
+.woocommerce-order-received table tfoot th,
+.woocommerce-order-received table thead {
     font-weight: 400;
     background: rgba(0,0,0,0.03);
     text-transform: uppercase;
@@ -1207,9 +1286,6 @@
         border-left: 1px solid #eee;
         z-index: -1;
     }
-    .woocommerce-checkout .wp-site-blocks .has-global-padding.is-layout-constrained.wp-block-group-is-layout-constrained {
-        overflow: hidden;
-    }
 }
 
 @media (min-width: 991.5px) {
@@ -1234,6 +1310,42 @@
     }
 }
 
+@media (max-width: 768px) {
+    .woocommerce-account .woocommerce-MyAccount-content, 
+    .woocommerce-account .woocommerce-MyAccount-navigation {
+        float: none;
+        width: 100%;
+    }
+    .woocommerce-checkout .wp-site-blocks .has-global-padding.is-layout-constrained.wp-block-group-is-layout-constrained {
+        overflow: hidden;
+    }
+    .woocommerce-account table.account-payment-methods-table tr td:first-child,
+    .woocommerce-account table.account-payment-methods-table tr th:first-child {
+        padding-left: 1rem;
+    }
+    .woocommerce-account table.account-payment-methods-table tr td:last-child,
+    .woocommerce-account table.account-payment-methods-table tr th:last-child  {
+        padding-right: 1rem;
+    }
+    .woocommerce-account .woocommerce-MyAccount-navigation li {
+        padding: 1rem 0;
+        float: none;
+        clear: none;
+        display: inline-flex;
+        width: 33%;
+    }
+    .woocommerce-account .woocommerce-MyAccount-navigation ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .woocommerce-account .woocommerce-MyAccount-navigation li:first-child {
+        padding-top: 1rem;
+    }
+    .woocommerce-account table.shop_table_responsive tr td::before {
+        content: attr(data-title) " ";
+    }
+}
+
 @media (max-width: 599.5px) {
     .single-product .woocommerce div.product .woocommerce-tabs ul.tabs li {
         padding: 0 0.7em;
@@ -1244,5 +1356,8 @@
     }
     .woocommerce-account form.login {
         padding: 20px;
+    }
+    .woocommerce-account .woocommerce-MyAccount-navigation li {
+        width: 50%;
     }
 }
