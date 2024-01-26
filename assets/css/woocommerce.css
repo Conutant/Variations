@@ -814,6 +814,9 @@
     color: #282828;
     font-size: 0.85em;
 }
+.woocommerce-checkout .wp-site-blocks .has-global-padding.is-layout-constrained.wp-block-group-is-layout-constrained {
+    overflow: hidden;
+}
 
 /*
 * Account customization.
@@ -1315,9 +1318,6 @@
     .woocommerce-account .woocommerce-MyAccount-navigation {
         float: none;
         width: 100%;
-    }
-    .woocommerce-checkout .wp-site-blocks .has-global-padding.is-layout-constrained.wp-block-group-is-layout-constrained {
-        overflow: hidden;
     }
     .woocommerce-account table.account-payment-methods-table tr td:first-child,
     .woocommerce-account table.account-payment-methods-table tr th:first-child {
