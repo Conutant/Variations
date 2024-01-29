@@ -32,7 +32,7 @@ if (!function_exists('variations_frontend_assets')) {
         wp_enqueue_style(
             'variations-woocommerce-style',
             get_template_directory_uri() . '/assets/css/woocommerce.css',
-            array('woocommerce-blocktheme', 'woocommerce-general'),
+            array('variations-frontend-style', 'woocommerce-blocktheme'),
             VARIATIONS_THEME_VERSION
         );
 
@@ -65,6 +65,16 @@ if (!function_exists('variations_editor_assets')) {
             'variations-editor-style',
             get_template_directory_uri() . '/assets/css/editor.css',
             array(),
+            VARIATIONS_THEME_VERSION
+        );
+
+        /**
+         *  Woocommerce Styles.
+         * */
+        wp_enqueue_style(
+            'variations-woocommerce-style',
+            get_template_directory_uri() . '/assets/css/woocommerce.css',
+            array('woocommerce-blocktheme', 'woocommerce-smallscreen'),
             VARIATIONS_THEME_VERSION
         );
     }
