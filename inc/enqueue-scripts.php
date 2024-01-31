@@ -74,7 +74,7 @@ if (!function_exists('variations_editor_assets')) {
         wp_enqueue_style(
             'variations-woocommerce-style',
             get_template_directory_uri() . '/assets/css/woocommerce.css',
-            array('woocommerce-blocktheme', 'woocommerce-smallscreen'),
+            array('woocommerce-blocktheme', 'woocommerce-smallscreen', 'woocommerce-general'),
             VARIATIONS_THEME_VERSION
         );
     }
