@@ -3,32 +3,25 @@
 	"version": 2,
 	"customTemplates": [
 		{
-			"name": "blog-island-four",
-			"postTypes": [
-				"page"
-			],
-			"title": "Blog (Island Four)"
-		},
-		{
 			"name": "blog-island-three",
 			"postTypes": [
 				"page"
 			],
-			"title": "Blog (Island Three)"
+			"title": "Blog 3"
 		},
 		{
 			"name": "blog-island-two",
 			"postTypes": [
 				"page"
 			],
-			"title": "Blog (Island Two)"
+			"title": "Blog 2"
 		},
 		{
 			"name": "blog-island-one",
 			"postTypes": [
 				"page"
 			],
-			"title": "Blog (Island One)"
+			"title": "Blog 1"
 		},
 		{
 			"name": "websites-island",
