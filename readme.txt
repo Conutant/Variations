@@ -18,6 +18,10 @@ Variations is compatible with wordpress.org/patterns, giving you the ability to 
 
 == Changelog ==
 
+= 3.0.0 =
+* ++IT WILL BE A NEW RELEASE.++ 
+Mobile menu close button position fixed. Added more Blog and WooCommerce templates.
+
 = 2.0.2 =
 * Submenu fixed.
 

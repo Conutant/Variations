@@ -526,16 +526,13 @@
 				"elements": {
 					"link": {
 						":active": {
-							"color": {
-								"text": "#345C00"
-							},
 							"typography": {
 								"textDecoration": "none"
 							}
 						},
 						":focus": {
 							"typography": {
-								"textDecoration": "underline dashed"
+								"textDecoration": "underline"
 							}
 						},
 						":hover": {
@@ -553,9 +550,6 @@
 				"elements": {
 					"link": {
 						":active": {
-							"color": {
-								"text": "#345C00"
-							},
 							"typography": {
 								"textDecoration": "none"
 							}
@@ -623,12 +617,12 @@
 						},
 						":focus": {
 							"typography": {
-								"textDecoration": "underline dashed"
+								"textDecoration": "none"
 							}
 						},
 						":hover": {
 							"typography": {
-								"textDecoration": "underline"
+								"textDecoration": "none"
 							}
 						},
 						"typography": {
@@ -643,15 +637,6 @@
 			"core/post-author": {
 				"typography": {
 					"fontSize": "1rem"
-				}
-			},
-			"core/post-content": {
-				"elements": {
-					"link": {
-						"color": {
-							"text": "#345C00"
-						}
-					}
 				}
 			},
 			"core/post-date": {
@@ -686,16 +671,13 @@
 				"elements": {
 					"link": {
 						":active": {
-							"color": {
-								"text": "#345C00"
-							},
 							"typography": {
 								"textDecoration": "none"
 							}
 						},
 						":focus": {
 							"typography": {
-								"textDecoration": "underline dashed"
+								"textDecoration": "underline"
 							}
 						},
 						":hover": {
@@ -799,16 +781,13 @@
 				"elements": {
 					"link": {
 						":active": {
-							"color": {
-								"text": "#345C00"
-							},
 							"typography": {
 								"textDecoration": "none"
 							}
 						},
 						":focus": {
 							"typography": {
-								"textDecoration": "underline dashed"
+								"textDecoration": "underline"
 							}
 						},
 						":hover": {
@@ -908,16 +887,13 @@
 			},
 			"link": {
 				":active": {
-					"color": {
-						"text": "#345C00"
-					},
 					"typography": {
 						"textDecoration": "none"
 					}
 				},
 				":focus": {
 					"typography": {
-						"textDecoration": "underline dashed"
+						"textDecoration": "underline"
 					}
 				},
 				":hover": {
