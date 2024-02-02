@@ -2,9 +2,7 @@
 /**
  * Title: Island Single Product Page
  * Slug: variations/island-single-product-page
- * Description: Add a Single Product Page template
- * Categories: single product page
- * Keywords: Single product page
+ * Inserter: no
  */
 
 ?>

@@ -2,9 +2,7 @@
 /**
  * Title: Island Archive Product Page
  * Slug: variations/island-archive-product-page
- * Description: Add a Archive Product Page template
- * Categories: product page
- * Keywords: archive product page
+ * Inserter: no
  */
 
 ?>
@@ -37,7 +35,7 @@
 
 		<!-- wp:query-pagination {"layout":{"type":"flex","justifyContent":"center"}} -->
 		<!-- wp:query-pagination-previous /-->
-		<!-- wp:query-pagination-numbers /-->
+		<!-- wp:query-pagination-numbers {"style":{"typography":{"letterSpacing":"3px"}}} /-->
 		<!-- wp:query-pagination-next /-->
 		<!-- /wp:query-pagination -->
 

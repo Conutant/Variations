@@ -3,6 +3,20 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "single-product",
+			"postTypes": [
+				"single-product"
+			],
+			"title": "Single Product"
+		},
+		{
+			"name": "archive-product",
+			"postTypes": [
+				"archive-product"
+			],
+			"title": "Archive Product"
+		},
+		{
 			"name": "blog-blank",
 			"postTypes": [
 				"page"
