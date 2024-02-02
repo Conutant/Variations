@@ -570,7 +570,7 @@
 						},
 						":focus": {
 							"typography": {
-								"textDecoration": "underline dashed"
+								"textDecoration": "underline"
 							}
 						},
 						":hover": {
