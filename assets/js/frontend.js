@@ -23,5 +23,6 @@
                 $('.wp-block-navigation__responsive-container-close').trigger('click');
             }
         });
+
     });
 })(jQuery);
