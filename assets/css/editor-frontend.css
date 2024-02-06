@@ -32,7 +32,7 @@ body header.wp-block-template-part:has(+ div .wp-block-cover:first-child) .is-po
 body header.wp-block-template-part:has(+ .wp-block-cover) .is-position-sticky {
     position: absolute;
     width: 100%;
-    z-index: 2;
+    z-index: 10;
 }
 
 body header.wp-block-template-part:has(+ div .wp-block-cover:first-child)+.entry-content,

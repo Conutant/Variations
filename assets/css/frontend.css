@@ -69,13 +69,17 @@
     }
 }
 
-/*
- * Page templates customization.
- */
+/* Header */
+.mx_clean_header_background {
+    background: unset !important;
+}
+
 @media (min-width: 767.5px) {
 
     body header.wp-block-template-part:has(+ div .wp-block-cover:first-child) .is-position-sticky,
-    body header.wp-block-template-part:has(+ .wp-block-cover) .is-position-sticky {
+    body header.wp-block-template-part:has(+ .wp-block-cover) .is-position-sticky,
+    body header.wp-block-template-part:has(+ main .wp-block-cover) .is-position-sticky {
         position: fixed;
+        width: 100%;
     }
 }
