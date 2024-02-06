@@ -57,29 +57,44 @@ if (!function_exists('variations_editor_assets')) {
      * @return void
      */
     function variations_editor_assets()
-    {
+    {        
         /**
-         * Editor Styles.
+         * Check If it is admin part.
          * */
-        wp_enqueue_style(
-            'variations-editor-style',
-            get_template_directory_uri() . '/assets/css/editor.css',
-            array(),
-            VARIATIONS_THEME_VERSION
-        );
+        if ( is_admin() ) {
+            /**
+             * Editor Styles.
+             * */
+            wp_enqueue_style(
+                'variations-editor-style',
+                get_template_directory_uri() . '/assets/css/editor.css',
+                array(),
+                VARIATIONS_THEME_VERSION
+            );
 
-        /**
-         *  Woocommerce Styles.
-         * */
-        wp_enqueue_style(
-            'variations-woocommerce-style',
-            get_template_directory_uri() . '/assets/css/woocommerce.css',
-            array('woocommerce-blocktheme', 'woocommerce-smallscreen', 'woocommerce-general'),
-            VARIATIONS_THEME_VERSION
-        );
+            /**
+             *  Woocommerce Styles.
+             * */
+            wp_enqueue_style(
+                'variations-woocommerce-style',
+                get_template_directory_uri() . '/assets/css/woocommerce.css',
+                array('woocommerce-blocktheme', 'woocommerce-smallscreen', 'woocommerce-general'),
+                VARIATIONS_THEME_VERSION
+            );
+
+            /**
+             * Editor Scripts.
+             * */
+            wp_enqueue_script(
+                'variations-editor-script',
+                get_template_directory_uri() . '/assets/js/editor.js',
+                array('wp-blocks'),
+                VARIATIONS_THEME_VERSION
+            );            
+        }
     }
 }
-add_action('enqueue_block_editor_assets', 'variations_editor_assets');
+add_action('enqueue_block_assets', 'variations_editor_assets');
 
 if (!function_exists('variations_editor_frontend_assets')) {
     /**
