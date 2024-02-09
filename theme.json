@@ -311,6 +311,13 @@
 			"title": "Header/Footer: Earth"
 		},
 		{
+			"name": "websites-blank",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Blank"
+		},
+		{
 			"name": "blog-alternative",
 			"postTypes": [
 				"page"

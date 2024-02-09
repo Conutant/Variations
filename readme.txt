@@ -21,6 +21,7 @@ Variations is compatible with wordpress.org/patterns, giving you the ability to 
 = 3.0.0 =
 * ++IT WILL BE A NEW RELEASE.++ 
  - Mobile menu close button position fixed.
+ - Close mobile menu when a user clicks a link with a # character (eg. #price).
  - Added more Blog and WooCommerce templates.
  - Now there are default, sticky and fixed headers.
 
