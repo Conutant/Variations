@@ -24,11 +24,11 @@
 			"title": "Blog Blank"
 		},
 		{
-			"name": "blog-island-three",
+			"name": "blog-island-one",
 			"postTypes": [
 				"page"
 			],
-			"title": "Blog 3"
+			"title": "Blog 1"
 		},
 		{
 			"name": "blog-island-two",
@@ -38,11 +38,11 @@
 			"title": "Blog 2"
 		},
 		{
-			"name": "blog-island-one",
+			"name": "blog-island-three",
 			"postTypes": [
 				"page"
 			],
-			"title": "Blog 1"
+			"title": "Blog 3"
 		},
 		{
 			"name": "websites-island",

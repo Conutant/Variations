@@ -3,7 +3,7 @@ Contributors: Tyler Moore
 Requires at least: 6.0
 Tested up to: 6.4
 Requires PHP: 5.7
-Stable tag: 2.0.2
+Stable tag: 3.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,11 +19,12 @@ Variations is compatible with wordpress.org/patterns, giving you the ability to 
 == Changelog ==
 
 = 3.0.0 =
-* ++IT WILL BE A NEW RELEASE.++ 
- - Mobile menu close button position fixed.
- - Close mobile menu when a user clicks a link with a # character (eg. #price).
- - Added more Blog and WooCommerce templates.
- - Now there are default, sticky and fixed headers.
+* - Mobile menu close button position fixed.
+  - Close mobile menu when a user clicks a link with a "#" character (eg. #price).
+  - Added more Blog templates.
+  - Added WooCommerce single product and archive product pages.
+  - Added WooCommerce default styling.
+  - Now there are default, sticky and fixed headers.
 
 = 2.0.2 =
 * Submenu fixed.

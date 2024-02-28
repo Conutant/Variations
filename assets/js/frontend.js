@@ -72,8 +72,6 @@
 
                 const scroll_position = $(document).scrollTop();
 
-                console.log(scroll_position)
-
                 if (scroll_position < 50) {
 
                     $(this.header).addClass(this.cleanClass);
