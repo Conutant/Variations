@@ -45,6 +45,13 @@
 			"title": "Blog 3"
 		},
 		{
+			"name": "blog-island-four",
+			"postTypes": [
+				"page"
+			],
+			"title": "Blog 4"
+		},
+		{
 			"name": "websites-island",
 			"postTypes": [
 				"page"
