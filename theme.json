@@ -52,6 +52,13 @@
 			"title": "Blog 4"
 		},
 		{
+			"name": "blog-island-five",
+			"postTypes": [
+				"page"
+			],
+			"title": "Blog 5"
+		},
+		{
 			"name": "websites-island",
 			"postTypes": [
 				"page"
@@ -492,6 +499,20 @@
 								"file:./assets/fonts/inter/inter_normal_100-900.ttf",
 								"file:./assets/fonts/inter/Inter-Regular.woff",
 								"file:./assets/fonts/inter/Inter-Regular.woff2"
+							]
+						}
+					]
+				},
+				{
+					"fontFamily": "Hedvig Letters Serif",
+					"slug": "hedvig-letters-serif-regular",
+					"fontFace": [
+						{
+							"fontFamily": "Hedvig Letters Serif",
+							"fontWeight": "400",
+							"fontStyle": "normal",
+							"src": [
+								"file:./assets/fonts/hedvig-letters-serif/hedvig-letters-serif-regular.ttf"
 							]
 						}
 					]
