@@ -73,6 +73,13 @@
 			"title": "Blog 7"
 		},
 		{
+			"name": "blog-surf-one",
+			"postTypes": [
+				"page"
+			],
+			"title": "Blog Surf 1"
+		},
+		{
 			"name": "websites-island",
 			"postTypes": [
 				"page"

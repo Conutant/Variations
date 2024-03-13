@@ -70,7 +70,11 @@ body main:has(.wp-block-post-title) .entry-content {
 .taxonomy-category[style*="text-decoration:none"] a,
 .taxonomy-category[style*="text-decoration: none"] a,
 .wp-block-categories-list[style*="text-decoration:none"] a,
-.wp-block-categories-list[style*="text-decoration: none"] a {
+.wp-block-categories-list[style*="text-decoration: none"] a,
+.wp-block-post-terms[style*="text-decoration:none"] a,
+.wp-block-post-terms[style*="text-decoration: none"] a,
+.wp-block-post-navigation-link[style*="text-decoration:none"] a,
+.wp-block-post-navigation-link[style*="text-decoration: none"] a {
     text-decoration: none !important;
 }
 
@@ -126,4 +130,65 @@ body main:has(.wp-block-post-title) .entry-content {
 
 .is-style-rounded-numbers .page-numbers.current {
     border: 1px solid #333333;
+}
+
+/*
+ * core/post-terms customization
+ */
+.taxonomy-post_tag.is-style-rounded-terms a {
+    border: 1px solid #D2DDD2;
+    padding: 5px 12px;
+    border-radius: 20px;
+}
+
+/*
+ * core/post-author customization
+ */
+.wp-block-post-author.is-style-blog-style img {
+    border-radius: 50%;
+}
+
+.wp-block-post-author.is-style-blog-style .wp-block-post-author__name {
+    font-weight: 500;
+}
+
+.wp-block-post-author.is-style-blog-style .wp-block-post-author__bio {
+    margin-top: 4px;
+}
+
+/*
+ * core/post-navigation-link customization
+ */
+.wp-block-post-navigation-link.is-style-blog-style:has(a) {
+    border: 1px solid #959E95;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.wp-block-post-navigation-link.is-style-blog-style .post-navigation-link__label {
+    text-transform: uppercase;
+    color: #959E95;
+    font-family: 'Inter';
+    font-size: 0.9rem;
+    margin-bottom: 6px;
+    display: block;
+}
+
+/*
+ * core/comments customization
+ */
+.wp-block-comments.is-style-blog-style .comment-reply-title {
+    font-family: "Hedvig Letters Serif";
+    font-size: 20px;
+}
+
+.wp-block-comments.is-style-blog-style input[type="submit"] {
+    background: #000000;
+}
+
+.wp-block-comments.is-style-blog-style textarea,
+.wp-block-comments.is-style-blog-style input[type="text"],
+.wp-block-comments.is-style-blog-style input[type="email"],
+.wp-block-comments.is-style-blog-style input[type="url"] {
+    border-radius: 8px;
 }

@@ -38,3 +38,35 @@ wp.blocks.registerBlockStyle('core/query-pagination-numbers',
         label: 'Rounded',
     }
 );
+
+/** core/post-terms rounded */
+wp.blocks.registerBlockStyle('core/post-terms',
+    {
+        name: 'rounded-terms',
+        label: 'Rounded',
+    }
+);
+
+/** core/post-author blog style */
+wp.blocks.registerBlockStyle('core/post-author',
+    {
+        name: 'blog-style',
+        label: 'Blog Style',
+    }
+);
+
+/** core/post-navigation-link blog style */
+wp.blocks.registerBlockStyle('core/post-navigation-link',
+    {
+        name: 'blog-style',
+        label: 'Blog Style',
+    }
+);
+
+/** core/comments blog style */
+wp.blocks.registerBlockStyle('core/comments',
+    {
+        name: 'blog-style',
+        label: 'Blog Style',
+    }
+);
