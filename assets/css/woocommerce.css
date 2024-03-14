@@ -376,6 +376,23 @@ div.product form.cart .variations select,
     margin-top: auto;
 }
 
+.single-product .woocommerce-tabs ul.tabs {
+    display: flex;
+    justify-content: center;
+}
+
+.single-product .woocommerce-tabs ul.tabs li.active a {
+    position: relative;
+}
+
+.single-product .woocommerce-tabs ul.tabs li a {
+    text-decoration: none;
+}
+
+.single-product .woocommerce-tabs ul.tabs li, .woocommerce div.product .woocommerce-tabs ul.tabs li {
+    list-style-type: none;
+}
+
 /*
 * Cart customization.
 */
