@@ -80,6 +80,13 @@
 			"title": "Blog Surf 1"
 		},
 		{
+			"name": "websites-blog",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Blog"
+		},
+		{
 			"name": "websites-island",
 			"postTypes": [
 				"page"

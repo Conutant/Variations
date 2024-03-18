@@ -42,7 +42,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","width":"50px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50px"><!-- wp:group {"style":{"dimensions":{"minHeight":"42px"},"border":{"radius":"50%","color":"#959e95","width":"1px"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
-<div class="wp-block-group has-border-color" style="border-color:#959e95;border-width:1px;border-radius:50%;min-height:42px"><!-- wp:read-more {"content":"\u003cimg class=\u0022wp-image-18846\u0022 style=\u0022width: 16px;\u0022 src=\u0022http://tyler.local/wp-content/themes/variations/assets/images/arrow.png\u0022 alt=\u0022\u0022\u003e","style":{"spacing":{"padding":{"top":"8px","right":"12px","bottom":"8px","left":"10px"}}}} /--></div>
+<div class="wp-block-group has-border-color" style="border-color:#959e95;border-width:1px;border-radius:50%;min-height:42px"><!-- wp:read-more {"content":"\u003cimg class=\u0022wp-image-18846\u0022 style=\u0022width: 16px;\u0022 src=\u0022<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/arrow.png\u0022 alt=\u0022\u0022\u003e","style":{"spacing":{"padding":{"top":"8px","right":"12px","bottom":"8px","left":"10px"}}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

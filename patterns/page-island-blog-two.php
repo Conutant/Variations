@@ -81,7 +81,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":209,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"100px"}}} -->
-<figure class="wp-block-image aligncenter size-full has-custom-border"><img src="http://tyler.local/wp-content/themes/variations/assets/images/tyler.jpeg" alt="" class="wp-image-209" style="border-radius:100px"/></figure>
+<figure class="wp-block-image aligncenter size-full has-custom-border"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tyler.jpeg" alt="" class="wp-image-209" style="border-radius:100px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"padding":{"bottom":"0px"}},"color":{"text":"#07277c"},"elements":{"link":{"color":{"text":"#07277c"}}},"typography":{"textTransform":"none","letterSpacing":"1px"}},"fontFamily":"prata-regular"} -->
