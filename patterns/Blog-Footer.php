@@ -9,18 +9,14 @@
  */
 
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0.25rem","bottom":"2.71rem"}}},"layout":{"type":"constrained","contentSize":"1500px"}} -->
-<div class="wp-block-group" style="padding-top:0.25rem;padding-bottom:2.71rem"><!-- wp:separator {"style":{"color":{"background":"#ebe9e9"},"spacing":{"margin":{"top":"0px","bottom":"50px"}}},"className":"is-style-wide"} -->
-<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background is-style-wide" style="margin-top:0px;margin-bottom:50px;background-color:#ebe9e9;color:#ebe9e9"/>
-<!-- /wp:separator -->
-
-<!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"2.71rem","bottom":"2.71rem"}}},"layout":{"type":"constrained","contentSize":"1500px"}} -->
+<div class="wp-block-group" style="padding-top:2.71rem;padding-bottom:2.71rem"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
 <div class="wp-block-columns alignwide" style="margin-top:0;margin-bottom:0"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="padding-right:0;padding-left:0"><!-- wp:site-title {"level":2,"textAlign":"center","style":{"typography":{"fontSize":"30px","textTransform":"uppercase"}}} /--></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","width":"%"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:navigation {"customTextColor":"#000001","overlayMenu":"never","layout":{"type":"flex","justifyContent":"center"},"style":{"typography":{"fontSize":"1.13rem"},"spacing":{"blockGap":"1rem"}}} /--></div>
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:navigation {"ref":23212,"customTextColor":"#000001","overlayMenu":"never","layout":{"type":"flex","justifyContent":"center"},"style":{"typography":{"fontSize":"1.13rem"},"spacing":{"blockGap":"1rem"}}} /--></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
