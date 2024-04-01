@@ -65,16 +65,14 @@ body main:has(.wp-block-post-title) .entry-content {
 /*
  * Site Title underline bug fix.
  */
-.wp-block-heading[style*="text-decoration:none"] a,
-.wp-block-heading[style*="text-decoration: none"] a,
-.taxonomy-category[style*="text-decoration:none"] a,
-.taxonomy-category[style*="text-decoration: none"] a,
-.wp-block-categories-list[style*="text-decoration:none"] a,
-.wp-block-categories-list[style*="text-decoration: none"] a,
-.wp-block-post-terms[style*="text-decoration:none"] a,
-.wp-block-post-terms[style*="text-decoration: none"] a,
-.wp-block-post-navigation-link[style*="text-decoration:none"] a,
-.wp-block-post-navigation-link[style*="text-decoration: none"] a {
+div[style*="text-decoration:none"] a,
+div[style*="text-decoration: none"] a,
+p[style*="text-decoration:none"] a,
+p[style*="text-decoration: none"] a,
+ul[style*="text-decoration:none"] a,
+ul[style*="text-decoration: none"] a,
+li[style*="text-decoration:none"] a,
+li[style*="text-decoration: none"] a {
     text-decoration: none !important;
 }
 
