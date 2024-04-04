@@ -1,5 +1,5 @@
 /**
- * This file contains JavaScript for the editor and frontend
+ * This file contains JavaScript for the editor
  *
  */
 
@@ -70,3 +70,4 @@ wp.blocks.registerBlockStyle('core/comments',
         label: 'Blog Style',
     }
 );
+
