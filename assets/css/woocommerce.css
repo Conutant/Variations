@@ -64,6 +64,15 @@ a.woocommerce-product-gallery__trigger {
     display: none;
 }
 
+.woocommerce-product-gallery ol {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    justify-content: space-between;
+    margin-top: 32px;
+    gap: 6px;
+}
+
 
 /* Selects */
 .wc-block-catalog-sorting select.orderby,
@@ -323,6 +332,11 @@ div.product form.cart .variations select,
     width: 37px;
     height: 1px;
     background-color: rgba(0, 0, 0, .2);
+}
+
+.single-product .wp-block-woocommerce-product-details h2.heading-no-line:before,
+.single-product .wp-block-woocommerce-related-products h2.heading-no-line:before {
+    display: none;
 }
 
 .wp-block-woocommerce-product-details ul.wc-tabs,
@@ -1347,13 +1361,26 @@ div.product form.cart .variations select,
 
 /*
  * core/post-template
+ * woocommerce/product-image-gallery
  */
 /* sale badge */
 .is-style-greeni-style .wc-block-grid__product-image .wc-block-components-product-sale-badge,
-.is-style-greeni-style .wc-block-components-product-image .wc-block-components-product-sale-badge {
+.is-style-greeni-style .wc-block-components-product-image .wc-block-components-product-sale-badge,
+.is-style-greeni-style.wp-block-woocommerce-product-image-gallery .onsale,
+.woocommerce .is-style-greeni-style.wp-block-woocommerce-product-image-gallery .onsale {
     background: #065604;
     border-radius: 40px;
     margin: 20px;
+    font-size: 14px;
+}
+
+/* images */
+.is-style-greeni-style.wp-block-woocommerce-product-image-gallery .woocommerce-product-gallery__image {
+    border-radius: 24px;
+}
+
+.is-style-greeni-style.wp-block-woocommerce-product-image-gallery ol img {
+    border-radius: 8px;
 }
 
 /* price */
@@ -1379,6 +1406,62 @@ div.product form.cart .variations select,
 
 .is-style-greeni-style.wp-block-woocommerce-product-categories a {
     text-decoration: none;
+}
+
+/*
+ * woocommerce/add-to-cart-form
+ */
+.is-style-greeni-style.wp-block-add-to-cart-form form {
+    display: flex;
+}
+
+.is-style-greeni-style.wp-block-add-to-cart-form .quantity .qty {
+    border-radius: 40px;
+    padding: 18px 10px;
+    width: 100px;
+    font-size: 18px;
+}
+
+.is-style-greeni-style.wp-block-add-to-cart-form button[type=submit] {
+    border-radius: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-left: 40px;
+    padding-right: 40px;
+    background: #165A0B;
+    width: 100%;
+}
+
+/*
+ * woocommerce/product-rating
+ */
+.is-rating-greeni-style .wc-block-grid__product-rating__stars span:before{
+    color: #165A0B;
+}
+
+/*
+ * woocommerce/product-meta
+ */
+.is-style-greeni-style.wp-block-woocommerce-product-meta strong.sku,
+.is-style-greeni-style.wp-block-woocommerce-product-meta .taxonomy-product_cat a {
+    color: #9A9A9A;
+}
+
+/*
+ * woocommerce/product-details
+ */
+.is-style-greeni-style.wp-block-woocommerce-product-details .woocommerce-Tabs-panel h2 {
+    font-family: 'Young Serif';
+    color: #165A0B;
+    font-size: 2rem;
+}
+
+.is-style-greeni-style.wp-block-woocommerce-product-details .woocommerce-Tabs-panel h2:before {
+    display: none;
+}
+
+.is-style-greeni-style.wp-block-woocommerce-product-details .comment-text .star-rating span:before {
+    color: #165A0B;
 }
 
 /*

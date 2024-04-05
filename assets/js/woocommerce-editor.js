@@ -26,3 +26,35 @@ wp.blocks.registerBlockStyle('woocommerce/product-categories',
         label: 'Greeni Style',
     }
 );
+
+/** woocommerce/product-image-gallery style */
+wp.blocks.registerBlockStyle('woocommerce/product-image-gallery',
+    {
+        name: 'greeni-style',
+        label: 'Greeni Style',
+    }
+);
+
+/** woocommerce/add-to-cart-form style */
+wp.blocks.registerBlockStyle('woocommerce/add-to-cart-form',
+    {
+        name: 'greeni-style',
+        label: 'Greeni Style',
+    }
+);
+
+/** woocommerce/product-meta style */
+wp.blocks.registerBlockStyle('woocommerce/product-meta',
+    {
+        name: 'greeni-style',
+        label: 'Greeni Style',
+    }
+);
+
+/** woocommerce/product-details style */
+wp.blocks.registerBlockStyle('woocommerce/product-details',
+    {
+        name: 'greeni-style',
+        label: 'Greeni Style',
+    }
+);
