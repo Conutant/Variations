@@ -16,8 +16,8 @@
 <h4 class="wp-block-heading has-text-align-left has-text-color has-inter-font-family" style="color:#165a0b;margin-bottom:1.01rem;font-size:1.26rem;font-style:normal;font-weight:500;letter-spacing:1.5px;line-height:1.3;text-transform:uppercase">Green Shop</h4>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.1","letterSpacing":"1.5px","fontSize":"4.5rem"},"spacing":{"margin":{"bottom":"1.01rem"}},"color":{"text":"#165a0b"}},"extendedSettings":{"prompt":"Please create the first headline for the homepage. This will be the first thing any new visitor will see. It should show the main value proposition. It should be no more than three words."}} -->
-<h2 class="wp-block-heading has-text-align-left has-text-color" style="color:#165a0b;margin-bottom:1.01rem;font-size:4.5rem;font-style:normal;font-weight:500;letter-spacing:1.5px;line-height:1.1">Plants &amp; Tools Galore!</h2>
+<!-- wp:heading {"textAlign":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.1","letterSpacing":"1.5px","fontSize":"4.5rem"},"spacing":{"margin":{"bottom":"1.01rem"}},"color":{"text":"#165a0b"}},"fontFamily":"young-serif-regular","extendedSettings":{"prompt":"Please create the first headline for the homepage. This will be the first thing any new visitor will see. It should show the main value proposition. It should be no more than three words."}} -->
+<h2 class="wp-block-heading has-text-align-left has-text-color has-young-serif-regular-font-family" style="color:#165a0b;margin-bottom:1.01rem;font-size:4.5rem;font-style:normal;font-weight:500;letter-spacing:1.5px;line-height:1.1">Plants &amp; Tools Galore!</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
@@ -82,15 +82,15 @@
 
 <!-- wp:column {"width":"75%"} -->
 <div class="wp-block-column" style="flex-basis:75%"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"80px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-bottom:80px"><!-- wp:columns {"style":{"border":{"bottom":{"color":"#dfdcdc","width":"1px"}},"spacing":{"padding":{"bottom":"20px"}}}} -->
-<div class="wp-block-columns" style="border-bottom-color:#dfdcdc;border-bottom-width:1px;padding-bottom:20px"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"textAlign":"left","style":{"color":{"text":"#165a0b"},"elements":{"link":{"color":{"text":"#165a0b"}}},"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"1.5rem"}},"extendedSettings":{"prompt":"Please now create the areas of work section of the blog homepage. This section should display the areas of work we cover. First please just create and return the title of the areas of work section with up to three words."}} -->
-<h2 class="wp-block-heading has-text-align-left has-text-color has-link-color" style="color:#165a0b;font-size:1.5rem;font-style:normal;font-weight:500">All Products</h2>
+<div class="wp-block-group" style="padding-bottom:80px"><!-- wp:columns {"verticalAlignment":"center","style":{"border":{"bottom":{"color":"#dfdcdc","width":"1px"}},"spacing":{"padding":{"bottom":"20px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center" style="border-bottom-color:#dfdcdc;border-bottom-width:1px;padding-bottom:20px"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"textAlign":"left","style":{"color":{"text":"#165a0b"},"elements":{"link":{"color":{"text":"#165a0b"}}},"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"1.5rem"}},"fontFamily":"young-serif-regular","extendedSettings":{"prompt":"Please now create the areas of work section of the blog homepage. This section should display the areas of work we cover. First please just create and return the title of the areas of work section with up to three words."}} -->
+<h2 class="wp-block-heading has-text-align-left has-text-color has-link-color has-young-serif-regular-font-family" style="color:#165a0b;font-size:1.5rem;font-style:normal;font-weight:500">All Products</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"0.9rem","textTransform":"uppercase","fontStyle":"normal","fontWeight":"500"},"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"30"}},"color":{"text":"#9a9a9a"},"elements":{"link":{"color":{"text":"#9a9a9a"}}}}} -->
 <h3 class="wp-block-heading has-text-color has-link-color" style="color:#9a9a9a;margin-bottom:0;padding-bottom:30;font-size:0.9rem;font-style:normal;font-weight:500;text-transform:uppercase">Sort by:</h3>
 <!-- /wp:heading -->
@@ -109,11 +109,13 @@
 <!-- wp:query {"queryId":0,"query":{"perPage":9,"pages":0,"offset":0,"postType":"product","order":"asc","orderBy":"title","author":"","search":"","exclude":[],"sticky":"","inherit":true,"__woocommerceAttributes":[],"__woocommerceStockStatus":["instock","outofstock","onbackorder"]},"namespace":"woocommerce/product-query","align":"wide"} -->
 <div class="wp-block-query alignwide"><!-- wp:post-template {"className":"products-block-post-template is-style-greeni-style","layout":{"type":"grid","columnCount":3},"fontSize":"small","__woocommerceNamespace":"woocommerce/product-query/product-template"} -->
 <!-- wp:group {"style":{"typography":{"lineHeight":"1.5","fontSize":"10px"},"color":{"text":"#ffffff"},"elements":{"link":{"color":{"text":"#ffffff"}}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-text-color has-link-color" style="color:#ffffff;font-size:10px;line-height:1.5"><!-- wp:woocommerce/product-image {"saleBadgeAlign":"left","imageSizing":"thumbnail","isDescendentOfQueryLoop":true,"height":"","style":{"typography":{"fontSize":"14px"},"border":{"radius":"24px"}}} /--></div>
+<div class="wp-block-group has-text-color has-link-color" style="color:#ffffff;font-size:10px;line-height:1.5"><!-- wp:woocommerce/product-image {"saleBadgeAlign":"left","imageSizing":"thumbnail","isDescendentOfQueryLoop":true,"height":"","style":{"typography":{"fontSize":"14px"},"border":{"radius":"12px"}}} /--></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.5rem"},"dimensions":{"minHeight":"10rem"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"space-between"}} -->
-<div class="wp-block-group" style="min-height:10rem"><!-- wp:post-title {"textAlign":"center","level":3,"isLink":true,"style":{"typography":{"textTransform":"uppercase","fontSize":"1rem","fontStyle":"normal","fontWeight":"500"},"color":{"text":"#165a0b"},"elements":{"link":{"color":{"text":"#165a0b"}}},"spacing":{"margin":{"bottom":"0rem"}}},"__woocommerceNamespace":"woocommerce/product-query/product-title"} /-->
+<div class="wp-block-group" style="min-height:10rem"><!-- wp:post-terms {"term":"product_cat","style":{"color":{"text":"#9a9a9a"},"elements":{"link":{"color":{"text":"#9a9a9a"}}},"typography":{"textTransform":"uppercase","fontSize":"12px","textDecoration":"none"},"spacing":{"margin":{"top":"20px"}}},"className":"is-style-default"} /-->
+
+<!-- wp:post-title {"textAlign":"center","level":3,"isLink":true,"style":{"typography":{"textTransform":"uppercase","fontSize":"1rem","fontStyle":"normal","fontWeight":"500"},"color":{"text":"#165a0b"},"elements":{"link":{"color":{"text":"#165a0b"}}},"spacing":{"margin":{"bottom":"0rem"}}},"__woocommerceNamespace":"woocommerce/product-query/product-title"} /-->
 
 <!-- wp:woocommerce/product-price {"isDescendentOfQueryLoop":true,"textAlign":"center","style":{"typography":{"fontSize":"14px"},"color":{"text":"#165a0b"},"elements":{"link":{"color":{"text":"#165a0b"}}},"spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}}} /-->
 

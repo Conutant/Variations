@@ -18,6 +18,9 @@ Variations is compatible with wordpress.org/patterns, giving you the ability to 
 
 == Changelog ==
 
+= 4.1.0 =
+* - Added YoungSerif-Regular font.
+
 = 4.0.3 =
 * - Fixed Global header.
 

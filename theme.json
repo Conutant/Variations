@@ -544,6 +544,20 @@
 							]
 						}
 					]
+				},
+				{
+					"fontFamily": "Young Serif",
+					"slug": "young-serif-regular",
+					"fontFace": [
+						{
+							"fontFamily": "Young Serif",
+							"fontWeight": "400",
+							"fontStyle": "normal",
+							"src": [
+								"file:./assets/fonts/young-serif/young-serif.ttf"
+							]
+						}
+					]
 				}
 			],
 			"fontStyle": true,
