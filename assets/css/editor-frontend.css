@@ -175,6 +175,28 @@ li[style*="text-decoration: none"] a {
 /*
  * core/comments customization
  */
+#review_form #respond textarea,
+.comment-form input[type=text],
+.comment-form input[type=email],
+.comment-form input[type=url] {
+    padding: 10px;
+    border-radius: 4px;
+}
+
+p.comment-form-author,
+p.comment-form-email,
+p.comment-form-url {
+    position: relative;
+    margin-top: 30px;
+}
+
+p.comment-form-author label,
+p.comment-form-email label,
+p.comment-form-url label {
+    position: absolute;
+    top: -25px;
+}
+
 .wp-block-comments.is-style-blog-style .comment-reply-title {
     font-family: "Hedvig Letters Serif";
     font-size: 20px;

@@ -7,7 +7,7 @@
  * Keywords: woocommerce
  */
 
-?>
+?> 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"4rem"}}},"layout":{"inherit":true,"type":"constrained","justifyContent":"center"}} -->
 <div class="wp-block-group" style="margin-top:4rem"><!-- wp:woocommerce/store-notices /-->
 
