@@ -1,8 +1,8 @@
 <?php
  /**
- * Title: Blog 3
+ * Title: Blog Old 3
  * Slug: variations/page-island-blog-three
- * Description: Add Blog 3 Template
+ * Description: Add Blog Old 3 Template
  * Categories: posts
  * Keywords: blog, news, posts, grid
  * Block Types: core/query

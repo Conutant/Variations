@@ -1,15 +1,15 @@
 <?php
  /**
- * Title: Blog 5
+ * Title: Blog 2
  * Slug: variations/page-island-blog-five
- * Description: Add Blog 5 Template
+ * Description: Add Blog 2 Template
  * Categories: posts
  * Keywords: blog, news, posts, grid
  * Block Types: core/query
  */
 
 ?>
-<!-- wp:cover {"customOverlayColor":"#f0f2e9","minHeight":30,"minHeightUnit":"vw","contentPosition":"bottom center","isDark":false,"align":"full","style":{"spacing":{"blockGap":"0","padding":{"top":"180px","bottom":"120px","right":"0px","left":"0px"},"margin":{"top":"0","bottom":"0"}},"color":{"text":"#e4e2d7"}},"layout":{"type":"constrained","contentSize":"1140px"}} -->
+<!-- wp:cover {"customOverlayColor":"#f0f2e9","isUserOverlayColor":true,"minHeight":30,"minHeightUnit":"vw","contentPosition":"bottom center","isDark":false,"align":"full","style":{"spacing":{"blockGap":"0","padding":{"top":"180px","bottom":"120px","right":"0px","left":"0px"},"margin":{"top":"0","bottom":"0"}},"color":{"text":"#e4e2d7"}},"layout":{"type":"constrained","contentSize":"1140px"}} -->
 <div class="wp-block-cover alignfull is-light has-custom-content-position is-position-bottom-center has-text-color" style="color:#e4e2d7;margin-top:0;margin-bottom:0;padding-top:180px;padding-right:0px;padding-bottom:120px;padding-left:0px;min-height:30vw"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#f0f2e9"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"dimensions":{"minHeight":"100%"},"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"margin":{"top":"0px","bottom":"0px"}}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","flexWrap":"wrap"}} -->
 <div class="wp-block-group" style="min-height:100%;margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:heading {"level":1,"style":{"color":{"text":"#242925"},"typography":{"fontStyle":"normal","fontWeight":"400","lineHeight":"1","fontSize":"5rem"},"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"fontFamily":"hedvig-letters-serif-regular","extendedSettings":{"prompt":"Please create the first headline of the homepage. This will be the first thing any new visitor will see. It should show the main value proposition. It should be no more than 50 characters."}} -->
 <h1 class="wp-block-heading has-text-color has-hedvig-letters-serif-regular-font-family" style="color:#242925;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;font-size:5rem;font-style:normal;font-weight:400;line-height:1">Chasing Sunsets<br>&amp; Summits</h1>
@@ -23,8 +23,8 @@
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"40px","bottom":"60px","right":"30px","left":"30px"}}},"layout":{"type":"constrained","contentSize":"1140px"}} -->
-<div class="wp-block-group" style="padding-top:40px;padding-right:30px;padding-bottom:60px;padding-left:30px"><!-- wp:heading {"style":{"color":{"text":"#242925"},"elements":{"link":{"color":{"text":"#242925"}}},"typography":{"fontSize":"2.5rem"},"spacing":{"margin":{"bottom":"50px"}}},"fontFamily":"hedvig-letters-serif-regular"} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"40px","bottom":"60px","right":"30px","left":"30px"}}},"layout":{"type":"constrained","contentSize":"1140px"}} -->
+<div class="wp-block-group alignfull" style="padding-top:40px;padding-right:30px;padding-bottom:60px;padding-left:30px"><!-- wp:heading {"style":{"color":{"text":"#242925"},"elements":{"link":{"color":{"text":"#242925"}}},"typography":{"fontSize":"2.5rem"},"spacing":{"margin":{"bottom":"50px"}}},"fontFamily":"hedvig-letters-serif-regular"} -->
 <h2 class="wp-block-heading has-text-color has-link-color has-hedvig-letters-serif-regular-font-family" style="color:#242925;margin-bottom:50px;font-size:2.5rem">Latest Posts</h2>
 <!-- /wp:heading -->
 
@@ -63,8 +63,8 @@
 <!-- /wp:query --></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"customOverlayColor":"#f0f2e9","isDark":false,"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#f0f2e9"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","right":"0px","bottom":"80px","left":"0px"}}},"layout":{"type":"constrained","contentSize":"660px"}} -->
+<!-- wp:cover {"customOverlayColor":"#f0f2e9","isUserOverlayColor":true,"isDark":false,"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#f0f2e9"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","right":"0px","bottom":"80px","left":"0px"}}},"layout":{"type":"constrained","contentSize":"660px"}} -->
 <div class="wp-block-group" style="padding-top:80px;padding-right:0px;padding-bottom:80px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":5,"style":{"color":{"text":"#959e95"},"elements":{"link":{"color":{"text":"#959e95"}}},"typography":{"fontSize":"0.87rem"}}} -->
 <h5 class="wp-block-heading has-text-align-center has-text-color has-link-color" style="color:#959e95;font-size:0.87rem">Hey there, fellow adventurers</h5>
