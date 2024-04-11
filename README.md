@@ -3,9 +3,9 @@
 === Variations ===
 Contributors: Tyler Moore  
 Requires at least: 6.0  
-Tested up to: 6.4  
+Tested up to: 6.5  
 Requires PHP: 5.7  
-Stable tag: 4.0.3
+Stable tag: 4.1.0
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,6 +22,8 @@ Variations is compatible with wordpress.org/patterns, giving you the ability to 
 
 = 4.1.0 =
 * - Added YoungSerif-Regular font.
+  - Removed unnecessary templates.
+  - Added more WooCommerce changes.
 
 = 4.0.3 =
 * - Fixed Global header.
