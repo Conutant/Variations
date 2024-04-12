@@ -28,7 +28,7 @@
 <h2 class="wp-block-heading has-text-color has-link-color has-hedvig-letters-serif-regular-font-family" style="color:#242925;margin-bottom:50px;font-size:2.5rem">Latest Posts</h2>
 <!-- /wp:heading -->
 
-<!-- wp:query {"queryId":12,"query":{"perPage":"9","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":{"category":[]}},"layout":{"type":"default"}} -->
+<!-- wp:query {"queryId":12,"query":{"perPage":"7","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":{"category":[]}},"layout":{"type":"default"}} -->
 <div class="wp-block-query"><!-- wp:post-template {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"grid","columnCount":1}} -->
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"1140px"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false} -->

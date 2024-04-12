@@ -460,10 +460,6 @@ div.product form.cart .variations select,
     color: #282828;
 }
 
-.woocommerce-cart table.wc-block-cart-items .wc-block-cart-items__header th {
-    font-weight: 400;
-}
-
 .woocommerce-cart table.wc-block-cart-items .wc-block-cart-items__header th:first-child {
     text-align: left;
 }
@@ -1393,7 +1389,7 @@ div.product form.cart .variations select,
 }
 
 /* images */
-.is-style-greeni-style.wp-block-woocommerce-product-image-gallery .woocommerce-product-gallery__image {    
+.is-style-greeni-style.wp-block-woocommerce-product-image-gallery .woocommerce-product-gallery__image {
     text-align: center;
 }
 
@@ -1526,6 +1522,65 @@ div.product form.cart .variations select,
     color: #165A0B;
     font-size: 2rem;
     font-weight: normal;
+}
+
+/*
+* Cart.
+*/
+.is-style-greeni-style .wc-block-cart-items thead {
+    position: relative;
+}
+
+.is-style-greeni-style .wc-block-cart-items thead:before {
+    content: '';
+    background-color: #F5F5F5;
+    text-transform: uppercase;
+    color: #000000;
+    font-size: 14px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.woocommerce-cart .is-style-greeni-style table.wc-block-cart-items .wc-block-cart-items__header th:first-child,
+.woocommerce-cart .is-style-greeni-style table.wc-block-cart-items .wc-block-cart-items__header th {
+    text-align: center;
+    padding: 12px;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-cart-item__image a {
+    justify-content: flex-start;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-cart-item__image a img {
+    width: 104px;
+    height: auto;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-components-product-name {
+    font-size: 1.2rem;
+    color: #000000;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-components-quantity-selector {
+    border: 1px solid #D2DDD2;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-components-quantity-selector__input {
+    border-left: 1px solid #D2DDD2;
+    border-right: 1px solid #D2DDD2;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-components-quantity-selector .wc-block-components-quantity-selector__button {
+    border-radius: 0;
+    height: 34px;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-components-formatted-money-amount {
+    color: #000;
 }
 
 /*

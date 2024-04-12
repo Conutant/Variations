@@ -24,9 +24,8 @@
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"80px","bottom":"50px","right":"30px","left":"30px"}}},"layout":{"type":"constrained","contentSize":"","wideSize":""}} -->
-<div class="wp-block-group alignwide" style="padding-top:80px;padding-right:30px;padding-bottom:50px;padding-left:30px"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"50px","left":"50px"}}}} -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"50px","left":"50px"},"padding":{"top":"80px","right":"30px","bottom":"50px","left":"30px"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-top:80px;padding-right:30px;padding-bottom:50px;padding-left:30px"><!-- wp:column {"width":"25%"} -->
 <div class="wp-block-column" style="flex-basis:25%"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:woocommerce/filter-wrapper {"filterType":"price-filter","heading":"Filter by price"} -->
 <div class="wp-block-woocommerce-filter-wrapper"><!-- wp:heading {"level":3,"style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"500","fontSize":"0.9rem"},"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"30"}},"color":{"text":"#9a9a9a"},"elements":{"link":{"color":{"text":"#9a9a9a"}}}}} -->
@@ -82,8 +81,8 @@
 
 <!-- wp:column {"width":"75%"} -->
 <div class="wp-block-column" style="flex-basis:75%"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"80px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-bottom:80px"><!-- wp:columns {"verticalAlignment":"center","style":{"border":{"bottom":{"color":"#dfdcdc","width":"1px"}},"spacing":{"padding":{"bottom":"20px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center" style="border-bottom-color:#dfdcdc;border-bottom-width:1px;padding-bottom:20px"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-group" style="padding-bottom:80px"><!-- wp:columns {"verticalAlignment":"center","align":"full","style":{"border":{"bottom":{"color":"#dfdcdc","width":"1px"}},"spacing":{"padding":{"bottom":"20px"}}}} -->
+<div class="wp-block-columns alignfull are-vertically-aligned-center" style="border-bottom-color:#dfdcdc;border-bottom-width:1px;padding-bottom:20px"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"textAlign":"left","style":{"color":{"text":"#165a0b"},"elements":{"link":{"color":{"text":"#165a0b"}}},"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"1.5rem"}},"fontFamily":"young-serif-regular","extendedSettings":{"prompt":"Please now create the areas of work section of the blog homepage. This section should display the areas of work we cover. First please just create and return the title of the areas of work section with up to three words."}} -->
 <h2 class="wp-block-heading has-text-align-left has-text-color has-link-color has-young-serif-regular-font-family" style="color:#165a0b;font-size:1.5rem;font-style:normal;font-weight:500">All Products</h2>
 <!-- /wp:heading --></div>
@@ -142,5 +141,4 @@
 <!-- /wp:query --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
+<!-- /wp:columns -->

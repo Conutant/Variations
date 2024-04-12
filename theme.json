@@ -17,6 +17,13 @@
 			"title": "Archive Product"
 		},
 		{
+			"name": "woocommerce-greeni",
+			"postTypes": [
+				"page"
+			],
+			"title": "Greeni"
+		},
+		{
 			"name": "blog-blank",
 			"postTypes": [
 				"page"
@@ -28,21 +35,21 @@
 			"postTypes": [
 				"page"
 			],
-			"title": "Blog Old 1"
+			"title": "Blog 5"
 		},
 		{
 			"name": "blog-island-two",
 			"postTypes": [
 				"page"
 			],
-			"title": "Blog Old 2"
+			"title": "Blog 6"
 		},
 		{
 			"name": "blog-island-three",
 			"postTypes": [
 				"page"
 			],
-			"title": "Blog Old 3"
+			"title": "Blog 7"
 		},
 		{
 			"name": "blog-island-four",
