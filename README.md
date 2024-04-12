@@ -23,6 +23,7 @@ Variations is compatible with wordpress.org/patterns, giving you the ability to 
 = 4.1.0 =
 * - Added YoungSerif-Regular font.
   - Removed unnecessary templates.
+  - Improved blog templates.
   - Added more WooCommerce changes.
 
 = 4.0.3 =
