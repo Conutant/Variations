@@ -1551,10 +1551,6 @@ div.product form.cart .variations select,
     padding: 12px;
 }
 
-.woocommerce-cart .is-style-greeni-style .wc-block-cart-item__image a {
-    justify-content: flex-start;
-}
-
 .woocommerce-cart .is-style-greeni-style .wc-block-cart-item__image a img {
     width: 104px;
     height: auto;
@@ -1581,6 +1577,178 @@ div.product form.cart .variations select,
 
 .woocommerce-cart .is-style-greeni-style .wc-block-components-formatted-money-amount {
     color: #000;
+}
+
+.woocommerce-cart .is-style-greeni-style table.wc-block-cart-items {
+    border: 1px solid #E5E5E5;
+}
+
+.woocommerce-cart .is-style-greeni-style .is-large.wc-block-cart .wc-block-cart-items td:last-child
+{
+    padding-right: 16px;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-cart-item__total-price-and-sale-badge-wrapper {
+    align-items: center;
+}
+
+.woocommerce-cart .is-style-greeni-style .wp-block-woocommerce-cart-order-summary-block {
+    border: 1px solid #E5E5E5;
+    padding: 0;
+}
+
+.woocommerce-cart .is-style-greeni-style .is-large.wc-block-cart .wc-block-cart__totals-title {
+    background-color: #F5F5F5;
+    padding: 15px 24px;
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-components-totals-wrapper {
+    margin: 0px 24px;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-components-totals-wrapper.wp-block-woocommerce-cart-order-summary-coupon-form-block {
+    border: none;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-cart__submit-container .wc-block-cart__submit-button {
+    margin-top: 25px;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-components-totals-coupon__input label {
+    top: -1px;
+    left: 15px;
+}
+
+.woocommerce-cart .is-style-greeni-style span.wc-block-components-totals-item__label, .woocommerce-cart .wc-block-components-totals-item__value {
+    text-transform: none;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-components-shipping-calculator-address .wc-block-components-address-form label {
+    left: 15px;
+    top: 2px;
+}
+
+.woocommerce-cart .is-style-greeni-style .is-large.wc-block-cart .wc-block-components-sidebar .wc-block-components-shipping-calculator {
+    padding: 20px 0px;
+}
+
+.woocommerce-cart span.wc-block-components-totals-item__label, .woocommerce-cart .wc-block-components-totals-item__value {
+    color: #000000;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-cart-items tbody tr {
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-cart-items tbody tr:last-child {
+    border-bottom: none;
+}
+
+.woocommerce-cart .is-style-greeni-style table.wc-block-cart-items .wc-block-cart-items__row .wc-block-components-product-name {
+    font-weight: bold;
+}
+
+/*
+* Checkout.
+*/
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-title.wc-block-components-title {
+    color: #115A0B;
+    font-size: 1.5rem;
+    font-family: "Young Serif";
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-checkout__form label {
+    left: 15px;
+    top: 2px;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-title.wc-block-components-title:after {
+    display: none;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-checkout__add-note .wc-block-components-textarea {
+    resize: vertical;
+    border-radius: 40px;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-sidebar {
+    padding: 0;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-sidebar:before {
+    display: none;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wp-block-woocommerce-checkout-order-summary-block {
+    border: 1px solid #E5E5E5;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-totals-wrapper {
+    margin: 0 20px;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-sidebar .wc-block-components-panel {
+    padding: 0;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-panel__button .wc-block-components-order-summary__button-text {
+    color: #115A0B;
+    font-size: 1.5rem;
+    font-family: "Young Serif";
+}
+
+/* .woocommerce-checkout .is-style-greeni-style .wc-block-components-totals-wrapper {
+    border: none;
+} */
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-checkout__sidebar .wc-block-components-product-name {
+    font-weight: bold;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-order-summary-item__quantity {
+    background-color: #115A0B;
+    border: none;
+}
+
+/* 
+* Inputs
+ */
+.woocommerce-cart .is-style-greeni-style .wc-block-components-totals-coupon__input input[type=text],
+.woocommerce-cart .is-style-greeni-style .wc-block-components-product-badge,
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-totals-coupon__input input {
+    border-radius: 40px;
+    border: 1px solid #115a0b;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-components-shipping-calculator-address .wc-block-components-address-form input {
+    border-radius: 40px;
+    border: 1px solid #115a0b;
+    padding: 12px;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-checkout__form input:not([type=checkbox]),
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-form .wc-block-components-text-input input {
+    border-radius: 40px;
+    border: 1px solid #115a0b;
+    padding: 15px;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-totals-item__label, .woocommerce-checkout .wc-block-components-totals-item__value {
+    text-transform: none;
+}
+
+/*
+* Buttons
+*/
+.woocommerce-cart .is-style-greeni-style .wc-block-components-totals-coupon__form button,
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-totals-coupon__form button,
+.woocommerce-cart .is-style-greeni-style .wc-block-components-shipping-calculator-address button,
+.woocommerce-cart .is-style-greeni-style .wc-block-cart__submit-container .wc-block-cart__submit-button,
+.woocommerce-checkout .is-style-greeni-style .wc-block-checkout__actions_row button {
+    border-radius: 40px;
+    background: #115a0b;
+    text-transform: uppercase;
 }
 
 /*

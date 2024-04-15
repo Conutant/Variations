@@ -8,8 +8,8 @@
  */
 ?>
 <!-- wp:woocommerce/page-content-wrapper {"page":"checkout"} -->
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"44px"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="margin-top:44px"><!-- wp:woocommerce/store-notices /-->
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"44px"}}},"className":"is-style-greeni-style","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-greeni-style" style="margin-top:44px"><!-- wp:woocommerce/store-notices /-->
 
 <!-- wp:post-title {"level":1,"align":"wide","style":{"color":{"text":"#115a0b"},"elements":{"link":{"color":{"text":"#115a0b"}}},"typography":{"fontSize":"4.5rem"}},"fontFamily":"young-serif-regular"} /-->
 
