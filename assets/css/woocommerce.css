@@ -1670,6 +1670,7 @@ div.product form.cart .variations select,
 .woocommerce-checkout .is-style-greeni-style .wc-block-checkout__add-note .wc-block-components-textarea {
     resize: vertical;
     border-radius: 40px;
+    border: 1px solid #D2DDD2;
 }
 
 .woocommerce-checkout .is-style-greeni-style .wc-block-components-sidebar {
@@ -1698,10 +1699,6 @@ div.product form.cart .variations select,
     font-family: "Young Serif";
 }
 
-/* .woocommerce-checkout .is-style-greeni-style .wc-block-components-totals-wrapper {
-    border: none;
-} */
-
 .woocommerce-checkout .is-style-greeni-style .wc-block-checkout__sidebar .wc-block-components-product-name {
     font-weight: bold;
 }
@@ -1711,6 +1708,15 @@ div.product form.cart .variations select,
     border: none;
 }
 
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-sidebar .wc-block-components-totals-coupon,
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-sidebar .wc-block-components-totals-item {
+    padding: 0;
+}
+
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-text-input label {
+    left: 15px;
+}
+
 /* 
 * Inputs
  */
@@ -1718,19 +1724,24 @@ div.product form.cart .variations select,
 .woocommerce-cart .is-style-greeni-style .wc-block-components-product-badge,
 .woocommerce-checkout .is-style-greeni-style .wc-block-components-totals-coupon__input input {
     border-radius: 40px;
-    border: 1px solid #115a0b;
+    border: 1px solid #D2DDD2;
+}
+
+.woocommerce-cart .is-style-greeni-style .wc-block-components-product-badge {
+    border-color: #115a0b;
+    color: #115a0b;
 }
 
 .woocommerce-cart .is-style-greeni-style .wc-block-components-shipping-calculator-address .wc-block-components-address-form input {
     border-radius: 40px;
-    border: 1px solid #115a0b;
+    border: 1px solid #D2DDD2;
     padding: 12px;
 }
 
 .woocommerce-checkout .is-style-greeni-style .wc-block-checkout__form input:not([type=checkbox]),
 .woocommerce-checkout .is-style-greeni-style .wc-block-components-form .wc-block-components-text-input input {
     border-radius: 40px;
-    border: 1px solid #115a0b;
+    border: 1px solid #D2DDD2;
     padding: 15px;
 }
 
@@ -1748,6 +1759,75 @@ div.product form.cart .variations select,
 .woocommerce-checkout .is-style-greeni-style .wc-block-checkout__actions_row button {
     border-radius: 40px;
     background: #115a0b;
+    text-transform: uppercase;
+}
+
+/*
+* Mini cart
+*/
+.mini-cart-contents-is-style-greeni-style .wp-block-woocommerce-mini-cart-title-label-block {
+    color: #165a0b;
+    font-size: 1.5rem;
+    font-family: "Young Serif";
+}
+
+.mini-cart-contents-is-style-greeni-style .wp-block-woocommerce-mini-cart-title-items-counter-block {
+    font-size: 1.5rem;
+}
+
+.mini-cart-contents-is-style-greeni-style .wc-block-components-product-name {
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+.mini-cart-contents-is-style-greeni-style .wc-block-cart-item__quantity input {
+    border-radius: 0;
+    height: 34px;
+    padding: 0;
+    border-left: 1px solid #D2DDD2;
+    border-right: 1px solid #D2DDD2;
+}
+
+.mini-cart-contents-is-style-greeni-style .wc-block-components-product-badge {
+    border-color: #115a0b;
+    color: #115a0b;
+    border-radius: 40px;
+    opacity: .7;
+    font-weight: 700;
+    font-size: 0.95rem;
+}
+
+.mini-cart-contents-is-style-greeni-style .wc-block-components-product-badge .wc-block-components-formatted-money-amount {
+    color: #000;
+}
+
+.mini-cart-contents-is-style-greeni-style table.wc-block-cart-items tbody tr {
+    border-bottom: 1px solid #D2DDD2;
+}
+
+.mini-cart-contents-is-style-greeni-style table.wc-block-cart-items tbody tr:last-child {
+    border-bottom: none;
+}
+
+.mini-cart-contents-is-style-greeni-style .wp-block-woocommerce-mini-cart-cart-button-block {
+    border-radius: 40px;
+    border: 1px solid #115a0b;
+    color: #115a0b;
+    text-transform: uppercase;
+}
+
+.mini-cart-contents-is-style-greeni-style .wc-block-components-button:not(.is-link).outlined:hover {
+    background: #115a0b;
+    color: #ffffff;
+    order: none;
+}
+
+.mini-cart-contents-is-style-greeni-style .wp-block-woocommerce-mini-cart-checkout-button-block {
+    border: 1px solid #115a0b;
+    background-color: #115a0b;
+    color: #ffffff;
+    border-radius: 40px;
     text-transform: uppercase;
 }
 
