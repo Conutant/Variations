@@ -116,8 +116,15 @@ License URL: http://scripts.sil.org/OFL
 Source: https://rsms.me/
 -- End of Inter Font credits --
 
+Young Serif Font
+Copyright 2023 The Young Serif Project Authors (https://github.com/noirblancrouge/YoungSerif)
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
+Source: https://fonts.google.com/specimen/Young+Serif
+-- End of Young Serif Font credits --
+
 Images
-Earth and Island patterns:
 Copyright 2024 Tyler Moore
 
 All images in this theme are licensed under the GPLv2 license. This means that you are free to use, modify, and distribute them as you wish.
