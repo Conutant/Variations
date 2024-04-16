@@ -3,6 +3,13 @@
 	"version": 2,
 	"customTemplates": [
 		{
+			"name": "websites-greeni",
+			"postTypes": [
+				"page"
+			],
+			"title": "Header/Footer: Greeni"
+		},
+		{
 			"name": "single-product",
 			"postTypes": [
 				"single-product"
@@ -15,13 +22,6 @@
 				"archive-product"
 			],
 			"title": "Archive Product"
-		},
-		{
-			"name": "woocommerce-greeni",
-			"postTypes": [
-				"page"
-			],
-			"title": "Greeni"
 		},
 		{
 			"name": "blog-blank",
