@@ -19,7 +19,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","width":"70%","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0px"}}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:70%"><!-- wp:group {"style":{"spacing":{"blockGap":"30px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
-<div class="wp-block-group"><!-- wp:navigation {"ref":1121,"textColor":"white","icon":"menu","overlayTextColor":"black","layout":{"type":"flex","justifyContent":"center"},"style":{"typography":{"fontSize":"18px"},"spacing":{"blockGap":"30px"}}} /-->
+<div class="wp-block-group"><!-- wp:navigation {"textColor":"white","icon":"menu","overlayTextColor":"black","layout":{"type":"flex","justifyContent":"center"},"style":{"typography":{"fontSize":"18px"},"spacing":{"blockGap":"30px"}}} /-->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","flexWrap":"nowrap"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"style":{"spacing":{"padding":{"left":"25px","right":"25px","top":"12px","bottom":"12px"}},"border":{"width":"0px","style":"none","radius":"0px"},"typography":{"fontSize":"20px","lineHeight":"1","textTransform":"uppercase","letterSpacing":"1px"},"color":{"text":"#000000","background":"#ffffff"}},"className":"is-style-outline"} -->

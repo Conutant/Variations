@@ -31,27 +31,6 @@
 			"title": "Blog Blank"
 		},
 		{
-			"name": "blog-island-one",
-			"postTypes": [
-				"page"
-			],
-			"title": "Blog 5"
-		},
-		{
-			"name": "blog-island-two",
-			"postTypes": [
-				"page"
-			],
-			"title": "Blog 6"
-		},
-		{
-			"name": "blog-island-three",
-			"postTypes": [
-				"page"
-			],
-			"title": "Blog 7"
-		},
-		{
 			"name": "blog-island-four",
 			"postTypes": [
 				"page"
@@ -78,13 +57,6 @@
 				"page"
 			],
 			"title": "Blog 4"
-		},		
-		{
-			"name": "blog-surf-one",
-			"postTypes": [
-				"page"
-			],
-			"title": "Blog Surf 1"
 		},
 		{
 			"name": "websites-blog",

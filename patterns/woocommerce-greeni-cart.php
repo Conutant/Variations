@@ -14,7 +14,7 @@
 
 <!-- wp:post-title {"level":1,"align":"wide","style":{"color":{"text":"#115a0b"},"elements":{"link":{"color":{"text":"#115a0b"}}},"typography":{"fontSize":"4.5rem"}},"fontFamily":"young-serif-regular"} /-->
 
-<!-- wp:post-content {"align":"wide"} /--></div>
+<!-- wp:post-content {"align":"wide","className":"is-style-greeni-content"} /--></div>
 <!-- /wp:group -->
 <!-- /wp:woocommerce/page-content-wrapper --></div>
 <!-- /wp:group -->
