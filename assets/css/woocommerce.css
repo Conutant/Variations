@@ -1604,8 +1604,7 @@ div.product form.cart .variations select,
     border: 1px solid #E5E5E5;
 }
 
-.woocommerce-cart .is-style-greeni-style .is-large.wc-block-cart .wc-block-cart-items td:last-child
-{
+.woocommerce-cart .is-style-greeni-style .is-large.wc-block-cart .wc-block-cart-items td:last-child {
     padding-right: 16px;
 }
 
@@ -1642,7 +1641,8 @@ div.product form.cart .variations select,
     left: 15px;
 }
 
-.woocommerce-cart .is-style-greeni-style span.wc-block-components-totals-item__label, .woocommerce-cart .wc-block-components-totals-item__value {
+.woocommerce-cart .is-style-greeni-style span.wc-block-components-totals-item__label,
+.woocommerce-cart .wc-block-components-totals-item__value {
     text-transform: none;
 }
 
@@ -1655,7 +1655,8 @@ div.product form.cart .variations select,
     padding: 20px 0px;
 }
 
-.woocommerce-cart span.wc-block-components-totals-item__label, .woocommerce-cart .wc-block-components-totals-item__value {
+.woocommerce-cart span.wc-block-components-totals-item__label,
+.woocommerce-cart .wc-block-components-totals-item__value {
     /* color: #000000; */
     color: inherit;
 }
@@ -1768,7 +1769,8 @@ div.product form.cart .variations select,
     padding: 15px;
 }
 
-.woocommerce-checkout .is-style-greeni-style .wc-block-components-totals-item__label, .woocommerce-checkout .wc-block-components-totals-item__value {
+.woocommerce-checkout .is-style-greeni-style .wc-block-components-totals-item__label,
+.woocommerce-checkout .wc-block-components-totals-item__value {
     text-transform: none;
 }
 
@@ -1858,10 +1860,6 @@ div.product form.cart .variations select,
 /*
 * My Account.
 */
-body.page-template-websites-greeni:not(.logged-in) .wp-block-post-title {
-    display: none;
-}
-
 .page-template-websites-greeni.woocommerce-account .woocommerce-MyAccount-navigation-link--dashboard a:before {
     content: "\f538";
 }
@@ -1890,6 +1888,7 @@ body.page-template-websites-greeni:not(.logged-in) .wp-block-post-title {
     top: 24px;
     font-size: 18px;
 }
+
 .page-template-websites-greeni.woocommerce-account .woocommerce-MyAccount-navigation .is-active a:before,
 .page-template-websites-greeni.woocommerce-account .woocommerce-MyAccount-navigation a:hover:before {
     color: #165A0B;
@@ -1902,7 +1901,7 @@ body.page-template-websites-greeni:not(.logged-in) .wp-block-post-title {
 .page-template-websites-greeni.woocommerce-account .woocommerce h2 {
     color: #115a0b;
     font-family: "Young Serif";
-    font-size: 4.5rem;
+    font-size: 4rem;
 }
 
 .page-template-websites-greeni.woocommerce-account .woocommerce input {
@@ -1929,6 +1928,18 @@ body.page-template-websites-greeni:not(.logged-in) .wp-block-post-title {
 .page-template-websites-greeni.woocommerce-account .select2-container .select2-selection {
     border-radius: 40px;
     font-size: 1.2rem;
+}
+
+body.page-template-websites-greeni:not(.logged-in) .wp-block-post-title {
+    display: none;
+}
+
+body.page-template-websites-greeni:not(.logged-in) .woocommerce {
+    padding-top: 0;
+}
+
+body.page-template-websites-greeni:not(.logged-in) .woocommerce>h2 {
+    margin-top: 0;
 }
 
 /*
