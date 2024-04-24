@@ -31,7 +31,7 @@ if (!function_exists('variations_frontend_assets')) {
          * */
         wp_enqueue_style(
             'variations-woocommerce-style',
-            get_template_directory_uri() . '/assets/css/woocommerce.css',
+            get_template_directory_uri() . '/assets/woocommerce/index.css',
             array('variations-frontend-style', 'woocommerce-blocktheme', 'woocommerce-general'),
             VARIATIONS_THEME_VERSION
         );
@@ -92,7 +92,7 @@ if (!function_exists('variations_editor_assets')) {
                  * */
                 wp_enqueue_style(
                     'variations-woocommerce-style',
-                    get_template_directory_uri() . '/assets/css/woocommerce.css',
+                    get_template_directory_uri() . '/assets/woocommerce/index.css',
                     array('woocommerce-blocktheme', 'woocommerce-smallscreen', 'woocommerce-general'),
                     VARIATIONS_THEME_VERSION
                 );
@@ -102,7 +102,7 @@ if (!function_exists('variations_editor_assets')) {
                  * */
                 wp_enqueue_script(
                     'variations-woocommerce-editor-script',
-                    get_template_directory_uri() . '/assets/js/woocommerce-editor.js',
+                    get_template_directory_uri() . '/assets/woocommerce/index.js',
                     array('wp-blocks'),
                     VARIATIONS_THEME_VERSION
                 );

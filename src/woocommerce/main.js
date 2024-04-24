@@ -1,7 +1,11 @@
 /**
- * This file contains JavaScript for the WooCommerce editor part
+ * This file contains scripts and styles that will be minified.
+ *
+ * @package Variations
  *
  */
+ 
+import './assets/css/woocommerce.css'
 
 /** woocommerce/price-filter style */
 wp.blocks.registerBlockStyle('woocommerce/price-filter',
