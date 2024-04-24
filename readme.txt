@@ -3,7 +3,7 @@ Contributors: Tyler Moore
 Requires at least: 6.0
 Tested up to: 6.5
 Requires PHP: 5.7
-Stable tag: 4.2.0
+Stable tag: 4.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,6 +17,11 @@ With Variations you can control your header, footer and every other part of your
 Variations is compatible with wordpress.org/patterns, giving you the ability to mix and match patterns to create millions of different websites. 
 
 == Changelog ==
+
+= 4.2.1 =
+* - Fixed blog category header issue.
+  - Improved single post template.
+  - Minified WooCommerce scripts and styles.
 
 = 4.2.0 =
 * - Improved blog templates.
