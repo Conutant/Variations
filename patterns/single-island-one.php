@@ -18,10 +18,6 @@
 
 <!-- wp:post-excerpt {"style":{"typography":{"fontSize":"1.3rem"},"spacing":{"margin":{"bottom":"30px"}}},"fontFamily":"hedvig-letters-serif-regular"} /-->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"></div>
-<!-- /wp:group -->
-
 <!-- wp:post-date {"textAlign":"left","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"0","right":"0","bottom":"0","left":"0"}},"layout":{"selfStretch":"fit","flexSize":null},"typography":{"fontSize":"16px"}},"textColor":"dark"} /-->
 
 <!-- wp:separator {"style":{"spacing":{"margin":{"top":"40px","bottom":"50px"}},"color":{"background":"#edecec"}},"className":"is-style-wide"} -->
