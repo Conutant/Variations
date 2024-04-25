@@ -6,7 +6,8 @@
          */
         window.variationsMenuManager = window.variationsMenuManager || {
 
-            subMenuElements: '.wp-block-navigation-submenu__toggle, .wp-block-navigation-item.has-child > a',
+            subMenuOpenButton: '.wp-block-navigation-submenu__toggle',
+            subMenuElements: '.wp-block-navigation-item.has-child > a',
             menuLinks: '.wp-block-navigation a',
             closeButton: '.wp-block-navigation__responsive-container-close',
 
@@ -28,11 +29,31 @@
 
             bindToggleSubMenu: function () {
 
+                // click on <a>
                 $(this.subMenuElements).on('click', function (e) {
 
                     if ($(window).width() <= 767) {
 
                         e.preventDefault();
+
+                        // check if there is an open button
+                        if ($(this).parent().find('button').length === 0) {
+
+                            $(this).parent().children('ul').slideToggle('fast');
+                        } else {
+
+                            window.location.href = $(this).attr('href');
+                        }
+                    }
+                });
+
+                // click on <button>
+                $(this.subMenuOpenButton).on('click', function (e) {
+
+                    if ($(window).width() <= 767) {
+
+                        e.preventDefault();
+
                         $(this).parent().children('ul').slideToggle('fast');
                     }
                 });
@@ -67,6 +88,7 @@
                 if (window_width < 768) {
 
                     $(this.header).removeClass(this.cleanClass);
+                    
                     return;
                 }
 
@@ -79,7 +101,6 @@
 
                     $(this.header).removeClass(this.cleanClass);
                 }
-
             },
 
             init: function () {
@@ -98,6 +119,5 @@
         }
 
         variationsManageStickyHeader.init();
-
     });
 })(jQuery);
