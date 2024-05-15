@@ -24,3 +24,9 @@ header.has-child-selected .is-position-sticky {
 /* header:hover {
     background-color: rgb(255, 255, 255);
 } */
+
+/* editor padding */
+.edit-post-visual-editor .is-root-container.wp-block-post-content:not(.has-global-padding) {
+    padding-right: var(--wp--style--root--padding-right);
+    padding-left: var(--wp--style--root--padding-left);
+}
