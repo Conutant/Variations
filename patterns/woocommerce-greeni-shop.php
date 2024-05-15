@@ -8,8 +8,10 @@
  * Block Types: core/query
  */
 ?>
-<!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/greeni/greeni-hero.jpg","id":20871,"dimRatio":0,"customOverlayColor":"#dadddc","isUserOverlayColor":true,"focalPoint":{"x":0.5,"y":0.51},"minHeight":30,"minHeightUnit":"rem","contentPosition":"center center","isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"2%"}}},"layout":{"type":"constrained","contentSize":"1140px"}} -->
-<div class="wp-block-cover alignfull is-light" style="padding-top:2%;min-height:30rem"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#dadddc"></span><img class="wp-block-cover__image-background wp-image-20871" alt="" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/greeni/greeni-hero.jpg" style="object-position:50% 51%" data-object-fit="cover" data-object-position="50% 51%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"dimensions":{"minHeight":"0px"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left","verticalAlignment":"center"}} -->
+<!-- wp:cover {"customOverlayColor":"#f9f9fa","isUserOverlayColor":true,"isDark":false,"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#f9f9fa"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","right":"0rem","bottom":"0","left":"0rem"},"margin":{"top":"0","bottom":"0"},"blockGap":{"top":"0","left":"0"}}}} -->
+<div class="wp-block-columns" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0rem;padding-bottom:0;padding-left:0rem"><!-- wp:column {"verticalAlignment":"center","width":"45%","style":{"spacing":{"padding":{"right":"1rem","left":"1rem","top":"4rem","bottom":"4rem"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:4rem;padding-right:1rem;padding-bottom:4rem;padding-left:1rem;flex-basis:45%"><!-- wp:group {"align":"wide","style":{"dimensions":{"minHeight":"0px"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left","verticalAlignment":"center"}} -->
 <div class="wp-block-group alignwide" style="min-height:0px"><!-- wp:group {"style":{"spacing":{"blockGap":""}},"layout":{"type":"constrained","contentSize":"500px"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"constrained","contentSize":"500px","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.3","letterSpacing":"1.5px","fontSize":"1.26rem","textTransform":"uppercase"},"spacing":{"margin":{"bottom":"1.01rem"}},"color":{"text":"#165a0b"}},"fontFamily":"inter","extendedSettings":{"prompt":"Please create the first headline for the homepage. This will be the first thing any new visitor will see. It should show the main value proposition. It should be no more than three words."}} -->
@@ -21,7 +23,15 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
-<!-- /wp:group --></div></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":"55%","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}}} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:55%"><!-- wp:image {"id":18412,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/greeni/hero-image.png" alt="" class="wp-image-18412"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
 <!-- /wp:cover -->
 
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"50px","left":"50px"},"padding":{"top":"80px","right":"30px","bottom":"50px","left":"30px"}}}} -->

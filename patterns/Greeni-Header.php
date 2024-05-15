@@ -20,10 +20,6 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:buttons {"style":{"spacing":{"blockGap":"14px"}}} -->
 <div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"width":"0px","style":"none"},"spacing":{"padding":{"left":"0px","right":"0px","top":"0px","bottom":"0px"}},"typography":{"lineHeight":"0"}},"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline" style="line-height:0"><a class="wp-block-button__link wp-element-button" href="#" style="border-style:none;border-width:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><img class="wp-image-20868" style="width: 24px;" src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/greeni/search.svg" alt=""></a></div>
-<!-- /wp:button -->
-
-<!-- wp:button {"style":{"border":{"width":"0px","style":"none"},"spacing":{"padding":{"left":"0px","right":"0px","top":"0px","bottom":"0px"}},"typography":{"lineHeight":"0"}},"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline" style="line-height:0"><a class="wp-block-button__link wp-element-button" href="/my-account" style="border-style:none;border-width:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><img class="wp-image-20869" style="width: 24px;" src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/greeni/user.svg" alt=""></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
