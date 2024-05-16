@@ -17,6 +17,14 @@ if (!function_exists('variations_register_pattern_categories')) {
     {
 
         /**
+         * Register "blogcategory" Block Pattern Category.
+         */
+        register_block_pattern_category(
+            'blogcategory',
+            array('label' => __('Blog Categories', 'variations'))
+        );
+
+        /**
          * Register "homepage" Block Pattern Category.
          */
         register_block_pattern_category(
