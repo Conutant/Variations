@@ -21,6 +21,7 @@ Variations is compatible with wordpress.org/patterns, giving you the ability to 
 = 4.3.0 =
 * - Improved WooCommerce Tags style.
   - Customized order confirmation page.
+  - Fixed small issues on Blog templates.
 
 = 4.2.5 =
 * - Blog templates changed.
