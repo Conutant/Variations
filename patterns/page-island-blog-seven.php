@@ -25,8 +25,8 @@
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"constrained","contentSize":"1200px"}} -->
-<div class="wp-block-group alignfull"><!-- wp:group {"style":{"spacing":{"padding":{"top":"50px"}}},"layout":{"type":"default"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0px","padding":{"right":"2.01rem","left":"2.01rem"}}},"layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignfull" style="padding-right:2.01rem;padding-left:2.01rem"><!-- wp:group {"style":{"spacing":{"padding":{"top":"50px"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-group" style="padding-top:50px"><!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false} -->
 <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"color":{"text":"#242925"},"elements":{"link":{"color":{"text":"#242925"}}},"typography":{"fontSize":"2.5rem"},"spacing":{"margin":{"bottom":"0px"}}},"fontFamily":"hedvig-letters-serif-regular"} -->
@@ -132,7 +132,7 @@
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:query {"queryId":12,"query":{"perPage":"9","pages":0,"offset":"6","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":{"category":[]}},"layout":{"type":"default"}} -->
+<!-- wp:query {"queryId":12,"query":{"perPage":"9","pages":0,"offset":"","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":{"category":[]}},"layout":{"type":"default"}} -->
 <div class="wp-block-query"><!-- wp:post-template {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"grid","columnCount":1}} -->
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"40px","left":"40px"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"width":"390px"} -->
