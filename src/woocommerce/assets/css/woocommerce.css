@@ -1483,7 +1483,8 @@ div.product form.cart .variations select,
  * woocommerce/product-meta
  */
 .is-style-greeni-style.wp-block-woocommerce-product-meta strong.sku,
-.is-style-greeni-style.wp-block-woocommerce-product-meta .taxonomy-product_cat a {
+.is-style-greeni-style.wp-block-woocommerce-product-meta .taxonomy-product_cat a,
+.is-style-greeni-style.wp-block-woocommerce-product-meta .taxonomy-product_tag a {
     color: #9A9A9A;
 }
 
