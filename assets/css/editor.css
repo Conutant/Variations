@@ -21,12 +21,15 @@ header.has-child-selected .is-position-sticky {
     background-color: rgb(128 128 128 / 13%);
 }
 
-/* header:hover {
-    background-color: rgb(255, 255, 255);
-} */
-
 /* editor padding */
 .edit-post-visual-editor .is-root-container.wp-block-post-content:not(.has-global-padding) {
     padding-right: var(--wp--style--root--padding-right);
     padding-left: var(--wp--style--root--padding-left);
+}
+
+/* Button style outline */
+.editor-styles-wrapper .wp-block-button.is-style-outline .wp-block-button__link {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 2px;
 }
