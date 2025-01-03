@@ -1484,6 +1484,7 @@ div.product form.cart .variations select,
     background: #165A0B;
     width: 100%;
     height: fit-content;
+    color: #ffffff;
 }
 
 /*
@@ -1526,6 +1527,10 @@ div.product form.cart .variations select,
     border-radius: 40px;
     padding-left: 20px;
     margin-right: 1rem;
+}
+
+.single-product .wp-site-blocks .is-style-greeni-style.wp-block-add-to-cart-form .quantity input[type=number].qty {
+    max-height: 50px;
 }
 
 .woocommerce .wp-block-woocommerce-product-image-gallery.is-style-greeni-style {
@@ -1649,6 +1654,7 @@ div.product form.cart .variations select,
 
 .woocommerce-cart .is-style-greeni-style .wc-block-cart__submit-container .wc-block-cart__submit-button {
     margin-top: 25px;
+    color: #ffffff;
 }
 
 .woocommerce-cart .is-style-greeni-style .wc-block-components-totals-coupon__input label {
